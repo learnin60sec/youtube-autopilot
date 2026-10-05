@@ -1,0 +1,57 @@
+# Runs the YouTube autopilot every night in the cloud (laptop not needed).
+name: YouTube Daily
+
+on:
+  schedule:
+    - cron: "0 16 * * *"        # 16:00 UTC = 9:30 PM India time
+  workflow_dispatch:             # "Run workflow" button for a manual run
+
+permissions:
+  contents: write                # lets the run save plans/logs back to the repo
+
+concurrency:
+  group: youtube-daily
+  cancel-in-progress: false      # never run two at the same time
+
+jobs:
+  autopilot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install libraries
+        run: pip install -r requirements.txt
+
+      - name: Write login files from secrets
+        env:
+          TOKEN_JSON: ${{ secrets.TOKEN_JSON }}
+          CLIENT_SECRET_JSON: ${{ secrets.CLIENT_SECRET_JSON }}
+        run: |
+          printf '%s' "$TOKEN_JSON" > token.json
+          printf '%s' "$CLIENT_SECRET_JSON" > client_secret.json
+
+      - name: Run autopilot
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          TZ: Asia/Kolkata         # so Mon/Wed/Fri long-video days use India time
+        run: python run_daily.py
+
+      - name: Save progress (plans, logs, reports)
+        if: always()
+        run: |
+          rm -f token.json client_secret.json
+          git config user.name "youtube-autopilot"
+          git config user.email "autopilot@users.noreply.github.com"
+          git add -A
+          git commit -m "Daily run $(date +%F)" || echo "Nothing new to save"
+          git pull --rebase || true
+          git push
