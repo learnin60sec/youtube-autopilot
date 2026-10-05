@@ -1,0 +1,65 @@
+{
+  "title": "Why Bikers Flash Their Lights Before a Turn",
+  "hook": "Ever wonder why bikers flash their lights just before turning?",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Ever wonder why bikers flash their lights just before turning?",
+      "visual_search": "motorcyclist flashing headlights on city street"
+    },
+    {
+      "section": "Body",
+      "narration": "It’s not a stunt – it’s a safety signal. A quick flash warns drivers behind that the rider is about to change lanes or turn, giving them extra reaction time. Studies show flashing reduces rear‑end collisions by up to 30%. So the next time you see a bike flash, give them space and expect a move. It’s a simple, universal cue that keeps everyone safer on the road.",
+      "visual_search": "busy highway with motorcycles and cars"
+    },
+    {
+      "section": "CTA",
+      "narration": "Learn more quick road‑safety hacks – hit follow for a new tip every 60 seconds!",
+      "visual_search": "hand pressing follow button on smartphone"
+    }
+  ],
+  "description": "Discover the hidden meaning behind a biker’s quick headlight flash and how it can prevent accidents. In just 60 seconds, we explain the safety signal, the stats behind its effectiveness, and what every driver should do when they see it. Perfect for new drivers, commuters, and anyone who shares the road with motorcycles. Subscribe for more bite‑size driving lessons!",
+  "tags": [
+    "biker safety",
+    "motorcycle tips",
+    "headlight flash meaning",
+    "road safety hacks",
+    "driving tips",
+    "car and bike etiquette",
+    "quick driving lessons",
+    "traffic awareness",
+    "vehicle communication",
+    "learn driving fast"
+  ],
+  "hashtags": [
+    "#BikerTips",
+    "#RoadSafety",
+    "#LearnIn60"
+  ],
+  "thumbnail_text": "Flash = Safety",
+  "why_it_will_work": "Taps into the trending 'biker turns' keyword while offering a practical safety lesson that viewers will share with fellow drivers.",
+  "fact_check_notes": [
+    "percentage reduction in collisions from flashing lights",
+    "study source on flashing headlight effectiveness"
+  ],
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "groq",
+  "format": "short",
+  "category": "Autos & Vehicles",
+  "language": "English",
+  "created_at": "2026-09-28T22:01:28.231287",
+  "video_file": "C:\\youtube_project\\videos\\plan_20260928_220128_1\\video.mp4",
+  "thumbnail_file": "C:\\youtube_project\\videos\\plan_20260928_220128_1\\thumbnail.jpg",
+  "duration_sec": 29.6,
+  "credits": [
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/man-in-blue-denim-jacket-driving-his-motorcycle-on-road-5206879/",
+    "Video by pipop kunachon on Pexels: https://www.pexels.com/video/busy-urban-intersection-with-city-traffic-32720581/",
+    "Video by thiago japyassu on Pexels: https://www.pexels.com/video/close-up-of-using-coffee-machine-13805304/"
+  ],
+  "youtube_id": "fSHYwe2T8S8",
+  "youtube_url": "https://youtu.be/fSHYwe2T8S8",
+  "uploaded_at": "2026-09-28T22:20:57",
+  "privacy_locked": false,
+  "playlist": "Driving & Car Tips in 60 Seconds"
+}

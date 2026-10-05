@@ -1,0 +1,63 @@
+{
+  "title": "What Happens If You Don't Sleep",
+  "hook": "Ever wonder why staying up all night completely ruins your focus the next day?",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "Ever wonder why staying up all night completely ruins your focus the next day? Sleep isn't just a time when your body turns off and rests. It is actually an active, vital maintenance phase that your brain desperately needs to function. Today, we are breaking down the exact science of what happens if you don't sleep, and why pulling that all-nighter is doing more damage than you think. And near the end, we will reveal the exact mechanism your brain uses to clean itself while you snooze. But first, let's look at the immediate timeline of sleep deprivation.",
+      "visual_search": "person looking tired at desk at night"
+    },
+    {
+      "section": "The 24-Hour Mark",
+      "narration": "When you hit the 24-hour mark without sleep, your body starts reacting in noticeable ways. Your cognitive performance drops significantly, mimicking a blood alcohol concentration well over the legal driving limit. Hand-eye coordination suffers, reaction times slow down, and your decision-making abilities become impaired. But the next stage surprises most people, because your brain actually tries to compensate for the missing rest by supercharging certain chemicals to keep you awake, making you feel temporarily wired or unusually energetic.",
+      "visual_search": "tired person yawning in office"
+    },
+    {
+      "section": "Brain Function Decline",
+      "narration": "As the hours stretch past a full day, the prefrontal cortex—the area of the brain responsible for logic, impulse control, and complex problem solving—begins to shut down its activity. This is why sleep-deprived individuals experience severe mood swings, irrational irritability, and trouble focusing on even the simplest tasks. If you're learning something new today, hit that subscribe button, it helps our channel grow a lot. Your brain is essentially running on emergency backup power, and the errors start compounding rapidly.",
+      "visual_search": "digital brain scan graphics"
+    },
+    {
+      "section": "The Glymphatic System",
+      "narration": "Now, let's get to the most fascinating part about sleep, which we saved for near the end. When you finally fall into a deep sleep, your brain activates a unique cleaning network called the glymphatic system. During the day, your brain cells are too busy processing information to clean up metabolic waste. Once you fall asleep, your brain cells actually shrink in size, allowing cerebrospinal fluid to rush through the tissue and wash away toxic proteins and cellular debris. Without sleep, that physical trash simply accumulates in your neural pathways.",
+      "visual_search": "glowing brain animation science"
+    },
+    {
+      "section": "Conclusion",
+      "narration": "To recap, skipping sleep is far more than just feeling tired tomorrow; it impairs your judgment like alcohol and blocks your brain's vital nightly cleaning cycle. What is the longest you have ever stayed awake without sleeping? Let us know in the comments below. If you enjoyed learning this quick fact, check out our other videos on how your body works to keep expanding your knowledge.",
+      "visual_search": "clock ticking fast time lapse"
+    }
+  ],
+  "description": "Discover what happens if you don't sleep and why your brain desperately needs rest to clean itself. Learn the science of sleep deprivation in under 10 minutes. Watch more educational shorts and videos on Learn in 60 Seconds.",
+  "tags": [
+    "sleep deprivation",
+    "what happens if you don't sleep",
+    "how the brain works",
+    "health education",
+    "science facts",
+    "learn in 60 seconds",
+    "lack of sleep effects",
+    "brain cleaning",
+    "glymphatic system",
+    "staying awake 24 hours",
+    "cognitive decline"
+  ],
+  "hashtags": [
+    "#sleep",
+    "#science",
+    "#health"
+  ],
+  "thumbnail_text": "WHAT HAPPENS TO YOUR BRAIN?",
+  "why_it_will_work": "Leverages the high-performing search trend 'what happens if you don't sleep' with an engaging, well-established scientific explanation.",
+  "fact_check_notes": [],
+  "series": null,
+  "status": "draft",
+  "quality_problems": [
+    "script length 412 words (want 900-2000)"
+  ],
+  "ai_provider": "gemini",
+  "format": "long",
+  "category": "Education",
+  "language": "English",
+  "created_at": "2026-09-30T22:28:08.156777"
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Why Your Car Has a Tiny Dot on the Windshield",
+  "hook": "Ever notice that little black ceramic dot matrix right on the edge of your car windshield?",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "Ever notice that little black ceramic dot matrix right on the edge of your car windshield? Most people think it is just a cool design or a random decoration from the factory. But it actually serves a crucial safety purpose that keeps your entire glass from falling out while you drive. By the end of this video, you will never look at your windshield the same way again, and wait until you hear what the black band around the edge is really called.",
+      "visual_search": "close up of car windshield dots"
+    },
+    {
+      "section": "The Secret Paint",
+      "narration": "Those little black dots are actually baked-on ceramic paint, scientifically known as the frit. When your windshield is installed at the factory, a heavy-duty urethane glue is used to bond the glass securely to the metal frame of your car. The black ceramic band provides a rough, textured surface that helps this glue stick much better than it would on smooth glass alone.",
+      "visual_search": "car manufacturing factory windshield installation"
+    },
+    {
+      "section": "Sun Protection",
+      "narration": "There is also a second major reason why this ceramic paint is there. It acts as a UV blocker to protect the underlying urethane glue from direct sunlight. Without this dark border, intense ultraviolet rays would break down and weaken the adhesive over time, causing your windshield to loosen. But the way the dots fade out is the most clever part, and the next detail surprises most people.",
+      "visual_search": "sunlight shining on car windshield"
+    },
+    {
+      "section": "Optical Illusion",
+      "narration": "Have you ever wondered why the dots slowly fade in size instead of stopping at a harsh solid line? That gradual fade-out creates a smoother optical transition for your eyes, preventing harsh glare where the hot metal meets the glass. If you are learning something new today, subscribe, it helps a lot. It also manages the extreme temperature difference between the hot outside frame and the cool interior glass.",
+      "visual_search": "driver view through car windshield sunny day"
+    },
+    {
+      "section": "Windshield Border",
+      "narration": "That solid black border surrounding the dots is called the third sunshade, and it hides the ugly black adhesive blobs from the outside view so your car looks clean and professional. Car manufacturers put a lot of hidden engineering into everyday items, which brings us to our question for the comments: What other mysterious car parts have you always wondered about?",
+      "visual_search": "modern car exterior front view"
+    },
+    {
+      "section": "Recap and Outro",
+      "narration": "To recap, those little black dots on your windshield are actually baked ceramic paint called the frit, designed to grip the adhesive glue, block UV light, and manage temperature changes. If you enjoyed learning this quick automotive secret, make sure to watch our other driving and car tip videos on the channel right now.",
+      "visual_search": "person driving car smiling"
+    }
+  ],
+  "description": "Ever wondered what those little black dots on your car windshield are for? Learn the surprising truth about the windshield frit, ceramic paint, and how it keeps your car safe. Watch more quick educational videos on Learn in 60 Seconds.",
+  "tags": [
+    "car windshield dots",
+    "windshield frit",
+    "car secrets",
+    "why do cars have",
+    "automotive facts",
+    "car design",
+    "windshield black dots",
+    "hidden car features",
+    "learn in 60 seconds",
+    "car tips",
+    "windshield ceramic dots"
+  ],
+  "hashtags": [
+    "#cars",
+    "#windshield",
+    "#facts"
+  ],
+  "thumbnail_text": "WHAT ARE THOSE DOTS?",
+  "why_it_will_work": "Leverages curiosity about everyday objects people see constantly but never understood, matching our successful car-fact style.",
+  "fact_check_notes": [],
+  "series": null,
+  "status": "draft",
+  "quality_problems": [
+    "script length 398 words (want 900-2000)"
+  ],
+  "ai_provider": "gemini",
+  "format": "long",
+  "category": "Education",
+  "language": "English",
+  "created_at": "2026-09-30T22:28:01.546745"
+}

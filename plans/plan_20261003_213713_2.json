@@ -1,0 +1,68 @@
+{
+  "title": "How Your Phone Vibrates Without Making Noise",
+  "hook": "Watch this tiny motor spin inside.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Watch this tiny motor spin inside.",
+      "visual_search": "extreme macro close up of internal smartphone motherboard and tiny components"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Inside every smartphone is an eccentric rotating mass motor. It contains an intentionally off-center heavy weight attached to a tiny spinning shaft. When power applies, the weight spins rapidly, causing the entire device to shake violently.",
+      "visual_search": "animation of small unbalanced weight spinning rapidly inside electronic device"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Like if this helped, follow for daily science. Have you ever wondered how it fits? Watch this...",
+      "visual_search": "smartphone vibrating intensely on wooden desk surface"
+    }
+  ],
+  "description": "Ever wonder how your phone vibrates when you get a text? Discover the clever mechanical secret inside your smartphone that creates silent alerts using physics and an off-center weight.\n\nLearn amazing science and technology facts in under sixty seconds.",
+  "tags": [
+    "how does a phone vibrate",
+    "science facts",
+    "technology explained",
+    "how phones work",
+    "macro lens",
+    "super macro",
+    "internal parts",
+    "physics explained",
+    "learn in 60 seconds",
+    "daily science"
+  ],
+  "hashtags": [
+    "#science",
+    "#technology",
+    "#physics"
+  ],
+  "thumbnail_text": "HOW PHONES VIBRATE",
+  "why_it_will_work": "Answers a high-intent search query with a fascinating physical mechanism, matching our top-performing science and technology educational format.",
+  "fact_check_notes": [],
+  "series": null,
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "category": "Howto & Style",
+  "language": "English",
+  "created_at": "2026-10-03T21:37:16.566880",
+  "video_file": "C:\\youtube_project\\videos\\plan_20261003_213713_2\\video.mp4",
+  "thumbnail_file": "C:\\youtube_project\\videos\\plan_20261003_213713_2\\thumbnail.jpg",
+  "duration_sec": 21.0,
+  "chapters": [],
+  "credits": [
+    "Video by Timur Weber on Pexels: https://www.pexels.com/video/extreme-close-up-of-fizzy-bubbles-8676956/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/close-up-shot-of-a-electronic-motherboard-6755168/",
+    "Video by Google DeepMind on Pexels: https://www.pexels.com/video/an-artist-s-animation-of-artificial-intelligence-ai-this-piece-explores-the-prediction-method-used-in-large-language-models-it-was-created-by-wes-cockx-as-part-of-the-visualising-ai-pr-18069803/",
+    "Video by El Jundi on Pexels: https://www.pexels.com/video/technician-assembling-electronic-device-on-desk-39014670/",
+    "Video by cottonbro CG studio on Pexels: https://www.pexels.com/video/animated-video-of-a-hand-holding-a-smartphone-8819437/",
+    "Video by Airam Dato-on on Pexels: https://www.pexels.com/video/smartphone-with-chatgpt-on-wooden-desk-30718267/",
+    "Video by Helin Gezer on Pexels: https://www.pexels.com/video/person-using-laptop-on-wooden-desk-31830902/"
+  ],
+  "playlist": "Smart How-To Hacks",
+  "youtube_id": "GU_WejgRqD8",
+  "youtube_url": "https://youtu.be/GU_WejgRqD8",
+  "uploaded_at": "2026-10-03T21:42:28",
+  "privacy_locked": false
+}

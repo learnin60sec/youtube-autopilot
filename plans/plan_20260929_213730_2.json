@@ -1,0 +1,68 @@
+{
+  "title": "What Happens If You Swallow Gum",
+  "hook": "Stop believing that swallowed gum stays inside you for years.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop believing that swallowed gum stays inside you for years.",
+      "visual_search": "person chewing bubble gum"
+    },
+    {
+      "section": "Body",
+      "narration": "Your stomach acid cannot break down gum base, but your digestive system is not traps. Powerful muscles simply push the gum through your tract just like any other indigestible fiber. It usually exits your body completely within a few days. Have you ever swallowed a piece? Comment yes or no.",
+      "visual_search": "stomach digestion animation medical"
+    },
+    {
+      "section": "Loop",
+      "narration": "So there is nothing to fear the next time you accidentally...",
+      "visual_search": "person laughing holding candy"
+    }
+  ],
+  "description": "Find out what really happens to your body when you accidentally swallow chewing gum. We debunk the old myth with hard biological facts in under a minute.\n\nSubscribe for more quick educational videos.",
+  "tags": [
+    "what happens if you swallow gum",
+    "digestion myths",
+    "stomach acid",
+    "chewing gum facts",
+    "human body facts",
+    "learn in 60 seconds",
+    "health education",
+    "science shorts",
+    "myth busters",
+    "digestive system",
+    "quick facts"
+  ],
+  "hashtags": [
+    "#health",
+    "#science",
+    "#myth"
+  ],
+  "thumbnail_text": "SWALLOWING GUM TRUTH",
+  "why_it_will_work": "Leverages a common childhood myth and search query, delivering a surprising and accurate answer quickly.",
+  "fact_check_notes": [],
+  "series": null,
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "category": "Education",
+  "language": "English",
+  "created_at": "2026-09-29T21:43:19.483432",
+  "video_file": "C:\\youtube_project\\videos\\plan_20260929_213730_2\\video.mp4",
+  "thumbnail_file": "C:\\youtube_project\\videos\\plan_20260929_213730_2\\thumbnail.jpg",
+  "duration_sec": 22.2,
+  "chapters": [],
+  "credits": [
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/close-up-footage-of-a-man-blowing-a-bubble-gum-6787370/",
+    "Video by Monstera Production on Pexels: https://www.pexels.com/video/vertical-stop-motion-animation-of-a-paper-cutout-getting-medical-treatment-5839010/",
+    "Video by Monstera Production on Pexels: https://www.pexels.com/video/video-of-cutout-a-man-have-bacteria-in-the-stomach-5839080/",
+    "Video by ROCKETMANN TEAM on Pexels: https://www.pexels.com/video/woman-holding-her-stomach-9465540/",
+    "Video by Google DeepMind on Pexels: https://www.pexels.com/video/an-artist-s-animation-of-artificial-intelligence-ai-this-video-depicts-how-ai-tools-can-amplify-bias-and-the-importance-of-research-to-mitigate-these-risks-it-was-created-by-ariel-lu-a-18068664/",
+    "Video by Mikhail Nilov on Pexels: https://www.pexels.com/video/person-holding-candies-8670641/"
+  ],
+  "playlist": "Learn Something New Every Day",
+  "youtube_id": "lW6TOK6PQn8",
+  "youtube_url": "https://youtu.be/lW6TOK6PQn8",
+  "uploaded_at": "2026-09-30T21:36:07",
+  "privacy_locked": false
+}

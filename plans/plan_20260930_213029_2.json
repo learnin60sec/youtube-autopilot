@@ -1,0 +1,73 @@
+{
+  "title": "Your garbage disposal is stuck",
+  "hook": "Stop calling the plumber for jams.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop calling the plumber for jams.",
+      "visual_search": "frustrated person looking under kitchen sink"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Most people think a broken disposal means an expensive repair. But nearly every unit has a hidden reset button right on the bottom that instantly fixes jams.",
+      "visual_search": "hand pressing red reset button under garbage disposal"
+    },
+    {
+      "section": "Engagement",
+      "narration": "Did you know about this button? Comment yes or no.",
+      "visual_search": "person pointing at garbage disposal under sink"
+    },
+    {
+      "section": "Loop",
+      "narration": "Stop calling the plumber for jams when you can just reach underneath and push that switch yourself.",
+      "visual_search": "repair tool near kitchen sink plumbing"
+    }
+  ],
+  "description": "Save money on home repairs by fixing your jammed garbage disposal in seconds. Never pay for a plumber before checking this one button.\n\nSubscribe for more home life hacks.",
+  "tags": [
+    "how to fix garbage disposal",
+    "garbage disposal jammed",
+    "home repair hacks",
+    "plumbing tips",
+    "fix disposal",
+    "kitchen repairs",
+    "diy home repair",
+    "home maintenance",
+    "life hacks for home",
+    "quick fix",
+    "learn in 60 seconds"
+  ],
+  "hashtags": [
+    "#diy",
+    "#homerepair",
+    "#plumbing"
+  ],
+  "thumbnail_text": "HIDDEN BUTTON!",
+  "why_it_will_work": "Leverages high-intent search traffic for home repairs with a surprising fact hook that saves viewers money instantly.",
+  "fact_check_notes": [],
+  "series": null,
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "category": "Howto & Style",
+  "language": "English",
+  "created_at": "2026-09-30T21:30:34.817464",
+  "video_file": "C:\\youtube_project\\videos\\plan_20260930_213029_2\\video.mp4",
+  "thumbnail_file": "C:\\youtube_project\\videos\\plan_20260930_213029_2\\thumbnail.jpg",
+  "duration_sec": 20.2,
+  "chapters": [],
+  "credits": [
+    "Video by Ron Lach on Pexels: https://www.pexels.com/video/a-person-holding-a-kitchen-sink-organizer-10573365/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/woman-making-a-coffee-in-the-kitchen-5674157/",
+    "Video by Anna Tarazevich on Pexels: https://www.pexels.com/video/close-up-shot-of-a-button-puncher-6424073/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/close-up-of-car-start-button-activation-35585186/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/a-person-wearing-orange-uniform-getting-the-blue-garbage-bag-9222682/",
+    "Video by Gary  Barnes on Pexels: https://www.pexels.com/video/droplets-of-water-in-kitchen-sink-6247913/"
+  ],
+  "playlist": "Smart How-To Hacks",
+  "youtube_id": "FHRm3a4jRAk",
+  "youtube_url": "https://youtu.be/FHRm3a4jRAk",
+  "uploaded_at": "2026-09-30T22:29:04",
+  "privacy_locked": false
+}

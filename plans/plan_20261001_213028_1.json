@@ -1,0 +1,83 @@
+{
+  "title": "Stop ruining your cast iron pan (Part 2)",
+  "hook": "Stop soaking your rusted cast iron.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop soaking your rusted cast iron.",
+      "visual_search": "rusty cast iron skillet in sink"
+    },
+    {
+      "section": "Step 1",
+      "narration": "First, scrub off the heavy flakes with steel wool and water.",
+      "visual_search": "scrubbing cast iron pan"
+    },
+    {
+      "section": "Step 2",
+      "narration": "Next, soak it in a fifty-fifty vinegar and water bath for just one hour to dissolve the remaining rust.",
+      "visual_search": "pan soaking in vinegar solution"
+    },
+    {
+      "section": "Step 3",
+      "narration": "Finally, dry it completely on the stove and bake on a thin layer of oil.",
+      "visual_search": "applying oil to hot skillet"
+    },
+    {
+      "section": "Call to action & Loop",
+      "narration": "Like if this helped, follow for daily kitchen tips. Have you ever restored a pan? Comment below to stop soaking your rusted cast iron.",
+      "visual_search": "clean shiny cast iron skillet"
+    }
+  ],
+  "description": "Learn how to easily restore a completely rusted cast iron skillet using common household items like vinegar and oil. Bring your old cookware back to life in just a few simple steps. Follow for more quick kitchen care guides.",
+  "tags": [
+    "cast iron care",
+    "how to clean cast iron",
+    "restore cast iron",
+    "cast iron skillet",
+    "kitchen hacks",
+    "cooking tips",
+    "pan restoration",
+    "vinegar rust removal",
+    "cast iron maintenance",
+    "home hacks",
+    "cleaning tips"
+  ],
+  "hashtags": [
+    "#castiron",
+    "#cleaninghacks",
+    "#kitchentips"
+  ],
+  "thumbnail_text": "RESTORE RUSTY PAN",
+  "why_it_will_work": "Directly follows up on a top-performing channel topic about cast iron care, delivering on a previously promised method using search-driven terms.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Cast Iron Care",
+    "part": 2
+  },
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "category": "Howto & Style",
+  "language": "English",
+  "created_at": "2026-10-01T21:30:29.454011",
+  "video_file": "C:\\youtube_project\\videos\\plan_20261001_213028_1\\video.mp4",
+  "thumbnail_file": "C:\\youtube_project\\videos\\plan_20261001_213028_1\\thumbnail.jpg",
+  "duration_sec": 22.8,
+  "chapters": [],
+  "credits": [
+    "Video by Evgenij Mikhailov on Pexels: https://www.pexels.com/video/sizzling-barbecued-ribs-in-cast-iron-skillet-34228451/",
+    "Video by Evgenij Mikhailov on Pexels: https://www.pexels.com/video/sizzling-steak-cooking-in-cast-iron-pan-34228462/",
+    "Video by Evgenij Mikhailov on Pexels: https://www.pexels.com/video/chef-garnishing-grilled-meat-in-cast-iron-pan-34228455/",
+    "Video by Teona Swift on Pexels: https://www.pexels.com/video/a-person-soaking-cloths-in-colored-liquid-6843764/",
+    "Video by Ron Lach on Pexels: https://www.pexels.com/video/bouquet-of-herbs-submerged-in-soapy-water-9154363/",
+    "Video by Alexander Mass on Pexels: https://www.pexels.com/video/cooking-sausage-and-onions-in-a-skillet-39895894/",
+    "Video by Evgenij Mikhailov on Pexels: https://www.pexels.com/video/delicious-grilled-mushrooms-in-cast-iron-pan-34355144/",
+    "Video by Nadin Sh on Pexels: https://www.pexels.com/video/outdoor-cooking-with-fresh-vegetables-in-skillet-32286889/"
+  ],
+  "playlist": "Smart How-To Hacks",
+  "youtube_id": "ke-pRNVqmc4",
+  "youtube_url": "https://youtu.be/ke-pRNVqmc4",
+  "uploaded_at": "2026-10-01T21:37:23",
+  "privacy_locked": false
+}

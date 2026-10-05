@@ -1,0 +1,74 @@
+{
+  "title": "Why You Shouldn't Keep Receipts in Your Car",
+  "hook": "Ever check your car's glove box and wonder why those receipt papers look completely faded?",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "Ever check your car's glove box and wonder why those receipt papers look completely faded? We've all reached for an old receipt to jot down a quick note, only to find the entire piece of paper completely blank. But what's actually happening to that paper inside your vehicle is wild, and it has a direct connection to your car's safety features that most drivers never realize.",
+      "visual_search": "person opening car glove box searching for papers"
+    },
+    {
+      "section": "The Thermal Paper Secret",
+      "narration": "Most everyday store receipts are not printed with regular printer ink. Instead, they are made from thermal paper. This specialized paper is coated with chemical compounds—specifically a dye and a developer—that change color when they are heated up by the tiny thermal printhead inside the cash register. There is no liquid ink drying on the page at all.",
+      "visual_search": "close up of receipt printer printing at store counter"
+    },
+    {
+      "section": "Why Your Car Erases Them",
+      "narration": "So why do receipts vanish into thin air in your car? Your car acts like a massive greenhouse, especially when it sits parked in the sun. The heat buildup inside the cabin causes a chemical reaction on the thermal coating, turning the paper entirely dark or fading it completely back to blank white. But the next one surprises most people about what else happens to that paper under extreme heat.",
+      "visual_search": "car dashboard baking in bright hot summer sunlight"
+    },
+    {
+      "section": "The Chemical Breakdown",
+      "narration": "When thermal paper is exposed to high temperatures and everyday substances like hand sanitizer or dashboard cleaners commonly found in cars, the chemical coating breaks down permanently. Once the thermal layer is altered by heat, the text is gone forever. There is no trick to bring it back, because the chemical reaction has already finished. If you're learning something, subscribe, it helps a lot.",
+      "visual_search": "hand sanitizer bottle sitting on car center console"
+    },
+    {
+      "section": "The Airbag Safety Warning",
+      "narration": "Now, why does this matter for your car's safety? Many drivers shove thick stacks of receipts, owner manuals, and papers right into the glove compartment or overhead compartments. In a serious collision, loose paper can catch the force of a deploying airbag or block compartments. But keep watching, because the most important reason to clear out your receipts right now involves your personal data.",
+      "visual_search": "modern car steering wheel airbag deployment test"
+    },
+    {
+      "section": "Protecting Your Personal Info",
+      "narration": "The biggest danger of leaving receipts in your car isn't just that they fade—it's that they often display the last four digits of your credit card, your name, and your shopping habits. If someone ever breaks into your car, a glove box full of faded or readable receipts is a goldmine for identity thieves. Clearing them out takes ten seconds and keeps your data safe.",
+      "visual_search": "person shredding confidential documents in office shredder"
+    },
+    {
+      "section": "Outro",
+      "narration": "Do you leave your receipts in the car, or do you throw them away immediately? Let me know in the comments below. If you found this useful, check out our other quick driving tips on the channel, and we will see you next time.",
+      "visual_search": "clean car interior organized dashboard and console"
+    }
+  ],
+  "description": "Ever wonder why your store receipts go completely blank after sitting in your car? It has everything to do with thermal paper chemistry and your car's interior temperature. Learn why keeping receipts in your vehicle might be a bigger risk than you think.\n\nLearn in 60 Seconds brings you quick, useful, and surprising facts about everyday life and driving safety.",
+  "tags": [
+    "thermal paper receipts",
+    "car glove box organization",
+    "why receipts fade",
+    "receipt safety",
+    "car tips and tricks",
+    "learn in 60 seconds",
+    "everyday science",
+    "car interior heat",
+    "identity theft prevention",
+    "driving safety facts",
+    "useful life hacks",
+    "surprising facts"
+  ],
+  "hashtags": [
+    "#cártips",
+    "#science",
+    "#everydayhacks"
+  ],
+  "thumbnail_text": "RECEIPTS FADING IN CAR?",
+  "why_it_will_work": "Leverages the trending interest in car safety and unexpected everyday phenomena, pairing a relatable visual mystery with a practical takeaway.",
+  "fact_check_notes": [],
+  "series": null,
+  "status": "draft",
+  "quality_problems": [
+    "script length 431 words (want 900-2000)"
+  ],
+  "ai_provider": "gemini",
+  "format": "long",
+  "category": "Education",
+  "language": "English",
+  "created_at": "2026-09-30T22:27:53.947731"
+}

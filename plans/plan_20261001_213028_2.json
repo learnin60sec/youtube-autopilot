@@ -1,0 +1,75 @@
+{
+  "title": "Why Your Phone Dies So Fast",
+  "hook": "Never leave background app refresh on.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never leave background app refresh on.",
+      "visual_search": "person looking at smartphone screen"
+    },
+    {
+      "section": "Mistake 1",
+      "narration": "First, letting dozens of apps update silently drains your battery all day long.",
+      "visual_search": "smartphone battery low warning"
+    },
+    {
+      "section": "Mistake 2",
+      "narration": "Second, keeping your screen brightness at maximum constantly overworks the display.",
+      "visual_search": "adjusting screen brightness settings"
+    },
+    {
+      "section": "Mistake 3 and Fix",
+      "narration": "Third, leaving location services set to always track every app wastes massive power. Turn these off now.",
+      "visual_search": "phone settings menu tapping"
+    },
+    {
+      "section": "Call to action & Loop",
+      "narration": "Like if this helped, follow for tech tips. Did your battery last longer? Comment yes or no to never leave background app refresh on.",
+      "visual_search": "charging smartphone on wireless pad"
+    }
+  ],
+  "description": "Discover three common mistakes that drain your phone battery instantly and how to fix them in seconds. Stop letting hidden settings waste your charge every single day. Follow for more fast technology tips.",
+  "tags": [
+    "phone battery life",
+    "why phone dies fast",
+    "tech tips",
+    "smartphone battery",
+    "battery saver",
+    "phone hacks",
+    "fix battery drain",
+    "technology",
+    "phone settings",
+    "save phone battery"
+  ],
+  "hashtags": [
+    "#batterylife",
+    "#techtips",
+    "#smartphone"
+  ],
+  "thumbnail_text": "STOP BATTERY DRAIN",
+  "why_it_will_work": "Taps into highly searched tech problems regarding battery life using a proven 3-mistakes structure that hooks viewers immediately.",
+  "fact_check_notes": [],
+  "series": null,
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "category": "Science & Technology",
+  "language": "English",
+  "created_at": "2026-10-01T21:30:30.570597",
+  "video_file": "C:\\youtube_project\\videos\\plan_20261001_213028_2\\video.mp4",
+  "thumbnail_file": "C:\\youtube_project\\videos\\plan_20261001_213028_2\\thumbnail.jpg",
+  "duration_sec": 25.1,
+  "chapters": [],
+  "credits": [
+    "Video by Mizuno K on Pexels: https://www.pexels.com/video/a-person-looking-at-food-delivery-apps-on-the-phone-13441334/",
+    "Video by MART  PRODUCTION on Pexels: https://www.pexels.com/video/a-man-in-a-black-shirt-and-tan-pants-is-looking-at-his-phone-9558951/",
+    "Video by Ángel Fernández on Pexels: https://www.pexels.com/video/close-up-of-hand-using-gopro-settings-menu-36460573/",
+    "Video by Dario Fernandez Ruz on Pexels: https://www.pexels.com/video/a-person-connecting-wireless-earbuds-to-a-smartphone-9130470/"
+  ],
+  "playlist": "Science & Tech Explained Fast",
+  "youtube_id": "X5bfkkpK6Uw",
+  "youtube_url": "https://youtu.be/X5bfkkpK6Uw",
+  "uploaded_at": "2026-10-01T21:37:33",
+  "privacy_locked": false
+}

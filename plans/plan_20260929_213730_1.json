@@ -1,0 +1,68 @@
+{
+  "title": "Why the Sky Is Actually Blue",
+  "hook": "Ever wonder why the sky isn't purple?",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Ever wonder why the sky isn't purple?",
+      "visual_search": "clear blue sky time lapse"
+    },
+    {
+      "section": "Body",
+      "narration": "Sunlight looks white, but it is made of all colors of the rainbow. As light hits Earth's atmosphere, gases scatter the blue light in every direction because it travels in smaller waves. Violet light scatters even more, but human eyes are far more sensitive to blue. Did you know this? Comment yes or no.",
+      "visual_search": "sunlight prism rainbow refraction"
+    },
+    {
+      "section": "Loop",
+      "narration": "That is why you are looking up at a blue sky, which makes you ask...",
+      "visual_search": "person looking up at sky"
+    }
+  ],
+  "description": "Learn why the sky appears blue in just 60 seconds. We break down how sunlight and Earth's atmosphere interact to create the colors we see every day.\n\nSubscribe to Learn in 60 Seconds for fast, clear answers to everyday questions.",
+  "tags": [
+    "why is the sky blue",
+    "science facts",
+    "earth atmosphere",
+    "sunlight scattering",
+    "rayleigh scattering",
+    "learn in 60 seconds",
+    "educational shorts",
+    "quick science",
+    "how things work",
+    "curious facts",
+    "daily knowledge"
+  ],
+  "hashtags": [
+    "#science",
+    "#sky",
+    "#facts"
+  ],
+  "thumbnail_text": "WHY IS SKY BLUE?",
+  "why_it_will_work": "Taps into a massive, evergreen search query with a crystal-clear scientific explanation delivered at a fast pace.",
+  "fact_check_notes": [],
+  "series": null,
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "category": "Education",
+  "language": "English",
+  "created_at": "2026-09-29T21:43:17.711197",
+  "video_file": "C:\\youtube_project\\videos\\plan_20260929_213730_1\\video.mp4",
+  "thumbnail_file": "C:\\youtube_project\\videos\\plan_20260929_213730_1\\thumbnail.jpg",
+  "duration_sec": 23.1,
+  "chapters": [],
+  "credits": [
+    "Video by MD Nafish Sadik on Pexels: https://www.pexels.com/video/time-lapse-of-scattered-clouds-moving-across-a-blue-sky-13538990/",
+    "Video by Erva Özkaya on Pexels: https://www.pexels.com/video/glass-prism-casting-rainbow-over-card-39561792/",
+    "Video by Diana ✨ on Pexels: https://www.pexels.com/video/vivid-double-rainbow-over-verdant-forest-28912660/",
+    "Video by Eugene Lee on Pexels: https://www.pexels.com/video/sunlight-filtering-through-forest-trees-35649912/",
+    "Video by Alina Vilchenko on Pexels: https://www.pexels.com/video/a-small-piece-of-paper-with-a-hole-in-it-15829409/",
+    "Video by Pavel Danilyuk on Pexels: https://www.pexels.com/video/woman-looking-at-camera-6372052/"
+  ],
+  "playlist": "Learn Something New Every Day",
+  "youtube_id": "z3E4LSNXl7Q",
+  "youtube_url": "https://youtu.be/z3E4LSNXl7Q",
+  "uploaded_at": "2026-09-30T21:35:55",
+  "privacy_locked": false
+}

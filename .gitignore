@@ -1,0 +1,7 @@
+# Never save login files or big video files in the repository
+token.json
+client_secret.json
+videos/
+__pycache__/
+*.pyc
+*.zip

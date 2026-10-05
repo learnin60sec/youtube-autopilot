@@ -1,0 +1,69 @@
+{
+  "title": "Stop Crossing Your Arms When Steering",
+  "hook": "Stop crossing your arms while steering.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop crossing your arms while steering.",
+      "visual_search": "driver hands crossing on steering wheel"
+    },
+    {
+      "section": "Explanation",
+      "narration": "If an airbag deploys while your arms are crossed over the center of the wheel, it will violently slam your own hands and forearms directly into your face. Instead, use the push-pull method to keep your hands firmly on the outside edges.",
+      "visual_search": "close up of hands on steering wheel correct position"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Like if this helped, follow for daily driving tips. Do you cross your arms when driving? Comment yes or no, because if you",
+      "visual_search": "person looking at steering wheel dashboard"
+    }
+  ],
+  "description": "Learn the proper steering wheel hand position to prevent serious injury from airbag deployment. Essential driving tips for beginners and new drivers in the USA to stay safe on the road.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips for new drivers",
+    "driving tips turning",
+    "driving tips and tricks",
+    "how to drive a car",
+    "driving safety",
+    "steering wheel technique",
+    "new driver mistakes",
+    "car safety tips",
+    "driving lessons",
+    "learn to drive"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#newdriver",
+    "#carsafety"
+  ],
+  "thumbnail_text": "DANGEROUS STEERING MISTAKE",
+  "why_it_will_work": "Builds directly on our top-performing practical driving correction videos, offering a vital safety tip that beginners frequently get wrong.",
+  "fact_check_notes": [],
+  "series": null,
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "category": "Autos & Vehicles",
+  "language": "English",
+  "created_at": "2026-10-02T21:30:30.278989",
+  "video_file": "C:\\youtube_project\\videos\\plan_20261002_213028_1\\video.mp4",
+  "thumbnail_file": "C:\\youtube_project\\videos\\plan_20261002_213028_1\\thumbnail.jpg",
+  "duration_sec": 21.0,
+  "chapters": [],
+  "credits": [
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/hands-on-hyundai-steering-wheel-13675325/",
+    "Video by Smitha Nittur on Pexels: https://www.pexels.com/video/driver-holding-steering-wheel-on-a-sunny-day-39450368/",
+    "Video by Pavel Danilyuk on Pexels: https://www.pexels.com/video/hands-of-a-man-on-the-steering-wheel-5520046/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Mikhail Nilov on Pexels: https://www.pexels.com/video/a-person-talking-on-the-radio-8944112/",
+    "Video by Dimitri Baret on Pexels: https://www.pexels.com/video/person-driving-on-the-narrow-road-under-the-cloudy-sky-15291653/",
+    "Video by Anastasia  Shuraeva on Pexels: https://www.pexels.com/video/person-driving-car-8033214/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "RvU4uaobuoE",
+  "youtube_url": "https://youtu.be/RvU4uaobuoE",
+  "uploaded_at": "2026-10-02T22:08:58",
+  "privacy_locked": false
+}

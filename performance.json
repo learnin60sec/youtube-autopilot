@@ -1,0 +1,167 @@
+{
+  "generated_at": "2026-10-05T08:13:16.046142+00:00",
+  "subscribers": 9,
+  "total_views": 9644,
+  "public_videos": 18,
+  "shorts_views_90_days": 11454,
+  "best": [
+    {
+      "id": "GU_WejgRqD8",
+      "title": "How Your Phone Vibrates Without Making Noise",
+      "views": 1105,
+      "likes": 10,
+      "comments": 1,
+      "age_days": 1.7,
+      "views_per_day": 662.8,
+      "like_rate_pct": 0.9,
+      "format": "short",
+      "category": "Howto & Style",
+      "hook": "Watch this tiny motor spin inside.",
+      "published": "2026-10-03T16:12:40+00:00",
+      "score": 29.17
+    },
+    {
+      "id": "uz7ABsJYtNA",
+      "title": "Why You Keep Failing Tight Motorcycle U-Turns",
+      "views": 976,
+      "likes": 13,
+      "comments": 0,
+      "age_days": 1.7,
+      "views_per_day": 587.5,
+      "like_rate_pct": 1.3,
+      "format": "short",
+      "category": "Autos & Vehicles",
+      "hook": "Stop looking down during sharp turns.",
+      "published": "2026-10-03T16:21:09+00:00",
+      "score": 28.35
+    },
+    {
+      "id": "W9cLUxX-9VA",
+      "title": "Which Way Do You Turn on Ice?",
+      "views": 1152,
+      "likes": 9,
+      "comments": 0,
+      "age_days": 2.6,
+      "views_per_day": 435.0,
+      "like_rate_pct": 0.8,
+      "format": "short",
+      "category": "Autos & Vehicles",
+      "hook": "Which way do you steer when sliding?",
+      "published": "2026-10-02T16:39:25+00:00",
+      "score": 26.79
+    },
+    {
+      "id": "ke-pRNVqmc4",
+      "title": "Stop ruining your cast iron pan (Part 2)",
+      "views": 1110,
+      "likes": 11,
+      "comments": 1,
+      "age_days": 3.7,
+      "views_per_day": 302.4,
+      "like_rate_pct": 1.0,
+      "format": "short",
+      "category": "Howto & Style",
+      "hook": "Stop soaking your rusted cast iron.",
+      "published": "2026-10-01T16:07:33+00:00",
+      "score": 25.82
+    },
+    {
+      "id": "RvU4uaobuoE",
+      "title": "Stop Crossing Your Arms When Steering",
+      "views": 836,
+      "likes": 5,
+      "comments": 0,
+      "age_days": 2.6,
+      "views_per_day": 315.6,
+      "like_rate_pct": 0.6,
+      "format": "short",
+      "category": "Autos & Vehicles",
+      "hook": "Stop crossing your arms while steering.",
+      "published": "2026-10-02T16:39:09+00:00",
+      "score": 25.31
+    }
+  ],
+  "worst": [
+    {
+      "id": "WDpa-uB7j4g",
+      "title": "What the Car‑Guys \"G\" Hand Sign Really Means",
+      "views": 140,
+      "likes": 1,
+      "comments": 0,
+      "age_days": 6.6,
+      "views_per_day": 21.1,
+      "like_rate_pct": 0.7,
+      "format": "short",
+      "category": "Autos & Vehicles",
+      "hook": "Car guys flashing a \"G\" – you’ve seen it, but do you know why?",
+      "published": "2026-09-28T16:51:27+00:00",
+      "score": 13.79
+    },
+    {
+      "id": "D8x7zWrW04Q",
+      "title": "3 Step Parallel Park Trick for Student Drivers",
+      "views": 27,
+      "likes": 1,
+      "comments": 0,
+      "age_days": 6.7,
+      "views_per_day": 4.1,
+      "like_rate_pct": 3.7,
+      "format": "short",
+      "category": "Autos & Vehicles",
+      "hook": "Stop failing your driving test over parallel parking!",
+      "published": "2026-09-28T16:13:44+00:00",
+      "score": 8.93
+    },
+    {
+      "id": "FHRm3a4jRAk",
+      "title": "Your garbage disposal is stuck",
+      "views": 9,
+      "likes": 0,
+      "comments": 0,
+      "age_days": 4.6,
+      "views_per_day": 1.9,
+      "like_rate_pct": 0.0,
+      "format": "short",
+      "category": "Howto & Style",
+      "hook": "Stop calling the plumber for jams.",
+      "published": "2026-09-30T16:59:18+00:00",
+      "score": 4.62
+    }
+  ],
+  "category_views_per_day": {
+    "Howto & Style": 309.6,
+    "Autos & Vehicles": 207.5,
+    "Science & Technology": 65.7,
+    "Education": 0.9
+  },
+  "category_video_counts": {
+    "Howto & Style": 4,
+    "Autos & Vehicles": 9,
+    "Science & Technology": 2,
+    "Education": 1
+  },
+  "retention": {
+    "avg_view_pct_shorts": 81.2,
+    "avg_view_pct_long": null,
+    "long_watch_hours_90d": 0.0,
+    "tips": [],
+    "best_for_subscribers": [
+      {
+        "title": "Stop Braking in the Middle of a Turn",
+        "subscribers": 3
+      },
+      {
+        "title": "Why Bikers Tap Their Helmet at You",
+        "subscribers": 2
+      },
+      {
+        "title": "Which Way Do You Turn on Ice?",
+        "subscribers": 1
+      },
+      {
+        "title": "Why Your Phone Dies So Fast",
+        "subscribers": 1
+      }
+    ]
+  }
+}

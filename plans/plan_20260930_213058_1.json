@@ -1,0 +1,62 @@
+{
+  "title": "Why You Should Never Put Stickers on Your Car Airbag",
+  "hook": "Ever think about putting a cute sticker right over your steering wheel airbag? Stop right there.",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "Ever think about putting a cute sticker right over your steering wheel airbag? Stop right there. That decorative decal might look harmless, but in an accident, it turns into a dangerous projectile. Welcome to Learn in 60 Seconds, where we teach you one useful, surprising thing quickly and clearly. Today, we are looking at why customizing your steering wheel with stickers or emblems is a massive safety hazard. By the end of this video, you will know exactly what happens when an airbag deploys beneath a sticker, and why the physics behind it might surprise you. Plus, stick around until the very end because the most crucial safety tip comes right before our final recap.",
+      "visual_search": "person applying a sticker to a car steering wheel close up"
+    },
+    {
+      "section": "The Hidden Danger",
+      "narration": "Car airbags deploy at speeds of up to two hundred miles per hour. That is faster than the blink of an eye. When an explosive charge inflates the fabric bag, the plastic cover of the steering wheel is designed to split open along specific, factory-scored seams. If you place a vinyl sticker, a heavy metal emblem, or a thick decal over that cover, you interfere with how those seams open. But the next detail about what happens to the sticker itself surprises most people.",
+      "visual_search": "airbag deployment test slow motion crash dummy"
+    },
+    {
+      "section": "Projectile Risk",
+      "narration": "Instead of the plastic cover cleanly folding away, the sticker acts like a stubborn anchor or shrapnel. As the fabric bursts through at high speed, any rigid object stuck to the surface can be torn into hard pieces and hurled directly toward the driver's face. Even a thin paper sticker can be compressed and driven into the skin at dangerous velocities. It transforms a life-saving safety device into an unexpected hazard.",
+      "visual_search": "close up of damaged steering wheel cover after impact"
+    },
+    {
+      "section": "Factory Design",
+      "narration": "Manufacturers spend millions of dollars testing airbag deployment in laboratories. They engineer every millimeter of the steering wheel hub to ensure nothing obstructs the path. If you're learning something new today, hit subscribe—it really helps the channel grow and brings you more quick safety tips. When you add aftermarket accessories, custom steering wheel covers, or phone mounts near the center hub, you completely bypass those safety tolerances.",
+      "visual_search": "automotive engineer examining steering wheel in laboratory"
+    },
+    {
+      "section": "The Most Important Rule",
+      "narration": "Now, here is the most useful tip of all, which you need to remember: never place dashboard toys, bobbleheads, or cell phone mounts directly over passenger-side airbag compartments either. Passengers love putting plushies or suction-cup mounts on the dashboard, but those become flying objects just like steering wheel stickers. Let's wrap this up with a quick review. Steering wheel stickers interfere with factory deployment seams and can turn into high-speed projectiles during an accident. Keep your dashboard and steering wheel completely clear of decals. What custom accessory do you have on your car right now? Let us know in the comments below, and make sure to watch our other driving safety videos on the channel.",
+      "visual_search": "clean modern car dashboard interior view"
+    }
+  ],
+  "description": "Ever wonder why putting stickers on your car airbag is a dangerous idea? In this video, we break down the surprising physics behind steering wheel decals and airbag deployment. Learn why customizing your car interior can compromise your safety.\n\nSubscribe to Learn in 60 Seconds for quick, useful facts that keep you safe on the road.",
+  "tags": [
+    "car airbag safety",
+    "steering wheel stickers",
+    "airbag warning",
+    "car modifications dangerous",
+    "driving safety tips",
+    "learn in 60 seconds",
+    "car interior accessories",
+    "airbag deployment physics",
+    "common driving mistakes",
+    "car safety myth"
+  ],
+  "hashtags": [
+    "#carsafety",
+    "#drivingtips",
+    "#learnin60seconds"
+  ],
+  "thumbnail_text": "DON'T PUT STICKERS HERE",
+  "why_it_will_work": "Leverages trending interest in car safety and airbag hazards with a strong, urgent visual hook that appeals to everyday drivers.",
+  "fact_check_notes": [],
+  "series": null,
+  "status": "draft",
+  "quality_problems": [
+    "script length 452 words (want 900-2000)"
+  ],
+  "ai_provider": "gemini",
+  "format": "long",
+  "category": "Education",
+  "language": "English",
+  "created_at": "2026-09-30T21:30:58.476869"
+}

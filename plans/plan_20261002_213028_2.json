@@ -1,0 +1,66 @@
+{
+  "title": "Which Way Do You Turn on Ice?",
+  "hook": "Which way do you steer when sliding?",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Which way do you steer when sliding?",
+      "visual_search": "car sliding on icy road dashcam"
+    },
+    {
+      "section": "Reveal",
+      "narration": "If your rear wheels lose traction and slide to the left, most drivers panic and steer right. That causes a dangerous spin. You must always steer directly into the slide.",
+      "visual_search": "steering wheel turning quickly"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Like if this helped, follow for daily driving tips. Did you know this rule? Comment yes or no, and remember",
+      "visual_search": "snowy road driving POV"
+    }
+  ],
+  "description": "Test your driving knowledge with this quick mini quiz on how to safely recover when your car loses traction on ice or wet roads. Essential driving tips and tricks for new drivers.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips and tricks",
+    "driving tips in usa",
+    "how to drive a car",
+    "winter driving tips",
+    "driving quiz",
+    "car control",
+    "skid recovery",
+    "driving safety",
+    "new driver help"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#cardriving",
+    "#quiz"
+  ],
+  "thumbnail_text": "TEST YOUR DRIVING SKILLS",
+  "why_it_will_work": "Leverages the mini-quiz format to drive high viewer engagement and retention, tapping into practical vehicle control topics.",
+  "fact_check_notes": [],
+  "series": null,
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "category": "Science & Technology",
+  "language": "English",
+  "created_at": "2026-10-02T21:30:31.495936",
+  "video_file": "C:\\youtube_project\\videos\\plan_20261002_213028_2\\video.mp4",
+  "thumbnail_file": "C:\\youtube_project\\videos\\plan_20261002_213028_2\\thumbnail.jpg",
+  "duration_sec": 17.1,
+  "chapters": [],
+  "credits": [
+    "Video by Mirza  Muneeb on Pexels: https://www.pexels.com/video/snowy-night-drive-on-icy-road-30157068/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/hands-on-hyundai-steering-wheel-13675325/",
+    "Video by HÜSEYİN AVCI on Pexels: https://www.pexels.com/video/driving-on-a-snowy-road-in-winter-35815439/",
+    "Video by Michael Andrew on Pexels: https://www.pexels.com/video/pov-of-a-person-driving-on-a-road-lined-with-snow-covered-trees-10928405/"
+  ],
+  "playlist": "Science & Tech Explained Fast",
+  "youtube_id": "W9cLUxX-9VA",
+  "youtube_url": "https://youtu.be/W9cLUxX-9VA",
+  "uploaded_at": "2026-10-02T22:09:10",
+  "privacy_locked": false
+}

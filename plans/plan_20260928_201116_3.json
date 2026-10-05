@@ -1,0 +1,61 @@
+{
+  "title": "How Student Drivers Should Handle Aggressive Drivers",
+  "hook": "Terrified of crazy drivers honking while you're learning?",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Terrified of crazy drivers tailgating or honking while you're learning to drive? Here is the golden defensive driving rule you need.",
+      "visual_search": "tailgating car viewed from rear window mirror"
+    },
+    {
+      "section": "Rule 1",
+      "narration": "When an aggressive driver tailgates you, never speed up past your comfort level or stomp your brakes out of anger.",
+      "visual_search": "driver nervously holding steering wheel"
+    },
+    {
+      "section": "Rule 2",
+      "narration": "Instead, gently increase the space in FRONT of your car. Doubling your safe following distance gives you buffer space to stop slowly if needed.",
+      "visual_search": "car driving safely on open road distance"
+    },
+    {
+      "section": "Rule 3",
+      "narration": "Never make eye contact or engage. Maintain your lane, stay calm, and allow them to pass safely at the next safe opportunity.",
+      "visual_search": "car passing another vehicle on multi lane highway"
+    },
+    {
+      "section": "Call to Action",
+      "narration": "Stay calm and safe on the road. Subscribe for essential safety tips every student driver needs!",
+      "visual_search": "confident young driver smiling in car"
+    }
+  ],
+  "description": "Learning to drive alongside aggressive drivers can be terrifying for students. This short guide breaks down defensive driving techniques to keep you calm and safe under pressure.\n\nDiscover why increasing your forward distance protects you from tailgaters and how to manage road stress during your student driving practice sessions.\n\nSubscribe to the channel for practical educational shorts on road safety and driving tips.",
+  "tags": [
+    "crazy drivers",
+    "student driver",
+    "defensive driving",
+    "driving safety",
+    "new driver tips",
+    "student driver tips",
+    "driving license",
+    "road anxiety",
+    "safe driving",
+    "driving practice"
+  ],
+  "hashtags": [
+    "#StudentDriver",
+    "#DefensiveDriving",
+    "#RoadSafety"
+  ],
+  "thumbnail_text": "BEAT ROAD RAGE",
+  "why_it_will_work": "Reflects the emotional trigger of the viral 'crazy driver/student driver' trend while offering valuable educational defensive driving tactics that promote viewer retention.",
+  "fact_check_notes": [
+    "Confirm defensive driving best practices regarding safe following distances (e.g., 3-to-4 second rule)."
+  ],
+  "status": "draft",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "category": "Education",
+  "language": "English",
+  "created_at": "2026-09-28T20:11:16.989736"
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Stop Cutting Corners Too Fast",
+  "hook": "Stop cutting corners too sharply.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop cutting corners too sharply.",
+      "visual_search": "driver turning steering wheel tightly close up"
+    },
+    {
+      "section": "Body",
+      "narration": "Turning your steering wheel too early causes your rear tires to climb right over the curb. Instead, wait to turn until your shoulder passes the edge of the curb. This gives your car a wider turning radius and keeps your wheels safe from damage every single time.",
+      "visual_search": "car tire hitting curb street view"
+    },
+    {
+      "section": "Call to Action",
+      "narration": "Like if this helped, follow for daily driving tips. Have you ever hit a curb turning? Comment yes or no.",
+      "visual_search": "hands on steering wheel driving POV"
+    },
+    {
+      "section": "Loop",
+      "narration": "So remember to stop cutting corners too sharply.",
+      "visual_search": "road curving asphalt driving shot"
+    }
+  ],
+  "description": "Learn the correct way to handle tight turns without hitting curbs. Master this simple driving tip for new drivers and improve your confidence behind the wheel immediately.",
+  "tags": [
+    "driving tips",
+    "driving tips for new drivers",
+    "driving tips turning",
+    "driving tips and tricks",
+    "driving tips for beginners",
+    "how to drive",
+    "driving lessons",
+    "driver education",
+    "car tips",
+    "safe driving",
+    "driving advice",
+    "learn to drive"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#cardrivers",
+    "#learnhowtodrive"
+  ],
+  "thumbnail_text": "STOP CUTTING CORNERS",
+  "why_it_will_work": "Leverages real search queries for new driver tips and practical vehicle handling, directly addressing a common physical mistake drivers make.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-04T21:30:34.247197",
+  "video_file": "C:\\youtube_project\\videos\\plan_20261004_213032_1\\video.mp4",
+  "thumbnail_file": "C:\\youtube_project\\videos\\plan_20261004_213032_1\\thumbnail.jpg",
+  "duration_sec": 23.1,
+  "chapters": [],
+  "credits": [
+    "Video by Smitha Nittur on Pexels: https://www.pexels.com/video/driver-holding-steering-wheel-on-a-sunny-day-39450368/",
+    "Video by Matheus Bertelli on Pexels: https://www.pexels.com/video/car-tire-detailing-in-garage-setup-32010543/",
+    "Video by Borta on Pexels: https://www.pexels.com/video/car-driving-through-urban-street-scene-30802750/",
+    "Video by izzet çakallı on Pexels: https://www.pexels.com/video/curb-view-of-passing-cars-13833951/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Harrun  Muhammad on Pexels: https://www.pexels.com/video/driving-pov-in-modern-car-on-sunny-day-36632263/",
+    "Video by Belén Montero on Pexels: https://www.pexels.com/video/driving-in-a-countryside-road-5944210/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "p-06HFLgQCQ",
+  "youtube_url": "https://youtu.be/p-06HFLgQCQ",
+  "uploaded_at": "2026-10-04T21:43:08",
+  "privacy_locked": false
+}

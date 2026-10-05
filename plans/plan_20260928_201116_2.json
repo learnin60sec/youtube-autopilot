@@ -1,0 +1,61 @@
+{
+  "title": "3 Subtle Mistakes That Fail Driving Tests Instantly",
+  "hook": "These three tiny driving test mistakes cause an automatic fail!",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "These three tiny driving test mistakes cause an automatic fail, and most student drivers don't even realize they made them!",
+      "visual_search": "dmv driving examiner sitting in car writing notes"
+    },
+    {
+      "section": "Mistake 1",
+      "narration": "First: rolling stop signs. Your speedometer must reach absolute zero for at least two full seconds. If the examiner feels forward momentum, you fail instantly.",
+      "visual_search": "car stopping at red stop sign"
+    },
+    {
+      "section": "Mistake 2",
+      "narration": "Second: mirror-only lane changes. You must turn your actual head dramatically to check blind spots so the examiner physically sees you checking.",
+      "visual_search": "driver turning head to check shoulder blind spot"
+    },
+    {
+      "section": "Mistake 3",
+      "narration": "Third: hand-over-hand steering errors like placing your palms inside the wheel rim, which examiners mark down as a loss of steering control.",
+      "visual_search": "hands steering car wheel correctly"
+    },
+    {
+      "section": "Call to Action",
+      "narration": "Master your road test with confidence! Follow the channel for more secret driving test hacks.",
+      "visual_search": "driver passing test smiling"
+    }
+  ],
+  "description": "Avoid these common instant-fail mistakes on your upcoming driving license test! Many student drivers fail not because of big accidents, but because of small technical errors.\n\nLearn what DMV examiners look for during stop signs, blind spot checks, and wheel handling so you can keep your driver license dreams on track.\n\nFollow for more essential educational guides for student drivers and new road users.",
+  "tags": [
+    "driving test mistakes",
+    "student driver",
+    "driving license",
+    "dmv road test",
+    "instant fail driving test",
+    "driving tips",
+    "student driver fyp",
+    "license exam",
+    "how to pass driving test",
+    "driving examiner"
+  ],
+  "hashtags": [
+    "#DrivingLicense",
+    "#StudentDriver",
+    "#DMVTest"
+  ],
+  "thumbnail_text": "INSTANT FAIL MISTAKES",
+  "why_it_will_work": "Taps into student driver anxiety about failing the driving test while providing educational, high-retention content that clears up common exam misconceptions.",
+  "fact_check_notes": [
+    "Verify state-specific requirements regarding hand-over-hand steering, as some jurisdictions accept pull-push methods over hand-over-hand."
+  ],
+  "status": "draft",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "category": "Education",
+  "language": "English",
+  "created_at": "2026-09-28T20:11:16.974371"
+}

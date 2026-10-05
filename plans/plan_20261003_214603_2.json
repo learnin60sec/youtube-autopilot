@@ -1,0 +1,57 @@
+{
+  "title": "Stop Wasting Phone Battery With This Setting (Part 2)",
+  "hook": "Part 2! Disable background app refresh.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Part 2! Disable background app refresh.",
+      "visual_search": "person tapping smartphone screen with worried expression"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Dozens of apps are updating their content silently in the background right now, even when you aren't using them. Go into your settings, turn off background refresh for non-essential apps, and watch your daily battery life instantly double.",
+      "visual_search": "close up of smartphone settings menu scrolling"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Like if this helped, follow for daily tech tips. Did you know this setting existed? Comment yes or no, because if you",
+      "visual_search": "smartphone charging on a wireless pad"
+    }
+  ],
+  "description": "Part 2 of our Battery Life Fixes series! Stop letting hidden apps drain your phone battery all day long with this simple settings adjustment.\n\nSubscribe to Learn in 60 Seconds for fast tech fixes and smart life hacks.",
+  "tags": [
+    "phone battery fix",
+    "battery life hacks",
+    "how to save battery",
+    "tech tips",
+    "smartphone settings",
+    "learn in 60 seconds",
+    "phone tips",
+    "battery drain fix",
+    "mobile tricks",
+    "life hacks",
+    "tech help",
+    "battery saver"
+  ],
+  "hashtags": [
+    "#batterylife",
+    "#techhacks",
+    "#smartphone"
+  ],
+  "thumbnail_text": "FIX BATTERY DRAIN",
+  "why_it_will_work": "Continues a high-demand tech fix series requested by viewers who want practical solutions for common phone battery problems.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Battery Life Fixes",
+    "part": 2
+  },
+  "category": "Science & Technology",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Exaggerated claim that turning off background app refresh will instantly double daily battery life."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-03T21:46:06.948621"
+}

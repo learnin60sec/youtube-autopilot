@@ -1,0 +1,79 @@
+{
+  "title": "Stop ruining your cast iron pan (Part 1)",
+  "hook": "Never use soap on cast iron.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never use soap on cast iron.",
+      "visual_search": "dirty cast iron skillet in kitchen sink"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Old dish soap contained harsh lye that stripped the essential seasoning right off the metal. Today's mild dish soap is actually completely safe to use when cleaning.",
+      "visual_search": "adding drops of dish soap to a sponge"
+    },
+    {
+      "section": "Engagement",
+      "narration": "Do you still use soap on yours? Comment yes or no.",
+      "visual_search": "close up of person washing cast iron pan"
+    },
+    {
+      "section": "Cliffhanger",
+      "narration": "Follow so you don't miss Part 2 on how to completely restore a rusted skillet!",
+      "visual_search": "rusty cast iron pan surface"
+    }
+  ],
+  "description": "Stop ruining your cookware with outdated advice. Learn the surprising truth about washing cast iron skillets safely without destroying your seasoning.\n\nSubscribe for more quick life hacks.",
+  "tags": [
+    "how to clean a cast iron skillet",
+    "cast iron care",
+    "kitchen hacks",
+    "cooking tips",
+    "cast iron seasoning",
+    "clean cast iron",
+    "kitchen cleaning",
+    "skillet care",
+    "life hacks",
+    "home tips",
+    "learn in 60 seconds",
+    "quick tips"
+  ],
+  "hashtags": [
+    "#castiron",
+    "#kitchenhacks",
+    "#cleaning"
+  ],
+  "thumbnail_text": "STOP USING SOAP?",
+  "why_it_will_work": "Targets high-volume search intent around cleaning cast iron while combining a myth-busting format with a two-part series cliffhanger.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Cast Iron Care",
+    "part": 1,
+    "next_part_idea": "How to restore a completely rusted cast iron skillet using vinegar and oil."
+  },
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "category": "Howto & Style",
+  "language": "English",
+  "created_at": "2026-09-30T21:30:31.030648",
+  "video_file": "C:\\youtube_project\\videos\\plan_20260930_213029_1\\video.mp4",
+  "thumbnail_file": "C:\\youtube_project\\videos\\plan_20260930_213029_1\\thumbnail.jpg",
+  "duration_sec": 17.4,
+  "chapters": [],
+  "credits": [
+    "Video by Evgenij Mikhailov on Pexels: https://www.pexels.com/video/chef-garnishing-grilled-meat-in-cast-iron-pan-34228455/",
+    "Video by Gary  Barnes on Pexels: https://www.pexels.com/video/droplets-of-water-in-kitchen-sink-6247913/",
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/a-person-putting-drops-of-acrylic-ink-on-shaving-cream-10474611/",
+    "Video by MART  PRODUCTION on Pexels: https://www.pexels.com/video/a-person-pumping-dishwashing-soap-dispenser-7640968/",
+    "Video by * Doğukan * on Pexels: https://www.pexels.com/video/decorative-cast-iron-fountain-close-up-32818032/",
+    "Video by Kuiyibo Campos on Pexels: https://www.pexels.com/video/a-pan-on-a-gas-stove-with-a-frying-pan-18105249/"
+  ],
+  "playlist": "Smart How-To Hacks",
+  "youtube_id": "y98Y9hHKGQU",
+  "youtube_url": "https://youtu.be/y98Y9hHKGQU",
+  "uploaded_at": "2026-09-30T21:36:22",
+  "privacy_locked": false,
+  "series_done": true
+}

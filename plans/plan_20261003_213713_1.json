@@ -1,0 +1,74 @@
+{
+  "title": "Why Your Phone Battery Dies So Fast (Part 1)",
+  "hook": "Stop draining your battery like this.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop draining your battery like this.",
+      "visual_search": "person looking frustrated at glowing smartphone screen in dark room"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Most people leave background app refresh turned on for every single app. Your phone stays busy constantly downloading data you never even look at, quietly burning through your charge before the day is over.",
+      "visual_search": "close up of fingers swiping fast through smartphone settings menu"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Follow for daily tech tips so your phone lasts longer. Did you know this? Comment yes or no. Stop draining...",
+      "visual_search": "smartphone battery indicator showing low charge flashing red"
+    }
+  ],
+  "description": "Discover why your phone battery dies so fast and how background app refresh ruins your daily charge. Learn simple tech habits to extend your battery life instantly. Follow for more quick technology tips and daily fixes.\n\nLearn how to keep your mobile devices running smoothly in under sixty seconds.",
+  "tags": [
+    "phone battery",
+    "why does my phone die so fast",
+    "tech tips",
+    "smartphone battery life",
+    "ios big",
+    "big issue",
+    "phone tricks",
+    "battery saver",
+    "mobile tech",
+    "learn in 60 seconds",
+    "quick tech hacks"
+  ],
+  "hashtags": [
+    "#tech",
+    "#battery",
+    "#smartphone"
+  ],
+  "thumbnail_text": "KILLING YOUR BATTERY?",
+  "why_it_will_work": "Leverages the massive search interest around phone battery issues and uses a fast-paced educational format tailored to our top-performing content style.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Battery Life Fixes",
+    "part": 1,
+    "next_part_idea": "The hidden display setting that drains half your battery every single day."
+  },
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "category": "Science & Technology",
+  "language": "English",
+  "created_at": "2026-10-03T21:37:15.126399",
+  "video_file": "C:\\youtube_project\\videos\\plan_20261003_213713_1\\video.mp4",
+  "thumbnail_file": "C:\\youtube_project\\videos\\plan_20261003_213713_1\\thumbnail.jpg",
+  "duration_sec": 19.1,
+  "chapters": [],
+  "credits": [
+    "Video by VAZHNIK on Pexels: https://www.pexels.com/video/man-using-a-smartphone-in-the-dark-7942761/",
+    "Video by MART  PRODUCTION on Pexels: https://www.pexels.com/video/a-problematic-man-looking-at-his-phone-7279738/",
+    "Video by Ali  Alcántara on Pexels: https://www.pexels.com/video/close-up-view-of-a-person-using-a-smartphone-15689201/",
+    "Video by Ivan S on Pexels: https://www.pexels.com/video/close-up-video-of-a-person-using-a-cellphone-7392948/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/close-up-video-of-a-person-using-cellphone-6586070/",
+    "Video by Mumtaz  Niazi on Pexels: https://www.pexels.com/video/electrician-installing-industrial-battery-bank-36167829/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/a-woman-in-a-black-dress-and-white-wig-is-standing-in-front-of-a-red-curtain-4722614/"
+  ],
+  "playlist": "Science & Tech Explained Fast",
+  "youtube_id": "8PBRJIO8iyE",
+  "youtube_url": "https://youtu.be/8PBRJIO8iyE",
+  "uploaded_at": "2026-10-03T21:42:18",
+  "privacy_locked": false,
+  "series_done": true
+}

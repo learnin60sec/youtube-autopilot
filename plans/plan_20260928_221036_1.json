@@ -1,0 +1,71 @@
+{
+  "title": "Stop Braking in the Middle of a Turn",
+  "hook": "Stop slamming your brakes halfway through a turn.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop slamming your brakes halfway through a turn. It is the fastest way to lose control of your vehicle.",
+      "visual_search": "driver gripping steering wheel"
+    },
+    {
+      "section": "Explanation",
+      "narration": "When you brake during a turn, you shift the car's weight to the front tires. This reduces the grip on your rear tires, which can cause your car to skid or slide out, especially on wet roads.",
+      "visual_search": "car driving on wet road POV"
+    },
+    {
+      "section": "The Fix",
+      "narration": "The professional way to handle a curve is simple: finish your braking before you start turning the steering wheel. Once you reach the apex, accelerate gently through the exit.",
+      "visual_search": "diagram of car turning line"
+    },
+    {
+      "section": "Call to Action",
+      "narration": "Master your car control and subscribe to Learn in 60 Seconds for more essential driving tips.",
+      "visual_search": "person looking at camera smiling"
+    }
+  ],
+  "description": "Learn the physics behind why braking mid-turn is dangerous for your car. Mastering weight distribution is a fundamental skill for every car enthusiast and safe driver.\n\nSubscribe for more quick driving lessons that help you understand your vehicle better.",
+  "tags": [
+    "driving tips",
+    "car control",
+    "safe driving",
+    "driving mistakes",
+    "learn to drive",
+    "car maintenance",
+    "driving lessons",
+    "physics of driving",
+    "defensive driving",
+    "biker tips",
+    "car guys",
+    "road safety",
+    "how to drive"
+  ],
+  "hashtags": [
+    "#drivingschool",
+    "#cartips",
+    "#learnin60seconds"
+  ],
+  "thumbnail_text": "STOP BRAKING MID-TURN",
+  "why_it_will_work": "Leverages the interest in 'car guys' and 'driving mistakes' while providing a clear, actionable safety lesson that appeals to the same audience demographic.",
+  "fact_check_notes": [],
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "category": "Autos & Vehicles",
+  "language": "English",
+  "created_at": "2026-09-28T22:10:36.282198",
+  "video_file": "C:\\youtube_project\\videos\\plan_20260928_221036_1\\video.mp4",
+  "thumbnail_file": "C:\\youtube_project\\videos\\plan_20260928_221036_1\\thumbnail.jpg",
+  "duration_sec": 30.6,
+  "credits": [
+    "Video by Smitha Nittur on Pexels: https://www.pexels.com/video/driver-holding-steering-wheel-on-a-sunny-day-39450368/",
+    "Video by Khang Ocean on Pexels: https://www.pexels.com/video/driving-through-heavy-rainstorm-on-highway-35587365/",
+    "Video by Kanishk Gabel on Pexels: https://www.pexels.com/video/formula-race-cars-on-urban-track-37886248/",
+    "Video by KATRIN  BOLOVTSOVA on Pexels: https://www.pexels.com/video/man-looking-at-camera-while-wearing-a-sweater-6689182/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "n8OkwoAbzIQ",
+  "youtube_url": "https://youtu.be/n8OkwoAbzIQ",
+  "uploaded_at": "2026-09-29T21:49:24",
+  "privacy_locked": false
+}

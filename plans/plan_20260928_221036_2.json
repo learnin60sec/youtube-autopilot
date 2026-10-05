@@ -1,0 +1,71 @@
+{
+  "title": "Why Bikers Tap Their Helmet at You",
+  "hook": "Ever see a biker tap the top of their helmet while riding?",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Ever see a biker tap the top of their helmet while riding? It is not a random gesture; it is a warning.",
+      "visual_search": "motorcyclist riding on highway"
+    },
+    {
+      "section": "Explanation",
+      "narration": "When a biker taps their helmet, they are signaling to other riders that there is a police officer or a speed trap ahead. It is a universal way to warn fellow road users to slow down.",
+      "visual_search": "police cruiser parked on side of road"
+    },
+    {
+      "section": "Context",
+      "narration": "Bikers often use these subtle hand signals to keep the group safe and aware of hazards that might not be visible yet. It is all about looking out for one another on the open road.",
+      "visual_search": "motorcycle group riding together"
+    },
+    {
+      "section": "Call to Action",
+      "narration": "Want to understand the secret language of the road? Follow Learn in 60 Seconds for daily wisdom.",
+      "visual_search": "road view from car dashboard"
+    }
+  ],
+  "description": "Discover the meaning behind the most common biker hand signals. Understanding these gestures helps you stay aware of the road conditions ahead.\n\nSubscribe to Learn in 60 Seconds to decode the highway and become a more observant driver.",
+  "tags": [
+    "motorcycle signals",
+    "biker code",
+    "road signs",
+    "motorcycle safety",
+    "biker gestures",
+    "driving tips",
+    "road awareness",
+    "biker community",
+    "motorcyclist",
+    "traffic signals",
+    "learn in 60 seconds",
+    "hidden road signs",
+    "motorcycle life"
+  ],
+  "hashtags": [
+    "#bikerlife",
+    "#motorcycle",
+    "#roadtips"
+  ],
+  "thumbnail_text": "BIKER SECRET SIGNAL",
+  "why_it_will_work": "Capitalizes on the trending 'biker' and 'hand sign' interest while providing genuinely useful information that non-riders are curious about.",
+  "fact_check_notes": [],
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "category": "Autos & Vehicles",
+  "language": "English",
+  "created_at": "2026-09-28T22:10:36.287280",
+  "video_file": "C:\\youtube_project\\videos\\plan_20260928_221036_2\\video.mp4",
+  "thumbnail_file": "C:\\youtube_project\\videos\\plan_20260928_221036_2\\thumbnail.jpg",
+  "duration_sec": 30.6,
+  "credits": [
+    "Video by Dronepilot Chile on Pexels: https://www.pexels.com/video/motorcyclist-on-road-11309846/",
+    "Video by Kindel Media on Pexels: https://www.pexels.com/video/a-police-officer-looking-around-in-parking-lot-7713932/",
+    "Video by Sergei Starostin on Pexels: https://www.pexels.com/video/motorcyclists-ride-on-narrow-village-roadway-39539523/",
+    "Video by Nothing Ahead on Pexels: https://www.pexels.com/video/man-driving-a-car-during-rain-12601920/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "EJMvlnkyDNU",
+  "youtube_url": "https://youtu.be/EJMvlnkyDNU",
+  "uploaded_at": "2026-09-29T21:49:38",
+  "privacy_locked": false
+}

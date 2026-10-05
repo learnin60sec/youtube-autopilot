@@ -1,0 +1,78 @@
+{
+  "title": "Why Your Phone Battery Dies So Fast (Part 2)",
+  "hook": "Stop wasting half your battery.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop wasting half your battery.",
+      "visual_search": "smartphone battery low warning screen close up"
+    },
+    {
+      "section": "Body",
+      "narration": "Many people think background apps drain the most power, but the hidden culprit is automatic app refresh running constantly. Turn this off in your settings to instantly stop unnecessary background draining and save your charge all day long.",
+      "visual_search": "person tapping smartphone screen settings menu"
+    },
+    {
+      "section": "Call to Action",
+      "narration": "Like if this helped, follow for phone battery hacks. Did you know about this setting? Comment yes or no.",
+      "visual_search": "holding smartphone outdoors daylight"
+    },
+    {
+      "section": "Loop",
+      "narration": "Which means you should stop wasting half your battery.",
+      "visual_search": "person plugging in smartphone charger cable"
+    }
+  ],
+  "description": "Part 2 of our battery life series. Discover the hidden background setting that drains your phone battery every day and learn how to fix it in seconds.",
+  "tags": [
+    "phone battery life",
+    "battery saver",
+    "tech hacks",
+    "smartphone tips",
+    "fix battery drain",
+    "tech tricks",
+    "iphone battery",
+    "android battery",
+    "save phone battery",
+    "battery fixes",
+    "tech help",
+    "mobile tips"
+  ],
+  "hashtags": [
+    "#batteryhack",
+    "#techtips",
+    "#smartphone"
+  ],
+  "thumbnail_text": "SECRET BATTERY DRAIN",
+  "why_it_will_work": "Continues a high-performing channel series about phone battery fixes, delivering a clear and immediately actionable solution to a universal annoyance.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Battery Life Fixes",
+    "part": 2
+  },
+  "category": "Science & Technology",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-04T21:30:35.525301",
+  "video_file": "C:\\youtube_project\\videos\\plan_20261004_213032_2\\video.mp4",
+  "thumbnail_file": "C:\\youtube_project\\videos\\plan_20261004_213032_2\\thumbnail.jpg",
+  "duration_sec": 21.9,
+  "chapters": [],
+  "credits": [
+    "Video by Ali  Alcántara on Pexels: https://www.pexels.com/video/close-up-view-of-a-person-using-a-smartphone-15689201/",
+    "Video by MART  PRODUCTION on Pexels: https://www.pexels.com/video/person-touching-the-screen-of-a-cellphone-8165942/",
+    "Video by Mizuno K on Pexels: https://www.pexels.com/video/a-person-using-a-smartphone-app-to-order-food-online-13441336/",
+    "Video by Mizuno K on Pexels: https://www.pexels.com/video/a-person-looking-at-food-delivery-menus-on-a-smartphone-13443895/",
+    "Video by Mger Akopyan on Pexels: https://www.pexels.com/video/hand-holding-smartphone-against-castle-12429982/",
+    "Video by Mger Akopyan on Pexels: https://www.pexels.com/video/hand-holding-phone-with-icons-on-screen-11698130/",
+    "Video by Kindel Media on Pexels: https://www.pexels.com/video/a-person-holding-a-car-charger-9790185/"
+  ],
+  "playlist": "Science & Tech Explained Fast",
+  "youtube_id": "kf7j-DMb0hk",
+  "youtube_url": "https://youtu.be/kf7j-DMb0hk",
+  "uploaded_at": "2026-10-04T21:43:19",
+  "privacy_locked": false
+}
