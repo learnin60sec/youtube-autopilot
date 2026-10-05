@@ -1,0 +1,76 @@
+{
+  "title": "Why Your Car Pulls Sideways (Part 1)",
+  "hook": "Stop ignoring that steering wheel pull.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop ignoring that steering wheel pull.",
+      "visual_search": "driver holding steering wheel tightly while car drifts"
+    },
+    {
+      "section": "Step 1",
+      "narration": "First, check your tire pressure because low air on one side drags the car.",
+      "visual_search": "person checking car tire pressure with gauge"
+    },
+    {
+      "section": "Step 2",
+      "narration": "Next, look at your tread wear. Uneven wear means bad alignment.",
+      "visual_search": "close up of worn car tire tread"
+    },
+    {
+      "section": "Call to Action",
+      "narration": "Follow for Part 2 where we reveal the hidden suspension cause. Did yours pull left or right? Comment below.",
+      "visual_search": "mechanic inspecting car suspension underneath"
+    }
+  ],
+  "description": "Learn the main reasons your car pulls to one side while driving straight. Quick troubleshooting guide for new drivers and vehicle owners. Follow for Part 2 to master car maintenance basics.",
+  "tags": [
+    "driving tips",
+    "car maintenance",
+    "steering wheel pull",
+    "new drivers",
+    "car repair basics",
+    "driving tips for beginners",
+    "auto repair",
+    "vehicle safety",
+    "mechanic tips",
+    "car tips"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carmaintenance",
+    "#learnontiktok"
+  ],
+  "thumbnail_text": "Car Pulling Left?",
+  "why_it_will_work": "Leverages high-performing automotive problem-solving content that drives long-term search views.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Why Your Car Pulls Sideways",
+    "part": 1,
+    "next_part_idea": "The hidden suspension and brake caliper causes of a pulling steering wheel"
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-05T14:47:53.053725",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261005_144752_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261005_144752_1/thumbnail.jpg",
+  "duration_sec": 16.0,
+  "chapters": [],
+  "credits": [
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Magda Ehlers on Pexels: https://www.pexels.com/video/suv-tire-washing-with-high-pressure-hose-37175111/",
+    "Video by Magda Ehlers on Pexels: https://www.pexels.com/video/car-tire-cleaning-with-detailed-close-up-37175109/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/mechanic-checking-under-the-car-8987301/",
+    "Video by utopia 36 on Pexels: https://www.pexels.com/video/a-man-working-on-a-car-under-the-hood-18104090/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "dpYC1k2gOaA",
+  "youtube_url": "https://youtu.be/dpYC1k2gOaA",
+  "uploaded_at": "2026-10-05T15:10:09",
+  "privacy_locked": false
+}

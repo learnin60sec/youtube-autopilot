@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T08:13:16.046142+00:00",
+  "generated_at": "2026-10-05T09:17:44.657680+00:00",
   "subscribers": 9,
   "total_views": 9644,
   "public_videos": 18,
-  "shorts_views_90_days": 11454,
+  "shorts_views_90_days": 11497,
   "best": [
     {
       "id": "GU_WejgRqD8",
@@ -12,28 +12,28 @@
       "likes": 10,
       "comments": 1,
       "age_days": 1.7,
-      "views_per_day": 662.8,
+      "views_per_day": 645.5,
       "like_rate_pct": 0.9,
       "format": "short",
       "category": "Howto & Style",
       "hook": "Watch this tiny motor spin inside.",
       "published": "2026-10-03T16:12:40+00:00",
-      "score": 29.17
+      "score": 29.06
     },
     {
       "id": "uz7ABsJYtNA",
       "title": "Why You Keep Failing Tight Motorcycle U-Turns",
-      "views": 976,
-      "likes": 13,
+      "views": 1017,
+      "likes": 14,
       "comments": 0,
       "age_days": 1.7,
-      "views_per_day": 587.5,
-      "like_rate_pct": 1.3,
+      "views_per_day": 596.1,
+      "like_rate_pct": 1.4,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop looking down during sharp turns.",
       "published": "2026-10-03T16:21:09+00:00",
-      "score": 28.35
+      "score": 28.46
     },
     {
       "id": "W9cLUxX-9VA",
@@ -41,14 +41,14 @@
       "views": 1152,
       "likes": 9,
       "comments": 0,
-      "age_days": 2.6,
-      "views_per_day": 435.0,
+      "age_days": 2.7,
+      "views_per_day": 427.7,
       "like_rate_pct": 0.8,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Which way do you steer when sliding?",
       "published": "2026-10-02T16:39:25+00:00",
-      "score": 26.79
+      "score": 26.72
     },
     {
       "id": "ke-pRNVqmc4",
@@ -57,13 +57,13 @@
       "likes": 11,
       "comments": 1,
       "age_days": 3.7,
-      "views_per_day": 302.4,
+      "views_per_day": 298.8,
       "like_rate_pct": 1.0,
       "format": "short",
       "category": "Howto & Style",
       "hook": "Stop soaking your rusted cast iron.",
       "published": "2026-10-01T16:07:33+00:00",
-      "score": 25.82
+      "score": 25.77
     },
     {
       "id": "RvU4uaobuoE",
@@ -71,14 +71,14 @@
       "views": 836,
       "likes": 5,
       "comments": 0,
-      "age_days": 2.6,
-      "views_per_day": 315.6,
+      "age_days": 2.7,
+      "views_per_day": 310.4,
       "like_rate_pct": 0.6,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop crossing your arms while steering.",
       "published": "2026-10-02T16:39:09+00:00",
-      "score": 25.31
+      "score": 25.23
     }
   ],
   "worst": [
@@ -88,14 +88,14 @@
       "views": 140,
       "likes": 1,
       "comments": 0,
-      "age_days": 6.6,
-      "views_per_day": 21.1,
+      "age_days": 6.7,
+      "views_per_day": 20.9,
       "like_rate_pct": 0.7,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Car guys flashing a \"G\" – you’ve seen it, but do you know why?",
       "published": "2026-09-28T16:51:27+00:00",
-      "score": 13.79
+      "score": 13.75
     },
     {
       "id": "D8x7zWrW04Q",
@@ -104,13 +104,13 @@
       "likes": 1,
       "comments": 0,
       "age_days": 6.7,
-      "views_per_day": 4.1,
+      "views_per_day": 4.0,
       "like_rate_pct": 3.7,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop failing your driving test over parallel parking!",
       "published": "2026-09-28T16:13:44+00:00",
-      "score": 8.93
+      "score": 8.84
     },
     {
       "id": "FHRm3a4jRAk",
@@ -118,7 +118,7 @@
       "views": 9,
       "likes": 0,
       "comments": 0,
-      "age_days": 4.6,
+      "age_days": 4.7,
       "views_per_day": 1.9,
       "like_rate_pct": 0.0,
       "format": "short",
@@ -129,9 +129,9 @@
     }
   ],
   "category_views_per_day": {
-    "Howto & Style": 309.6,
-    "Autos & Vehicles": 207.5,
-    "Science & Technology": 65.7,
+    "Howto & Style": 303.7,
+    "Autos & Vehicles": 206.6,
+    "Science & Technology": 64.8,
     "Education": 0.9
   },
   "category_video_counts": {

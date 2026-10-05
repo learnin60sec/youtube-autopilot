@@ -118,5 +118,23 @@
     "url": "https://youtu.be/kf7j-DMb0hk",
     "time": "2026-10-04T21:43:19",
     "plan": "plans\\plan_20261004_213032_2.json"
+  },
+  {
+    "title": "Why Your Motorcycle Swerves When You Lean",
+    "url": "https://youtu.be/Nm277pqPDKE",
+    "time": "2026-10-05T15:10:01",
+    "plan": "plans/plan_20261005_144759_1.json"
+  },
+  {
+    "title": "Why Your Car Pulls Sideways (Part 1)",
+    "url": "https://youtu.be/dpYC1k2gOaA",
+    "time": "2026-10-05T15:10:09",
+    "plan": "plans/plan_20261005_144752_1.json"
+  },
+  {
+    "title": "Which Way to Steer in a Skid",
+    "url": "https://youtu.be/rynsn2N59zA",
+    "time": "2026-10-05T15:10:15",
+    "plan": "plans/plan_20261005_144752_2.json"
   }
 ]
