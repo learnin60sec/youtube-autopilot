@@ -1,0 +1,71 @@
+{
+  "title": "Why Your Car Pulls Sideways (Part 2)",
+  "hook": "Part 2! Stop letting a stuck caliper pull you.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Part 2! Stop letting a stuck caliper pull you.",
+      "visual_search": "mechanic working on car brake caliper"
+    },
+    {
+      "section": "Body",
+      "narration": "If your steering wheel yanks to one side when you brake, a sliding brake pin is likely seized. The caliper refuses to release pressure from the rotor. That constant friction drags one wheel down while the other rolls freely, forcing your car off a straight path.",
+      "visual_search": "car brake rotor spinning close up"
+    },
+    {
+      "section": "Call to action and Loop",
+      "narration": "Like if this helped, follow for daily driving tips. Has your car ever pulled sideways? Comment yes or no, because...",
+      "visual_search": "car driving on straight road steering wheel"
+    }
+  ],
+  "description": "Part 2 of our series on why your car pulls sideways. Discover how a stuck brake caliper or seized slider pin creates dangerous steering pull and uneven braking resistance.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips in usa",
+    "how to drive a car",
+    "car pulls sideways",
+    "brake caliper repair",
+    "steering wheel pull",
+    "car maintenance",
+    "auto repair tips",
+    "vehicle safety",
+    "learn in 60 seconds"
+  ],
+  "hashtags": [
+    "#cartips",
+    "#mechanic",
+    "#autos"
+  ],
+  "thumbnail_text": "Brake Pull Secret",
+  "why_it_will_work": "Directly continues a popular car maintenance theme, promising clear answers to a common mechanical problem.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Why Your Car Pulls Sideways",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-06T03:47:41.684947",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261006_034740_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261006_034740_2/thumbnail.jpg",
+  "duration_sec": 23.4,
+  "chapters": [],
+  "credits": [
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/a-man-is-working-on-a-car-in-a-garage-4489839/",
+    "Video by Devilishly Good on Pexels: https://www.pexels.com/video/car-repair-with-welding-sparks-in-auto-shop-32033211/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/close-up-of-a-fast-moving-sport-car-wheel-39140749/",
+    "Video by Matheus Bertelli on Pexels: https://www.pexels.com/video/vinyl-record-spinning-on-turntable-close-up-36056985/",
+    "Video by Nishant Aneja on Pexels: https://www.pexels.com/video/close-up-of-metal-lathe-machining-process-30907183/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "HgY9e5_g6ds",
+  "youtube_url": "https://youtu.be/HgY9e5_g6ds",
+  "uploaded_at": "2026-10-06T03:51:26",
+  "privacy_locked": false
+}

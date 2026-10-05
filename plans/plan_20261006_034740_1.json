@@ -1,0 +1,68 @@
+{
+  "title": "Why Your Car's Windshield Has a Black Frit Band",
+  "hook": "Stop ignoring that black dotted border.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop ignoring that black dotted border.",
+      "visual_search": "close up of car windshield black ceramic dots"
+    },
+    {
+      "section": "Body",
+      "narration": "That dark ceramic paint is called a frit. It hides the glue holding your glass in place. But those tiny fading dots serve a bigger purpose. They block harsh sunlight from melting the urethane adhesive and distribute heat evenly so your glass does not crack from temperature shock.",
+      "visual_search": "car windshield glue installation"
+    },
+    {
+      "section": "Call to action and Loop",
+      "narration": "Like if this helped, follow for daily driving tips. Did you knew about the frit? Comment yes or no, because if you didn't...",
+      "visual_search": "driver looking through windshield sunny day"
+    }
+  ],
+  "description": "Ever wonder what the black dots and ceramic borders on your car windshield actually do? Learn the hidden engineering behind the automotive frit band and how it protects your windshield glass.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips and tricks",
+    "car facts",
+    "windshield frit",
+    "car features",
+    "auto maintenance",
+    "vehicle secrets",
+    "learn in 60 seconds",
+    "automotive tips",
+    "car care"
+  ],
+  "hashtags": [
+    "#cartips",
+    "#driving",
+    "#cars"
+  ],
+  "thumbnail_text": "Secret Windshield Dots",
+  "why_it_will_work": "Leverages curiosity about everyday automotive details that most drivers see constantly but never understand.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-06T03:47:40.995371",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261006_034740_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261006_034740_1/thumbnail.jpg",
+  "duration_sec": 23.6,
+  "chapters": [],
+  "credits": [
+    "Video by Binil  Babu on Pexels: https://www.pexels.com/video/close-up-of-raindrops-on-glass-12742709/",
+    "Video by Nothing Ahead on Pexels: https://www.pexels.com/video/close-up-of-raindrops-on-glass-12601922/",
+    "Video by setengah lima sore on Pexels: https://www.pexels.com/video/man-cleaning-car-windshield-in-garage-setting-37416321/",
+    "Video by setengah lima sore on Pexels: https://www.pexels.com/video/asian-man-cleaning-car-windshield-outdoors-37416326/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/a-man-in-a-plaid-shirt-is-in-a-car-4482082/",
+    "Video by Mirza  Muneeb on Pexels: https://www.pexels.com/video/driving-through-scenic-road-on-sunny-day-28824679/",
+    "Video by Ediphan Özlü on Pexels: https://www.pexels.com/video/pov-driving-vintage-car-on-sunny-day-34540857/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "_oAxt5Hcmz4",
+  "youtube_url": "https://youtu.be/_oAxt5Hcmz4",
+  "uploaded_at": "2026-10-06T03:51:21",
+  "privacy_locked": false
+}
