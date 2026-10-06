@@ -1,0 +1,57 @@
+{
+  "title": "Never Wash a Hot Cast Iron Skillet",
+  "hook": "Never dump cold water on iron.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never dump cold water on iron.",
+      "visual_search": "hot cast iron pan sizzling on stove"
+    },
+    {
+      "section": "Myth vs Fact",
+      "narration": "Some think thermal shock only affects cheap pans, but extreme temperature changes snap even heavy cast iron in half.",
+      "visual_search": "steam rising from hot cast iron skillet"
+    },
+    {
+      "section": "Call to action",
+      "narration": "Like this video and follow for quick kitchen hacks. Have you ever warped a pan? Comment below.",
+      "visual_search": "person cleaning kitchen counter"
+    },
+    {
+      "section": "Loop",
+      "narration": "That is why you should never dump cold water on iron.",
+      "visual_search": "clean cast iron skillet hanging in kitchen"
+    }
+  ],
+  "description": "Learn the right way to clean your kitchen equipment without ruining your cookware. Avoid thermal shock and keep your pans lasting a lifetime with this quick kitchen hack.",
+  "tags": [
+    "how to clean a cast iron skillet",
+    "life hacks for home",
+    "kitchen hacks",
+    "cast iron care",
+    "cooking tips",
+    "cleaning tips",
+    "how to clean",
+    "home tips",
+    "kitchen maintenance",
+    "cast iron seasoning"
+  ],
+  "hashtags": [
+    "#kitchenhacks",
+    "#castiron",
+    "#cleaningtips"
+  ],
+  "thumbnail_text": "STOP DOING THIS",
+  "why_it_will_work": "Taps into the massive how-to and life hacks search volume, offering a sharp Myth vs Fact structure that keeps viewers watching until the loop.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Howto & Style",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: extreme temperature changes snap even heavy cast iron in half is exaggerated and inaccurate for normal kitchen scenarios; thermal shock warps cast iron rather than snapping heavy pans in half under normal circumstances"
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-07T02:14:18.802295"
+}

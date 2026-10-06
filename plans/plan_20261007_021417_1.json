@@ -1,0 +1,76 @@
+{
+  "title": "Never Turn Your Wheel While Parked (Part 1)",
+  "hook": "Stop turning your wheels while parked.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop turning your wheels while parked.",
+      "visual_search": "close up of car tires turning on asphalt"
+    },
+    {
+      "section": "Body",
+      "narration": "Dry steering grinds your steering components against heavy friction without tire roll, wearing down your linkage fast.",
+      "visual_search": "car suspension parts close up mechanical"
+    },
+    {
+      "section": "Call to action",
+      "narration": "Like if this helped, follow for daily driving tips. Did you know this? Comment yes or no.",
+      "visual_search": "person hands on steering wheel driving"
+    },
+    {
+      "section": "Loop",
+      "narration": "That is why you should always stop turning your wheels while parked.",
+      "visual_search": "car parked on city street daytime"
+    }
+  ],
+  "description": "Stop dry steering your car and save your suspension. Learn why turning your wheels while completely stopped causes unnecessary wear on your vehicle's steering system. Follow so you don't miss Part 2!",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips for new drivers",
+    "car maintenance",
+    "driving tips and tricks",
+    "how to drive a car",
+    "beginner driver",
+    "car tips",
+    "driving advice",
+    "auto repair",
+    "steering mechanism"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carmaintenance",
+    "#learnontiktok"
+  ],
+  "thumbnail_text": "STOP DRY STEERING",
+  "why_it_will_work": "Leverages viewer interest in practical vehicle mechanics and beginner driving lessons, following the proven success of our short steering technique videos.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Dry Steering Explained",
+    "part": 1,
+    "next_part_idea": "How to properly align your tires when parking on a hill"
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-07T02:14:17.835281",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261007_021417_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261007_021417_1/thumbnail.jpg",
+  "duration_sec": 16.2,
+  "chapters": [],
+  "credits": [
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/close-up-of-a-fast-moving-sport-car-wheel-39140749/",
+    "Video by Diego Castro Calderon on Pexels: https://www.pexels.com/video/close-up-of-rusty-industrial-machine-gear-35069364/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/close-up-video-of-a-machine-5846713/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Ufuk  Avcuoğlu on Pexels: https://www.pexels.com/video/sleek-black-car-on-cobblestone-street-39596660/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "X885uwV4tf8",
+  "youtube_url": "https://youtu.be/X885uwV4tf8",
+  "uploaded_at": "2026-10-07T02:34:22",
+  "privacy_locked": false
+}

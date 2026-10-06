@@ -1,0 +1,136 @@
+{
+  "title": "Why Manual Cars Have a Third Pedal",
+  "hook": "Your left foot has one job in a manual car, and pressing it the wrong way melts metal.",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "Your left foot has one job in a manual car, and pressing it the wrong way melts metal. Most new drivers think the clutch pedal is just a heavy on-off switch for shifting gears. But treating it like a standard floor mat ruins the entire transmission faster than you think. Today, we are breaking down the exact mechanical reason why resting your foot on the clutch creates expensive disaster, and the right way to drive. When you sit behind the wheel of a stick shift, that third pedal on the far left looks intimidating. Automatic cars get away with just a gas and a brake, so why do manual cars demand this extra limb workout? The secret lies in how the engine connects to the wheels. Unlike an automatic that uses fluid to transfer power, a manual car uses pure physical contact. Two heavy metal discs are literally pressed together by a massive spring to send power from your engine to your transmission. When you push the clutch pedal down, you are pulling those two spinning discs apart so you can change gears safely. But if you keep even a tiny bit of pressure on that pedal while driving, those discs do not fully lock together. They slip, slide, and generate massive amounts of heat.",
+      "visual_search": "close up of car driver feet pressing pedals"
+    },
+    {
+      "section": "The Hidden Mechanism",
+      "narration": "Inside your manual car, the clutch is a heavy-duty friction disc clamped tightly against a spinning metal flywheel by massive spring pressure. This direct connection is what transfers the power from your engine straight to your wheels so the car actually moves. When you push that third pedal all the way to the floor, a mechanical linkage or hydraulic cylinder pushes a release bearing against those heavy springs. That action temporarily separates the disc from the spinning engine, creating a safe gap so you can smoothly shift gears without grinding the transmission. Think of it like two spinning plates clamped together; when you press the pedal, you are pulling them apart. But here is where a very subtle driving habit can quietly destroy this entire assembly. Many drivers finish shifting, take their hand off the shifter, but leave their left foot resting just a tiny bit of weight right on top of the pedal while cruising down the highway. Because the release bearing is now constantly brushing against those high-speed springs, it creates microscopic friction and premature wear every single mile. That innocent-looking habit turns a part meant to last for years into a fast-expiring consumable. What is that extra plastic pedal on the far left actually for, and why is it secretly saving your transmission?",
+      "visual_search": "car engine parts close up mechanical"
+    },
+    {
+      "section": "The Friction Danger",
+      "narration": "That tiny bit of continuous pressure from your sneaker is enough to slightly lift the release bearing against the spinning springs. Instead of a full clamp, the clutch disc starts slipping against the heavy flywheel. Think of rubbing your hands together rapidly on a freezing winter day. That constant friction generates intense heat, glazing the clutch surface and wearing down the delicate metal components in just a few thousand miles. If you're learning something, subscribe, it helps a lot. But what happens to your left foot when you aren't actually shifting gears?",
+      "visual_search": "mechanic repairing manual car transmission"
+    },
+    {
+      "section": "Dead Pedal Habit",
+      "narration": "Professional instructors teach a specific habit to protect against this exact wear: the dead pedal. Every manual car features a flat piece of metal or plastic to the left of the clutch specifically for your resting foot. When you finish shifting, your left foot moves immediately to that dead pedal, completely removing any accidental pressure from the clutch mechanism. Keeping your foot hovering above the pedal or resting lightly against it might feel natural, but it creates continuous friction that wears down internal parts far before their time. The dead pedal acts as a physical barrier to break that bad habit, giving your foot a secure home base. Drivers who skip this step often notice strange burning smells during long road trips without realizing why. But the next one surprises most people about how fast actual damage happens on steep inclines.",
+      "visual_search": "driver foot on dead pedal in car"
+    },
+    {
+      "section": "Holding Hills",
+      "narration": "Have you ever tried to hold your car in place on a steep hill using just the clutch and gas? It feels like a neat trick, but it is actually one of the fastest ways to ruin your transmission. When you balance the car on an incline using only the biting point, the clutch disc spins constantly against the flywheel. Because there is no airflow inside the housing, this creates massive heat. Within just a few seconds, you are literally baking the friction material until it burns and smokes. Instead of doing this, the correct way is to use your handbrake to hold the car while you find the biting point, and then release it as you move forward. This simple habit completely eliminates unnecessary friction and saves you a very expensive repair bill. But did you know that resting your foot on the wrong pedal while cruising down the highway is doing almost the exact same kind of damage?",
+      "visual_search": "car driving up steep hill road"
+    },
+    {
+      "section": "Summary and Outro",
+      "narration": "To recap everything we covered today, driving a manual car successfully comes down to three simple habits. First, keep your left foot completely away from the clutch pedal unless you are actively shifting gears. Second, always use that flat resting area to the left, known as the dead pedal, to keep your body stable and your foot safe. Third, rely on your handbrake when waiting on a steep hill instead of trying to balance the car using the clutch and gas pedals. Following these simple practices will keep your transmission healthy and your drives smooth. Let us know in the comments: have you ever accidentally smelled a burnt clutch while driving? If you want to master more essential driving techniques and become a more confident driver, check out the other videos on our channel right now.",
+      "visual_search": "modern car interior dashboard driving"
+    }
+  ],
+  "description": "Learn the mechanical reason why resting your foot on the clutch pedal ruins manual transmissions. Discover proper foot placement and driving tips for new drivers.",
+  "tags": [
+    "driving tips for beginners",
+    "how to drive a manual car",
+    "manual car driving",
+    "driving tips",
+    "car maintenance",
+    "clutch pedal",
+    "learn to drive",
+    "driving tips and tricks",
+    "beginner driver",
+    "car tips"
+  ],
+  "hashtags": [
+    "#manualcar",
+    "#drivingtips",
+    "#cars"
+  ],
+  "thumbnail_text": "STOP DOING THIS",
+  "why_it_will_work": "Leverages high search volume for manual driving tutorials while targeting a very common beginner mistake with a surprising mechanical fact.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "long",
+  "language": "English",
+  "created_at": "2026-10-07T02:14:33.969996",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261007_021423_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261007_021423_1/thumbnail.jpg",
+  "duration_sec": 322.8,
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Intro"
+    },
+    {
+      "t": 69,
+      "title": "The Hidden Mechanism"
+    },
+    {
+      "t": 144,
+      "title": "The Friction Danger"
+    },
+    {
+      "t": 177,
+      "title": "Dead Pedal Habit"
+    },
+    {
+      "t": 228,
+      "title": "Holding Hills"
+    },
+    {
+      "t": 278,
+      "title": "Summary and Outro"
+    }
+  ],
+  "credits": [
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-of-race-car-driver-head-9737839/",
+    "Video by utopia 36 on Pexels: https://www.pexels.com/video/close-up-of-car-dashboard-while-driving-12769430/",
+    "Video by Özgür Sürmeli on Pexels: https://www.pexels.com/video/child-shifting-gears-in-a-car-interior-close-up-34593373/",
+    "Video by Bence Szemerey on Pexels: https://www.pexels.com/video/close-up-on-hands-driving-car-10579034/",
+    "Video by Alena Darmel on Pexels: https://www.pexels.com/video/close-up-of-a-foot-stepping-on-a-go-kart-pedal-8155680/",
+    "Video by Михаил Косолапович on Pexels: https://www.pexels.com/video/hand-pressing-buttons-on-toyota-steering-wheel-11330932/",
+    "Video by ArtHouse Studio on Pexels: https://www.pexels.com/video/pressing-a-lever-with-his-shoes-7686507/",
+    "Video by Pedro H.  Novais on Pexels: https://www.pexels.com/video/close-up-of-a-car-engine-showing-mechanical-details-39112150/",
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-of-vintage-car-engine-detail-31220643/",
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-of-car-engine-with-belt-9737950/",
+    "Video by Ammad Rasool on Pexels: https://www.pexels.com/video/close-up-of-a-man-working-on-a-car-part-8065317/",
+    "Video by WeStarMoney  Rec on Pexels: https://www.pexels.com/video/close-up-shot-of-an-engine-4101732/",
+    "Video by WeStarMoney  Rec on Pexels: https://www.pexels.com/video/a-close-up-shot-of-a-car-s-radiator-fan-4101734/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/black-and-white-film-of-starting-car-engine-8987276/",
+    "Video by K on Pexels: https://www.pexels.com/video/a-motor-vehicle-engine-installed-in-a-car-engine-compartment-3066460/",
+    "Video by utopia 36 on Pexels: https://www.pexels.com/video/a-mechanic-repairing-a-vehicle-14514790/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/an-auto-mechanic-repairing-a-vehicle-8987078/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/a-female-mechanic-repairing-a-truck-7006123/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/close-up-shot-of-a-mechanic-repairing-a-vehicle-7565185/",
+    "Video by Rholdan Ortiz on Pexels: https://www.pexels.com/video/a-woman-driving-a-car-in-broad-daylight-3704305/",
+    "Video by KoolShooters on Pexels: https://www.pexels.com/video/a-person-grabbing-a-gun-inside-a-car-8104919/",
+    "Video by Ricky Esquivel on Pexels: https://www.pexels.com/video/slow-motion-footage-of-a-person-sitting-in-an-open-door-vehicle-cleaning-the-sand-off-inside-his-leather-boots-3057649/",
+    "Video by Taryn Elliott on Pexels: https://www.pexels.com/video/a-woman-entering-a-car-4570336/",
+    "Video by Marcos Monteiro on Pexels: https://www.pexels.com/video/close-up-shot-of-a-bass-drum-pedal-6422745/",
+    "Video by KoolShooters on Pexels: https://www.pexels.com/video/a-robber-carrying-a-duffle-bag-while-entering-a-car-8102788/",
+    "Video by ArtHouse Studio on Pexels: https://www.pexels.com/video/aerial-footage-of-a-car-driving-on-a-dangerous-road-5087792/",
+    "Video by class SSS on Pexels: https://www.pexels.com/video/a-car-driving-down-a-road-in-the-mountains-18973210/",
+    "Video by Connor Scott McManus on Pexels: https://www.pexels.com/video/4x4-car-driving-off-road-11794065/",
+    "Video by SwissHumanity Stories on Pexels: https://www.pexels.com/video/car-on-mountain-road-12430396/",
+    "Video by Nitin Khajotia on Pexels: https://www.pexels.com/video/aerial-view-of-cars-driving-on-a-mountain-road-15952999/",
+    "Video by Ali  Alcántara on Pexels: https://www.pexels.com/video/a-man-driving-a-car-with-a-steering-wheel-and-dashboard-17770564/",
+    "Video by Richard O. on Pexels: https://www.pexels.com/video/interior-of-car-while-driving-on-road-13646170/",
+    "Video by Boris Ivas on Pexels: https://www.pexels.com/video/view-from-car-interior-driving-in-tunnel-11269279/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/a-man-is-driving-a-car-in-the-city-16653342/",
+    "Video by Rodrigo Garcin on Pexels: https://www.pexels.com/video/close-up-of-driving-car-13078818/"
+  ],
+  "playlist": "Full Guides (Long Videos)",
+  "youtube_id": "S9lDZKJxTzg",
+  "youtube_url": "https://youtu.be/S9lDZKJxTzg",
+  "uploaded_at": "2026-10-07T02:34:12",
+  "privacy_locked": false
+}
