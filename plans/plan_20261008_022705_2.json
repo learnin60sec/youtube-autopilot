@@ -1,0 +1,57 @@
+{
+  "title": "How to Park on a Hill (Part 2)",
+  "hook": "Part 2! Properly align your tires.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Part 2! Properly align your tires.",
+      "visual_search": "car parked on a steep hill slope"
+    },
+    {
+      "section": "Steps",
+      "narration": "First, pull close to the curb and stop completely with your foot on the brake. Second, turn your steering wheel sharply toward the curb if you are facing downhill, or away from the curb if you are facing uphill. Third, gently let the car roll until the front tire rests lightly against the curb before setting your parking brake.",
+      "visual_search": "close up of car wheel touching curb"
+    },
+    {
+      "section": "Call to action",
+      "narration": "Like if this helped, follow for daily driving tips. Have you ever parked on a hill? Comment below, to make sure you never forget to properly align your tires.",
+      "visual_search": "driver setting parking brake in vehicle"
+    }
+  ],
+  "description": "Part 2 of Dry Steering Explained! Learn how to properly align your tires when parking on a hill to keep your car secure and protect your steering components.\n\nEssential knowledge for all new drivers in the usa.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips parking",
+    "how to drive a car",
+    "parking on a hill",
+    "driving tips for new drivers",
+    "driving tips usa",
+    "car tips",
+    "parking tutorial",
+    "driving guide",
+    "driver education",
+    "vehicle safety",
+    "car handling"
+  ],
+  "hashtags": [
+    "#parking",
+    "#drivingtips",
+    "#newdriver"
+  ],
+  "thumbnail_text": "HILL PARKING TRICK",
+  "why_it_will_work": "Continues a high-performing channel series and answers a high-volume search intent for parking tips.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Dry Steering Explained",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Instructing the driver to gently let the car roll until the tire rests against the curb can cause tire and wheel damage, and is not standard safe driving practice."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-08T02:27:06.877477"
+}

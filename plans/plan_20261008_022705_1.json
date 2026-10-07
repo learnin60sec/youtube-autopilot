@@ -1,0 +1,71 @@
+{
+  "title": "Stop These 3 Steering Mistakes While Parking",
+  "hook": "Stop ruining your steering system now.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop ruining your steering system now.",
+      "visual_search": "close up of car steering wheel turning sharply"
+    },
+    {
+      "section": "Mistakes",
+      "narration": "First, never turn your steering wheel while the car is completely stopped. That causes massive wear on your tires and suspension joints. Second, stop holding the steering wheel at full lock when making sharp turns. Back off slightly to save your power steering pump from overheating. Third, never let the steering wheel snap back on its own after a tight turn. Always guide it smoothly.",
+      "visual_search": "driver hands turning steering wheel inside car"
+    },
+    {
+      "section": "Call to action",
+      "narration": "Like if this helped, follow for daily driving tips. Did you know this? Comment yes or no, because you might want to stop ruining your steering system now.",
+      "visual_search": "car driving on sunny asphalt road"
+    }
+  ],
+  "description": "Learn the top three steering mistakes that damage your car's suspension and steering components. Small adjustments to how you park can save you hundreds in repair costs.\n\nMaster these essential driving tips for beginners and keep your car running smoothly.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips and tricks",
+    "how to drive a car",
+    "car maintenance",
+    "steering mistakes",
+    "driving lessons",
+    "new driver tips",
+    "auto advice",
+    "car care tips",
+    "driving hacks",
+    "vehicle maintenance",
+    "safe driving"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carmaintenance",
+    "#learntodrive"
+  ],
+  "thumbnail_text": "STOP STEERING MISTAKES",
+  "why_it_will_work": "Leverages the high-performing mistake-lesson trend and matches successful educational driving content on the channel.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-08T02:27:05.786837",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261008_022705_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261008_022705_1/thumbnail.jpg",
+  "duration_sec": 29.5,
+  "chapters": [],
+  "credits": [
+    "Video by Alex Moliski on Pexels: https://www.pexels.com/video/classic-car-steering-wheel-close-up-34479400/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-interior-dashboard-close-up-36474525/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Pavel Danilyuk on Pexels: https://www.pexels.com/video/hands-of-a-man-on-the-steering-wheel-5520046/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/hands-on-hyundai-steering-wheel-13675325/",
+    "Video by Image Hunter on Pexels: https://www.pexels.com/video/driving-car-on-mountain-road-13229471/",
+    "Video by Hafize  Balcı on Pexels: https://www.pexels.com/video/a-car-driving-on-a-highway-with-a-view-of-the-sky-27999945/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "gddkiUCSamU",
+  "youtube_url": "https://youtu.be/gddkiUCSamU",
+  "uploaded_at": "2026-10-08T02:28:59",
+  "privacy_locked": false
+}
