@@ -1,0 +1,69 @@
+{
+  "title": "What Happens If You Rest Your Hand on the Gear Shifter",
+  "hook": "Stop resting your hand on the shifter.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop resting your hand on the shifter.",
+      "visual_search": "driver hand resting on manual gear shift close up"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Your car's gear selector fork presses constantly against rotating internal collars. That tiny weight causes premature friction, wearing down brass synchronizer rings inside the transmission.",
+      "visual_search": "car manual transmission gears mechanics workshop"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Keep both hands on the wheel. Like if this helped, follow for daily driving tips. Do you rest your hand there? Comment yes or no. Because...",
+      "visual_search": "driver hands holding steering wheel road trip"
+    }
+  ],
+  "description": "Stop resting your hand on the gear shifter while driving. This common habit causes premature internal transmission wear and costly repairs over time. Learn how to protect your car's manual or automatic gearbox with simple daily driving habits.",
+  "tags": [
+    "driving tips for beginners",
+    "how to drive a manual car",
+    "driving tips and tricks",
+    "driving tips for new drivers",
+    "car maintenance",
+    "driving mistakes",
+    "transmission repair",
+    "manual transmission",
+    "car care tips",
+    "driving habits",
+    "learn to drive",
+    "automotive tips"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carmaintenance",
+    "#cartips"
+  ],
+  "thumbnail_text": "STOP DOING THIS",
+  "why_it_will_work": "Leverages viewer curiosity about common hidden driving habits that damage vehicles, matching high-performing educational content.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-10T01:58:04.239792",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261010_015803_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261010_015803_1/thumbnail.jpg",
+  "duration_sec": 20.3,
+  "chapters": [],
+  "credits": [
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/a-man-in-overalls-working-on-a-car-4488711/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/a-man-is-working-on-a-car-in-a-garage-4489839/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/car-vehicle-fix-repair-4489872/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Image Hunter on Pexels: https://www.pexels.com/video/hand-on-volkwagen-steering-wheel-13091620/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "aV7P-XfE5QI",
+  "youtube_url": "https://youtu.be/aV7P-XfE5QI",
+  "uploaded_at": "2026-10-10T02:00:58",
+  "privacy_locked": false
+}

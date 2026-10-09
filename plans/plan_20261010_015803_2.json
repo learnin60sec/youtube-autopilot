@@ -1,0 +1,72 @@
+{
+  "title": "How to Align Your Wheels on a Hill (Part 2)",
+  "hook": "Part two! Never park on hills unprotected.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Part two! Never park on hills unprotected.",
+      "visual_search": "car parked on a steep hill street angle"
+    },
+    {
+      "section": "Steps",
+      "narration": "Turn your steering wheel completely toward the curb when facing downhill so the tires catch if brakes fail. When facing uphill with a curb, turn your wheels sharply away from the street.",
+      "visual_search": "car front wheel turned against curb close up"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Always engage your parking brake first. Like if this helped, follow for daily driving tips. Did you know this trick? Comment yes or no. Because...",
+      "visual_search": "driver pulling emergency handbrake lever"
+    }
+  ],
+  "description": "Part 2 of Dry Steering Explained! Learn how to properly align your tires when parking on a hill to keep your car safe if brakes ever fail. Essential parking tips for new and beginner drivers.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips parking",
+    "driving tips and tricks",
+    "how to park a car",
+    "parking tips",
+    "hill parking",
+    "driving tips for new drivers",
+    "car safety",
+    "driving lessons",
+    "parallel parking",
+    "driving guide",
+    "car maintenance"
+  ],
+  "hashtags": [
+    "#parking",
+    "#drivingtips",
+    "#newdriver"
+  ],
+  "thumbnail_text": "HILL PARKING HACK",
+  "why_it_will_work": "Fulfills the promised continuation of a popular series while answering high-intent search queries about parking safety.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Dry Steering Explained",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-10T01:58:04.948415",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261010_015803_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261010_015803_2/thumbnail.jpg",
+  "duration_sec": 20.6,
+  "chapters": [],
+  "credits": [
+    "Video by Ufuk  Avcuoğlu on Pexels: https://www.pexels.com/video/sleek-black-car-on-cobblestone-street-39596660/",
+    "Video by URBANSURF .me on Pexels: https://www.pexels.com/video/people-walking-on-steep-street-in-istanbul-10661206/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/close-up-of-a-fast-moving-sport-car-wheel-39140749/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/close-up-of-car-indicator-light-35585198/",
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/ambulance-driver-flipping-switches-6520259/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/driver-inside-car-adjusting-mirror-during-daylight-35585187/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "THgoWDftAUs",
+  "youtube_url": "https://youtu.be/THgoWDftAUs",
+  "uploaded_at": "2026-10-10T02:01:03",
+  "privacy_locked": false
+}
