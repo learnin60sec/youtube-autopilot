@@ -1,0 +1,71 @@
+{
+  "title": "Stop Using Your Engine Brake Like This (Part 1)",
+  "hook": "Stop misusing your engine brake.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop misusing your engine brake.",
+      "visual_search": "semi truck driving down steep mountain highway"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Many drivers think downshifting replaces foot brakes entirely on steep descents. But shifting too aggressively overworks your transmission instead of saving it.",
+      "visual_search": "driver shifting manual gear stick aggressively"
+    },
+    {
+      "section": "Fix and Call to Action",
+      "narration": "Use a steady, balanced combo of both. Like if this helped, follow for daily driving tips. Do you use engine braking? Comment yes or no.",
+      "visual_search": "car dashboard speedometer close up"
+    }
+  ],
+  "description": "Learn the proper way to use engine braking on steep hills without damaging your transmission. Perfect for new drivers looking to improve vehicle control and safety.\n\nFollow along for Part 2 where we cover advanced downhill driving techniques.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips and tricks",
+    "how to drive a manual car",
+    "engine braking",
+    "car tips",
+    "driving mistakes",
+    "vehicle maintenance",
+    "safe driving",
+    "new drivers",
+    "driving advice",
+    "automotive"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#manual",
+    "#cars"
+  ],
+  "thumbnail_text": "STOP ENGINE BRAKING",
+  "why_it_will_work": "Leverages real driver search intent for beginners while acting as Part 1 of a cliffhanger series that viewers will follow to complete.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Engine Brake Mastery",
+    "part": 1,
+    "next_part_idea": "How to properly select the correct gear before descending a steep hill."
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-11T01:10:46.146327",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261011_011045_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261011_011045_1/thumbnail.jpg",
+  "duration_sec": 18.6,
+  "chapters": [],
+  "credits": [
+    "Video by Rashed Hossain on Pexels: https://www.pexels.com/video/truck-driving-on-rough-mountain-road-36530439/",
+    "Video by Alberto Escalona on Pexels: https://www.pexels.com/video/professional-driver-preparing-for-track-racing-32960634/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/driver-inside-car-adjusting-mirror-during-daylight-35585187/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/close-up-of-car-dashboard-speedometer-35585177/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/close-up-of-car-speedometer-reaching-60-mph-36474529/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "IsEgjW7B_7s",
+  "youtube_url": "https://youtu.be/IsEgjW7B_7s",
+  "uploaded_at": "2026-10-11T01:12:06",
+  "privacy_locked": false
+}

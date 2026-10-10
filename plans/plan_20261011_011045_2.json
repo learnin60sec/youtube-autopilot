@@ -1,0 +1,52 @@
+{
+  "title": "Why Your Phone Battery Dies So Fast at Night",
+  "hook": "Stop leaving your phone charging overnight.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop leaving your phone charging overnight.",
+      "visual_search": "smartphone plugged into charger on nightstand"
+    },
+    {
+      "section": "Myth vs Fact",
+      "narration": "Most people assume reaching one hundred percent overnight ruins the battery. The myth is that modern phones keep force-feeding current once full.",
+      "visual_search": "person sleeping next to glowing phone screen"
+    },
+    {
+      "section": "Truth and Call to Action",
+      "narration": "The real culprit is background apps syncing data while plugged in, heating up the processor. Like if this helped, follow for tech tips. Do you charge overnight? Comment yes or no.",
+      "visual_search": "close up of microchip glowing technology"
+    }
+  ],
+  "description": "Discover the real reason why your phone battery drains so fast even after a full night's charge. Stop letting background apps ruin your phone life.\n\nLearn how smart charging works and how to protect your device battery health today.",
+  "tags": [
+    "how does a phone work",
+    "how does a phone battery work",
+    "why does my phone die so fast",
+    "phone battery tips",
+    "tech tips",
+    "smartphone hacks",
+    "battery life",
+    "charging habits",
+    "mobile tech",
+    "science and tech"
+  ],
+  "hashtags": [
+    "#phonetips",
+    "#tech",
+    "#batterylife"
+  ],
+  "thumbnail_text": "BATTERY DRAIN MYTH",
+  "why_it_will_work": "Taps into the massive Science & Technology search volume around phone battery issues with a high-retention Myth vs Fact format.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Science & Technology",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: The claim that background apps syncing data while plugged in is the main reason phone batteries drain or degrade at night is misleading and factually incorrect for standard overnight charging.; Modern smartphones use power management integrated circuits that stop drawing significant current once fully charged, meaning background apps run off wall power or trickle charge without causing excessive processor heat."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-11T01:10:47.038892"
+}
