@@ -1,0 +1,146 @@
+{
+  "title": "Why Your Car Engine Needs Warm-Up Time",
+  "hook": "Stop idling your car for ten minutes on freezing mornings, because you are actually wasting your gas and hurting your engine.",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "Stop idling your car for ten minutes on freezing mornings, because you are actually wasting your gas and hurting your engine. For generations, drivers were taught that a long warmup is mandatory before shifting into gear. But your modern vehicle uses completely different technology than the old classic cars parked in your grandfather's garage. In the next sixty seconds, you will discover how modern fuel systems work, why oil circulation happens faster than you think, and the exact thirty second rule you should follow every time you start your commute. We will also look at how idling too long can wash away vital lubrication from your cylinder walls. Let's clear up the confusion so you can protect your vehicle, save money at the pump, and get on the road safely without the wait.",
+      "visual_search": "car engine starting in cold morning"
+    },
+    {
+      "section": "The Carburetor Myth",
+      "narration": "To understand why modern engines behave differently, we have to look back at why older generations waited so long before driving. Older cars used carburetors to mix air and fuel mechanically. Without heat, the liquid fuel would pool in the cold intake manifold, causing the engine to sputter and stall. Drivers actually had to let the engine block get quite warm before that mixture stabilized enough to drive smoothly. But the next fact surprises almost everyone: modern fuel injection completely eliminated that problem. Instead of relying on passive heat, tiny computer sensors measure the air and temperature instantly, adjusting the fuel spray from the very first second you turn the key. So why do we still wait at all if the carburetor problem is gone? The answer hides inside a part of your engine that is still completely dry.",
+      "visual_search": "vintage car carburetor engine close up"
+    },
+    {
+      "section": "Modern Fuel Injection",
+      "narration": "If your car was built in the last couple of decades, it uses electronic fuel injection instead of an old-school carburetor. Instead of you needing to manually choke the engine, smart computer sensors read the outside temperature and automatically adjust the fuel mix right when you turn the key. This means the engine runs safely and smoothly within just a few seconds. You definitely do not need to sit in your driveway for five or ten minutes waiting around. In fact, letting a modern car idle too long actually slows down how fast the exhaust system warms up, which keeps the emissions equipment from working at its best. If you're learning something, subscribe, it helps a lot. But wait, if modern engines handle the cold so well, what is actually happening deep inside the motor during those first few seconds?",
+      "visual_search": "modern car engine bay glowing details"
+    },
+    {
+      "section": "Oil Circulation",
+      "narration": "Even though fuel injection lets you drive away right away, oil pressure is the real reason you still need a brief pause before hitting the road. When your car sits overnight, gravity pulls most of the motor oil down into the oil pan at the bottom of the engine. When you turn the key, the oil pump has to work to push that heavy liquid back up through the narrow channels, all the way to the valvetrain at the top. If you immediately start driving hard or revving the engine, those fast-moving metal parts will rub against each other before a protective layer of oil can fully coat them. Giving the pump just a moment to do its job prevents unnecessary wear and tear on your block. But waiting too long can actually cause a totally different problem you might not expect.",
+      "visual_search": "engine oil dripping lubrication close up"
+    },
+    {
+      "section": "The 30 Second Rule",
+      "narration": "So, what is the exact right amount of time to wait before you drive? For almost all modern passenger vehicles, thirty seconds to one minute of gentle idling is all it takes for your oil pressure to stabilize and coat every moving part. Once that initial loud high idle drops down closer to standard RPMs, your engine is ready to go. In fact, sitting in your driveway for ten minutes wastes fuel and doesn't help your engine nearly as much as you might think. The most efficient way to warm up a car is actually driving gently at low speeds down your street, because the mechanical load of moving the vehicle generates heat much faster than just burning gas in park. But did you know that idling too long before you drive can actually wash away essential lubrication from your cylinders? Let's talk about how that happens.",
+      "visual_search": "car dashboard tachometer revving smoothly"
+    },
+    {
+      "section": "Avoiding Cylinder Wash",
+      "narration": "Here is the critical mistake that many drivers make trying to protect their cars: excessive idling. When you let a modern engine sit and idle for ten or fifteen minutes in freezing weather, the cylinder walls stay cool. The excess fuel injected during startup can wash away the protective oil film on the cylinder walls, a phenomenon known as cylinder wash. This leads to premature wear on your piston rings. A short idle followed by gentle driving is always the safest method. But what if I told you that turning your car off and on again uses less gas than leaving it idling? Let us look at the final verdict.",
+      "visual_search": "mechanic inspecting engine pistons"
+    },
+    {
+      "section": "Recap And Outro",
+      "narration": "To wrap it up: modern engines only need about thirty seconds of idle time to let the oil pressure fully build, because fuel injection handles the air-fuel mixture instantly without any help from old-school warm-up routines. Avoiding long idling sessions protects your engine from extra wear, and driving gently until the temperature gauge rises keeps everything running smoothly. What is your go-to winter driving habit? Let us know in the comments below. If you want to keep learning how your car works, watch the video on your screen right now.",
+      "visual_search": "car driving away on winter road"
+    }
+  ],
+  "description": "Learn why modern cars don't need long warm-up times. We break down fuel injection, oil circulation, and how to protect your engine from premature wear.\n\nSubscribe for more quick automotive insights and driving tips.",
+  "tags": [
+    "car engine",
+    "driving tips",
+    "engine warm up",
+    "how cars work",
+    "car maintenance",
+    "automotive education",
+    "engine care",
+    "cold start car",
+    "modern engines",
+    "fuel injection",
+    "car tips for beginners",
+    "vehicle maintenance",
+    "mechanic advice"
+  ],
+  "hashtags": [
+    "#cars",
+    "#mechanic",
+    "#drivingtips"
+  ],
+  "thumbnail_text": "STOP IDLING YOUR CAR",
+  "why_it_will_work": "Leverages high search volume for driving tips and beginner car care while correcting a widespread, persistent misconception about engine warm-up routines.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "long",
+  "language": "English",
+  "created_at": "2026-10-12T01:21:45.578136",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261012_012137_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261012_012137_1/thumbnail.jpg",
+  "duration_sec": 296.9,
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Intro"
+    },
+    {
+      "t": 45,
+      "title": "The Carburetor Myth"
+    },
+    {
+      "t": 93,
+      "title": "Modern Fuel Injection"
+    },
+    {
+      "t": 140,
+      "title": "Oil Circulation"
+    },
+    {
+      "t": 183,
+      "title": "The 30 Second Rule"
+    },
+    {
+      "t": 230,
+      "title": "Avoiding Cylinder Wash"
+    },
+    {
+      "t": 266,
+      "title": "Recap And Outro"
+    }
+  ],
+  "credits": [
+    "Video by Dario Fernandez Ruz on Pexels: https://www.pexels.com/video/a-person-starting-the-engine-of-the-car-6421467/",
+    "Video by WeStarMoney  Rec on Pexels: https://www.pexels.com/video/car-music-hood-engine-4101740/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/an-engine-of-a-car-8986488/",
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-of-vintage-car-engine-detail-31220643/",
+    "Video by Rob  Cot on Pexels: https://www.pexels.com/video/car-key-in-close-up-view-2075170/",
+    "Video by LayG Traveller on Pexels: https://www.pexels.com/video/classic-car-engine-close-up-at-show-30085672/",
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-of-the-front-end-of-a-parked-classic-car-with-its-engine-showing-from-the-open-hood-3066446/",
+    "Video by K on Pexels: https://www.pexels.com/video/classic-car-dashboard-close-up-vintage-vibe-31220595/",
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-of-emblem-on-vintage-red-car-31220583/",
+    "Video by Gaurav Kumar on Pexels: https://www.pexels.com/video/high-performance-car-engine-close-up-in-motion-30391336/",
+    "Video by Vitaliy  Izonin on Pexels: https://www.pexels.com/video/close-up-of-car-engine-in-workshop-32329385/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/black-and-white-film-of-starting-car-engine-8987276/",
+    "Video by FÁBIO REIS DE ABREU (PORTUGA) on Pexels: https://www.pexels.com/video/close-up-view-of-car-engine-compartment-36381466/",
+    "Video by LayG Traveller on Pexels: https://www.pexels.com/video/vintage-engine-showcase-at-outdoor-car-show-30010011/",
+    "Video by WeStarMoney  Rec on Pexels: https://www.pexels.com/video/car-music-hood-engine-4101689/",
+    "Video by José Lizardo on Pexels: https://www.pexels.com/video/dripping-tap-in-close-up-10811027/",
+    "Video by Aurelijus U. on Pexels: https://www.pexels.com/video/close-up-of-honey-dripping-with-dipper-31656449/",
+    "Video by K on Pexels: https://www.pexels.com/video/a-close-up-of-a-spoon-stirring-up-some-red-sauce-19286019/",
+    "Video by Arctic Bell on Pexels: https://www.pexels.com/video/close-up-view-of-a-droplets-4837254/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/needle-in-close-up-7033785/",
+    "Video by Obada Abdullah on Pexels: https://www.pexels.com/video/closeup-of-illuminated-car-dashboard-gauges-30752440/",
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-of-classic-car-dashboard-31220663/",
+    "Video by Yash Patel on Pexels: https://www.pexels.com/video/modern-car-dashboard-with-digital-display-36079508/",
+    "Video by Rec Everywhere on Pexels: https://www.pexels.com/video/car-dashboard-ignition-startup-sequence-32084088/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/video-of-a-tachometer-revving-9174928/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/an-auto-mechanic-checking-the-engine-of-a-car-8986474/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/black-and-white-video-of-a-mechanic-working-on-a-engine-8986878/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/male-mechanic-working-on-an-engine-8986881/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/low-angle-shot-of-a-mechanic-working-on-an-engine-8986893/",
+    "Video by Sergei Skrynnik on Pexels: https://www.pexels.com/video/a-white-car-driving-on-a-dirt-road-in-a-snowy-landscape-11676133/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/a-car-driving-on-a-snow-covered-road-7508263/",
+    "Video by Josh Tavernier | iCapture Media Digital Marketing Agency on Pexels: https://www.pexels.com/video/a-car-is-parked-on-a-snowy-road-with-cars-parked-on-either-side-18019166/",
+    "Video by Efrem  Efre on Pexels: https://www.pexels.com/video/aerial-view-of-car-on-snowy-forest-road-36450049/"
+  ],
+  "playlist": "Full Guides (Long Videos)",
+  "youtube_id": "ReGe1CY-AwY",
+  "youtube_url": "https://youtu.be/ReGe1CY-AwY",
+  "uploaded_at": "2026-10-12T01:41:21",
+  "privacy_locked": false
+}

@@ -1,0 +1,81 @@
+{
+  "title": "How to Start a Manual Car on a Hill Without Rolling",
+  "hook": "Stop rolling backward on steep hills.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop rolling backward on steep hills.",
+      "visual_search": "driver pulling manual car handbrake on steep street"
+    },
+    {
+      "section": "Step 1",
+      "narration": "First, pull your handbrake firmly to hold the car in place.",
+      "visual_search": "close up of hand pulling car handbrake lever"
+    },
+    {
+      "section": "Step 2",
+      "narration": "Next, slowly release the clutch until you feel the engine bite.",
+      "visual_search": "driver foot pressing clutch pedal inside car"
+    },
+    {
+      "section": "Step 3",
+      "narration": "Finally, drop the handbrake as you accelerate smoothly forward.",
+      "visual_search": "car driving forward smoothly up a hill view"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Like if this helped, follow for daily driving tips. Do you drive manual? Comment yes or no, because you must stop rolling backward on steep hills.",
+      "visual_search": "rear view of car driving up steep city hill"
+    }
+  ],
+  "description": "Master starting a manual transmission car on a steep hill using the handbrake method. Learn these essential driving tips for beginners to prevent rolling backward and stalling.\n\nKeep your car safe and controlled in traffic with these quick driving tips and tricks.",
+  "tags": [
+    "driving tips for beginners",
+    "how to drive a manual car",
+    "manual car hill start",
+    "driving tips and tricks",
+    "driving tips turning",
+    "driving tips parking",
+    "how to drive a car",
+    "driving tips in usa",
+    "manual transmission",
+    "hill start assist",
+    "learn to drive",
+    "driving lessons",
+    "car tips"
+  ],
+  "hashtags": [
+    "#manual",
+    "#drivingtips",
+    "#cars"
+  ],
+  "thumbnail_text": "HILL START TRICK",
+  "why_it_will_work": "Taps into high-demand search terms for manual driving and beginner tips, delivering clear step-by-step value in under 30 seconds.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-12T01:21:31.281290",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261012_012130_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261012_012130_1/thumbnail.jpg",
+  "duration_sec": 20.9,
+  "chapters": [],
+  "credits": [
+    "Video by Polina Istomina on Pexels: https://www.pexels.com/video/dynamic-racing-car-pov-on-track-37622449/",
+    "Video by Honye Sanges on Pexels: https://www.pexels.com/video/a-woman-smiling-while-sitting-on-a-car-seat-9035107/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-interior-dashboard-close-up-36474525/",
+    "Video by Kindel Media on Pexels: https://www.pexels.com/video/woman-seating-inside-the-car-while-chewing-7714367/",
+    "Video by Nothing Ahead on Pexels: https://www.pexels.com/video/side-view-mirror-of-a-car-driving-on-a-highway-12601957/",
+    "Video by Image Hunter on Pexels: https://www.pexels.com/video/driving-car-on-mountain-road-13229471/",
+    "Video by Bofforss on Pexels: https://www.pexels.com/video/a-car-is-driving-down-the-street-next-to-a-truck-27555381/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "a8kECwJjE4U",
+  "youtube_url": "https://youtu.be/a8kECwJjE4U",
+  "uploaded_at": "2026-10-12T01:41:25",
+  "privacy_locked": false
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Stop Using Your Engine Brake Like This (Part 2)",
+  "hook": "Part two! Select your gear early.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Part two! Select your gear early.",
+      "visual_search": "driver shifting manual gear stick down on highway"
+    },
+    {
+      "section": "Question",
+      "narration": "Which gear should you choose before heading down a steep mountain pass?",
+      "visual_search": "POV winding mountain road from car windshield"
+    },
+    {
+      "section": "Pause and Reveal",
+      "narration": "Pause if you need to guess. The answer is the exact same lower gear you would use to drive back up that hill.",
+      "visual_search": "dashboard showing low gear indicator on car"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Doing this protects your brake pads from overheating and fading completely.",
+      "visual_search": "close up of car brake disc glowing hot on track"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Like if this helped, follow for daily driving tips. Did you know this? Comment yes or no, because part two! Select your gear early.",
+      "visual_search": "car driving safely down scenic mountain road"
+    }
+  ],
+  "description": "Welcome to Part 2 of Engine Brake Mastery. Building on our previous guide, learn how to properly select the correct lower gear before descending a steep mountain pass to protect your brakes.\n\nEssential driving knowledge for every vehicle owner to prevent brake fade on long descents.",
+  "tags": [
+    "engine brake",
+    "driving tips",
+    "mountain driving",
+    "car maintenance",
+    "how to drive",
+    "driving tips for beginners",
+    "brake safety",
+    "manual driving",
+    "automatic transmission tips",
+    "vehicle control",
+    "road safety",
+    "driving tricks",
+    "car care"
+  ],
+  "hashtags": [
+    "#enginebrake",
+    "#drivingtips",
+    "#cars"
+  ],
+  "thumbnail_text": "ENGINE BRAKE PART 2",
+  "why_it_will_work": "Directly follows up on a proven high-performing channel topic while using an interactive mini-quiz format that drives high engagement and comments.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Engine Brake Mastery",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-12T01:21:31.946991",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261012_012130_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261012_012130_2/thumbnail.jpg",
+  "duration_sec": 21.8,
+  "chapters": [],
+  "credits": [
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/woman-driving-on-urban-highway-in-daylight-35585182/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/hands-on-hyundai-steering-wheel-13675325/",
+    "Video by ArtHouse Studio on Pexels: https://www.pexels.com/video/a-moving-car-on-the-road-while-wiping-the-windshield-4605079/",
+    "Video by Sina Rezakhani on Pexels: https://www.pexels.com/video/modern-car-interior-with-sleek-dashboard-36202861/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/close-up-of-car-dashboard-speedometer-35585177/",
+    "Video by Matthias Groeneveld on Pexels: https://www.pexels.com/video/a-close-up-of-a-person-walking-on-a-sidewalk-16277045/",
+    "Video by LM 17 Met on Pexels: https://www.pexels.com/video/scenic-car-drive-on-mountain-road-35730365/",
+    "Video by Image Hunter on Pexels: https://www.pexels.com/video/driving-car-on-mountain-road-13229471/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "eoRCImVDGyg",
+  "youtube_url": "https://youtu.be/eoRCImVDGyg",
+  "uploaded_at": "2026-10-12T01:41:30",
+  "privacy_locked": false
+}
