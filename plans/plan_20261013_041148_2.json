@@ -1,0 +1,50 @@
+{
+  "title": "What Happens If You Shift Into Reverse While Driving",
+  "hook": "Never shift into reverse while moving.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never shift into reverse while moving.",
+      "visual_search": "manual gear shifter close up in car"
+    },
+    {
+      "section": "Body",
+      "narration": "Modern automatic and manual transmissions have safety lockouts, but forcing a car into reverse at speed creates massive mechanical shock. It can instantly shred your transmission gears and destroy your driveshaft.",
+      "visual_search": "car transmission mechanical gears close up"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Like if this helped, follow for daily car tips. Have you ever accidentally mis-shifted? Comment below, because never shift into reverse while moving.",
+      "visual_search": "driver shifting gears inside car dashboard"
+    }
+  ],
+  "description": "Find out what really happens to your car's transmission if you shift into reverse while driving forward. Simple car care tips explained in under 60 seconds.",
+  "tags": [
+    "car tips",
+    "manual transmission",
+    "automatic car",
+    "driving tips and tricks",
+    "car mechanics",
+    "autos",
+    "vehicle maintenance",
+    "how cars work",
+    "driving advice",
+    "car parts"
+  ],
+  "hashtags": [
+    "#cartips",
+    "#mechanics",
+    "#carmaintenance"
+  ],
+  "thumbnail_text": "DONT DO THIS",
+  "why_it_will_work": "Leverages viewer curiosity with a high-stakes 'what happens if' scenario common in automotive educational content.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "approved",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-13T04:11:50.419773"
+}

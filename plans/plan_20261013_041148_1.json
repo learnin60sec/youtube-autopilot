@@ -1,0 +1,54 @@
+{
+  "title": "Stop Crossing Your Arms When Turning (Part 1)",
+  "hook": "Stop crossing your arms when turning.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop crossing your arms when turning.",
+      "visual_search": "driver hands on steering wheel close up"
+    },
+    {
+      "section": "Body",
+      "narration": "Crossing your arms over the center of the steering wheel delays your reaction time if you need to correct suddenly. Instead, use the push and pull method to keep continuous control of the wheel at all times.",
+      "visual_search": "hands steering wheel smooth turn driving"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Follow for Part 2 on hand placement, and did you know this method? Comment yes or no, because stop crossing your arms when turning.",
+      "visual_search": "car driving on winding road dashboard view"
+    }
+  ],
+  "description": "Learn the proper steering technique for everyday driving. Stop crossing your arms when turning to maintain better control and faster reaction times on the road. Follow for daily driving tips and tricks for beginners.",
+  "tags": [
+    "driving tips",
+    "driving tips for beginners",
+    "how to drive a car",
+    "driving techniques",
+    "steering technique",
+    "car tips",
+    "safe driving",
+    "driving lessons",
+    "new driver tips",
+    "driving tutorial"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#cardrivers",
+    "#learntodrive"
+  ],
+  "thumbnail_text": "STOP CROSSING ARMS",
+  "why_it_will_work": "Builds on high-performing channel mechanics about driving habits and targets real search queries from new drivers.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Steering Mastery",
+    "part": 1,
+    "next_part_idea": "The exact hand position for the push-and-pull steering method"
+  },
+  "category": "Autos & Vehicles",
+  "status": "approved",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-13T04:11:49.824354"
+}
