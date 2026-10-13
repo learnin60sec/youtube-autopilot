@@ -45,10 +45,28 @@
     "next_part_idea": "The exact hand position for the push-and-pull steering method"
   },
   "category": "Autos & Vehicles",
-  "status": "approved",
+  "status": "uploaded",
   "quality_problems": [],
   "ai_provider": "gemini",
   "format": "short",
   "language": "English",
-  "created_at": "2026-10-13T04:11:49.824354"
+  "created_at": "2026-10-13T04:11:49.824354",
+  "series_done": true,
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261013_041148_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261013_041148_1/thumbnail.jpg",
+  "duration_sec": 19.1,
+  "chapters": [],
+  "credits": [
+    "Video by Smitha Nittur on Pexels: https://www.pexels.com/video/driver-holding-steering-wheel-on-a-sunny-day-39450368/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/hands-on-hyundai-steering-wheel-13675325/",
+    "Video by SN.CHE on Pexels: https://www.pexels.com/video/a-person-driving-a-car-on-a-road-19178495/",
+    "Video by Sapol Churanon on Pexels: https://www.pexels.com/video/driving-down-a-scenic-open-road-on-a-clear-day-34614349/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "mnrj36vwonQ",
+  "youtube_url": "https://youtu.be/mnrj36vwonQ",
+  "uploaded_at": "2026-10-14T02:49:27",
+  "privacy_locked": false
 }

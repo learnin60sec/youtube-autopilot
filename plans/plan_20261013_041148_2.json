@@ -41,10 +41,28 @@
   "fact_check_notes": [],
   "series": null,
   "category": "Autos & Vehicles",
-  "status": "approved",
+  "status": "uploaded",
   "quality_problems": [],
   "ai_provider": "gemini",
   "format": "short",
   "language": "English",
-  "created_at": "2026-10-13T04:11:50.419773"
+  "created_at": "2026-10-13T04:11:50.419773",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261013_041148_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261013_041148_2/thumbnail.jpg",
+  "duration_sec": 21.4,
+  "chapters": [],
+  "credits": [
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-dashboard-close-up-interior-36474526/",
+    "Video by Matheus Bertelli on Pexels: https://www.pexels.com/video/car-tire-detailing-in-garage-setup-32010543/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-interior-dashboard-close-up-36474525/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/a-close-up-video-of-a-person-using-a-grinder-8321904/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/close-up-video-of-a-machine-5846713/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/driver-inside-car-adjusting-mirror-during-daylight-35585187/",
+    "Video by Sina Rezakhani on Pexels: https://www.pexels.com/video/modern-car-interior-with-sleek-dashboard-36202861/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "Gi8hjfM_g8M",
+  "youtube_url": "https://youtu.be/Gi8hjfM_g8M",
+  "uploaded_at": "2026-10-14T02:49:33",
+  "privacy_locked": false
 }

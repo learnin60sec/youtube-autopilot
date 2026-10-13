@@ -1,0 +1,68 @@
+{
+  "title": "Stop Doing This When Your Engine Overheats",
+  "hook": "Stop opening your hot radiator cap.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop opening your hot radiator cap.",
+      "visual_search": "steaming car engine close up"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Doing this releases pressurized boiling coolant instantly. It can cause severe burns to your face and hands.",
+      "visual_search": "mechanic checking car engine warning"
+    },
+    {
+      "section": "Action",
+      "narration": "Always wait at least thirty minutes for the engine to cool down completely before touching it.",
+      "visual_search": "car dashboard temperature gauge"
+    },
+    {
+      "section": "Call to action & Loop",
+      "narration": "Like if this helped, follow for daily driving tips. Have you ever checked your coolant? Comment yes or no. Stop opening your hot radiator cap.",
+      "visual_search": "person looking under car hood"
+    }
+  ],
+  "description": "Learn a crucial safety rule for your car. Never open a hot radiator cap under pressure to avoid severe burns. Follow for more quick driving tips.",
+  "tags": [
+    "driving tips",
+    "car maintenance",
+    "engine overheat",
+    "driver safety",
+    "how to drive",
+    "car tips",
+    "vehicle maintenance",
+    "driving advice",
+    "automotive tips",
+    "learn to drive"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carmaintenance",
+    "#carsafety"
+  ],
+  "thumbnail_text": "DON'T DO THIS",
+  "why_it_will_work": "Leverages high-performing automotive maintenance topics with a high-stakes safety hook that stops the scroll.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "video_ready",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-14T02:27:00.593429",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261014_022659_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261014_022659_1/thumbnail.jpg",
+  "duration_sec": 20.4,
+  "chapters": [],
+  "credits": [
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/close-up-of-car-start-button-activation-35585186/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/an-auto-mechanic-repairing-a-car-engine-8987289/",
+    "Video by MART  PRODUCTION on Pexels: https://www.pexels.com/video/a-man-checking-the-engine-of-a-car-8865237/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/black-and-white-video-of-mechanic-checking-a-car-8987296/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/close-up-of-car-dashboard-speedometer-35585177/",
+    "Video by Ron Lach on Pexels: https://www.pexels.com/video/two-men-standing-next-to-a-car-looking-at-the-engine-9518898/",
+    "Video by utopia 36 on Pexels: https://www.pexels.com/video/a-man-is-working-on-a-car-under-a-car-18104144/"
+  ]
+}

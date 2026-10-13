@@ -1,0 +1,135 @@
+{
+  "title": "Stop Turning Your Steering Wheel While Completely Parked",
+  "hook": "If you want your tires and steering parts to last as long as possible, you need to stop turning your steering wheel while your car is completely parked.",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "If you want your tires and steering parts to last as long as possible, you need to stop turning your steering wheel while your car is completely parked. Most drivers do this every single day without realizing the damage it causes. When your vehicle is totally stationary, your tires have to grind directly against the rough pavement just to change direction. That friction puts massive physical force on your entire steering system, from the tires themselves all the way up to the steering column. It wears down the rubber on your tread much faster and strains the mechanical parts that help you steer. In the next minute, you are going to learn why this habit happens, how it affects your car, and one incredibly easy trick you can use every time you park to completely avoid this problem. Making this tiny adjustment takes zero extra effort, but it can easily save you a lot of money on unnecessary car repairs down the road. Let's take a look at what actually happens beneath your car when you turn those wheels while parked, and how a simple rolling technique changes everything.",
+      "visual_search": "close up of car tires turning on asphalt"
+    },
+    {
+      "section": "The Mechanics of Dry Steering",
+      "narration": "To understand why this habit causes trouble, let's look at what is actually happening beneath your car when it is completely stationary. When you are parked and spin your steering wheel, your front tires are forced to pivot on one single, fixed patch of rubber pressed hard against the pavement. Because the vehicle is not rolling forward or backward even an inch, the heavy weight of the engine and the front end pushes straight down onto that exact spot. The friction between your tire tread and the rough asphalt is at its absolute maximum. Instead of rolling smoothly over the road surface, the rubber has to drag and grind against the ground. Doing this repeatedly wears away the tread in specific localized patches, creating uneven spots that can eventually ruin a good set of tires long before they reach the end of their normal lifespan. But the tires are only part of the story; what happens to the metal parts hidden out of sight under the hood is even more surprising.",
+      "visual_search": "driver turning steering wheel inside car"
+    },
+    {
+      "section": "Stress on Steering Components",
+      "narration": "It is not just your tires that take a beating when you turn while parked. Your power steering pump, tie rods, ball joints, and rack and pinion system bear the full load of pushing those stationary wheels against the rough pavement. Modern power steering systems make it feel effortless to turn the wheel while stopped, but the hidden mechanical strain is immense. Every time you force the rubber to pivot against the ground without rolling, you are putting heavy friction and pressure on metal parts that are designed to move smoothly, not grind under dead weight. Over time, this constant force wears down joints and strains hoses, leading to loose steering and costly repairs that could easily be avoided with just a tiny shift in your daily habits. If you're learning something, subscribe, it helps a lot. But the next one surprises most people about how little movement is actually required to protect your vehicle.",
+      "visual_search": "car engine bay mechanical parts close up"
+    },
+    {
+      "section": "The Rolling Technique",
+      "narration": "Protecting your steering system and tires requires one simple adjustment: always make sure your car is rolling just an inch or two before you start turning the wheel. Whether you are pulling out of a parallel parking spot or backing out of your driveway, let the vehicle creep forward or backward slightly before you input any steering angle. This tiny bit of rolling motion transforms high-friction dry sliding into low-friction rolling friction, instantly eliminating the stress on your components. You do not need any special tools or complicated maneuvers to make this happen, just a slight release of the brake pedal while you are already in motion. It takes zero extra time, but it changes how your tires interact with the pavement completely. But what happens when you are trapped in a tight multi-story parking garage where rolling room is simply not an option?",
+      "visual_search": "car slowly rolling out of parking space"
+    },
+    {
+      "section": "Tight Spaces and Parking Lots",
+      "narration": "Many drivers think they have no choice but to dry steer when squeezing into a tight parallel parking space or maneuvering in a crowded parking lot. You might feel like you are completely trapped against the curb with zero room to roll forward. However, by gently coordinating your foot on the brake and throttle, you can easily combine your steering inputs with micro-movements of the vehicle. Just rolling a fraction of an inch while turning makes all that heavy tire friction completely disappear. Here is the most useful trick to remember: always initiate your turn the exact millisecond your car begins to move forward or backward. This eliminates stationary resistance entirely, keeping your steering smooth and effortless even in the tightest spots. But what happens to your tires when you do this on rough asphalt every single day?",
+      "visual_search": "parking lot aerial view cars"
+    },
+    {
+      "section": "Recap and Outro",
+      "narration": "To recap, turning your steering wheel while your car is completely stationary forces your tires and steering system to fight against maximum friction, which causes unnecessary wear and tear over time. The simple fix is just to let your car roll ever so slightly before you start turning the wheel, letting momentum do the hard work for you instead of your parked tires. It is a tiny driving habit change that can save your steering components from wearing out too early. Let us know in the comments below: do you usually turn your wheel while completely parked, or do you make sure to roll first? And while you are here, make sure to watch our other video on how to park safely on a steep hill right over here on the screen.",
+      "visual_search": "modern car driving on city street"
+    }
+  ],
+  "description": "Stop dry steering your car! Learn why turning your steering wheel while completely parked destroys your tire tread and stresses your steering components, and how a simple rolling habit fixes it.\n\nLearn in 60 Seconds gives you quick, useful driving tips to protect your car and make you a safer driver every single day.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips parking",
+    "how to drive a car",
+    "driving tips and tricks",
+    "car maintenance tips",
+    "steering wheel tips",
+    "prevent tire wear",
+    "car steering system",
+    "driving advice",
+    "learn to drive",
+    "vehicle maintenance",
+    "new driver tips"
+  ],
+  "hashtags": [
+    "#DrivingTips",
+    "#CarMaintenance",
+    "#LearnToDrive"
+  ],
+  "thumbnail_text": "STOP DRY STEERING!",
+  "why_it_will_work": "Directly answers real searches like driving tips parking and driving tips for new drivers with a surprising, practical mechanic tip.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "long",
+  "language": "English",
+  "created_at": "2026-10-14T02:27:15.449195",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261014_022706_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261014_022706_1/thumbnail.jpg",
+  "duration_sec": 305.6,
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Intro"
+    },
+    {
+      "t": 59,
+      "title": "The Mechanics of Dry Steering"
+    },
+    {
+      "t": 116,
+      "title": "Stress on Steering Components"
+    },
+    {
+      "t": 168,
+      "title": "The Rolling Technique"
+    },
+    {
+      "t": 218,
+      "title": "Tight Spaces and Parking Lots"
+    },
+    {
+      "t": 266,
+      "title": "Recap and Outro"
+    }
+  ],
+  "credits": [
+    "Video by Harvey Tan Villarino on Pexels: https://www.pexels.com/video/exciting-rally-car-racing-on-winding-road-36220224/",
+    "Video by Harvey Tan Villarino on Pexels: https://www.pexels.com/video/exciting-car-drift-on-an-open-track-35661730/",
+    "Video by Harvey Tan Villarino on Pexels: https://www.pexels.com/video/dynamic-car-drift-on-open-track-with-cones-35661620/",
+    "Video by CALI_ MEDIA _ on Pexels: https://www.pexels.com/video/dynamic-car-drifting-on-race-track-31167984/",
+    "Video by Harvey Tan Villarino on Pexels: https://www.pexels.com/video/exciting-car-drifting-action-on-open-track-35661320/",
+    "Video by Jaxon Matthew Willis on Pexels: https://www.pexels.com/video/car-drifting-on-race-track-11180689/",
+    "Video by Taryn Elliott on Pexels: https://www.pexels.com/video/a-driver-behind-the-steering-wheel-driving-on-a-road-3785380/",
+    "Video by Luis Quintero on Pexels: https://www.pexels.com/video/a-close-up-shot-of-a-car-s-steering-wheel-while-driving-4203572/",
+    "Video by KoolShooters on Pexels: https://www.pexels.com/video/a-person-sitting-inside-a-car-8102794/",
+    "Video by KoolShooters on Pexels: https://www.pexels.com/video/a-close-up-of-a-person-s-hands-tapping-a-steering-wheel-6909981/",
+    "Video by K on Pexels: https://www.pexels.com/video/a-person-holding-a-steering-wheel-3998657/",
+    "Video by utopia 36 on Pexels: https://www.pexels.com/video/a-woman-holding-a-steering-wheel-13802605/",
+    "Video by Pedro H.  Novais on Pexels: https://www.pexels.com/video/close-up-of-a-car-engine-showing-mechanical-details-39112150/",
+    "Video by Gaurav Kumar on Pexels: https://www.pexels.com/video/cinematic-close-up-of-turbocharged-engine-bay-30391328/",
+    "Video by Erkan Avanoğlu on Pexels: https://www.pexels.com/video/a-close-up-of-an-engine-bay-3771728/",
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-of-vintage-car-engine-detail-31220643/",
+    "Video by Vitaliy  Izonin on Pexels: https://www.pexels.com/video/close-up-of-car-engine-in-workshop-32329385/",
+    "Video by WeStarMoney  Rec on Pexels: https://www.pexels.com/video/close-up-view-of-car-air-filter-4101741/",
+    "Video by Aleksei Mikhalchuk on Pexels: https://www.pexels.com/video/aerial-view-of-crowded-parking-lot-with-cars-39463036/",
+    "Video by Finn McGuire on Pexels: https://www.pexels.com/video/drone-footage-of-cars-in-a-parking-lot-8171135/",
+    "Video by JIUN-JE LIN on Pexels: https://www.pexels.com/video/aerial-view-of-spacious-empty-parking-lot-34696869/",
+    "Video by Tom Fisk on Pexels: https://www.pexels.com/video/aerial-footage-of-a-full-parking-lot-5982899/",
+    "Video by Michael on Pexels: https://www.pexels.com/video/night-view-of-busy-parking-lot-outside-retail-store-34765009/",
+    "Video by Michael on Pexels: https://www.pexels.com/video/aerial-view-of-parking-lot-with-multiple-cars-34683416/",
+    "Video by Altaf Shah on Pexels: https://www.pexels.com/video/aerial-view-of-large-parking-lot-full-of-cars-35848643/",
+    "Video by KJeremy on Pexels: https://www.pexels.com/video/aerial-view-of-a-cars-in-a-parking-lot-15742559/",
+    "Video by Altaf Shah on Pexels: https://www.pexels.com/video/aerial-view-of-industrial-parking-lot-with-multiple-cars-30655540/",
+    "Video by Altaf Shah on Pexels: https://www.pexels.com/video/aerial-view-of-large-black-and-white-car-parking-lot-33763794/",
+    "Video by 4art 44 on Pexels: https://www.pexels.com/video/black-car-on-street-13574385/",
+    "Video by Boris Ivas on Pexels: https://www.pexels.com/video/view-from-car-interior-driving-in-tunnel-11269279/",
+    "Video by Paul Bill on Pexels: https://www.pexels.com/video/vibrant-city-street-with-busy-traffic-29130409/",
+    "Video by Vitaliy  Izonin on Pexels: https://www.pexels.com/video/a-white-police-car-parked-on-the-side-of-the-road-20693180/"
+  ],
+  "playlist": "Full Guides (Long Videos)",
+  "youtube_id": "gryo8PpzTYw",
+  "youtube_url": "https://youtu.be/gryo8PpzTYw",
+  "uploaded_at": "2026-10-14T02:49:21",
+  "privacy_locked": false
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Stop Crossing Your Arms When Turning (Part 2)",
+  "hook": "Part two! Keep your hands right.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Part two! Keep your hands right.",
+      "visual_search": "driver hands on steering wheel close up"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Use the push and pull method. One hand pushes up to the top, and the other hand pulls down.",
+      "visual_search": "hands steering car wheel correctly"
+    },
+    {
+      "section": "Action",
+      "narration": "Your hands never cross over the center of the steering wheel. This gives you maximum control and safety in sharp turns.",
+      "visual_search": "driving car on winding road"
+    },
+    {
+      "section": "Call to action & Loop",
+      "narration": "Like if this helped, follow for daily driving tips. Do you use push and pull steering? Comment yes or no. Part two! Keep your hands right.",
+      "visual_search": "driver hands steering wheel inside view"
+    }
+  ],
+  "description": "Master the push and pull steering method in part 2 of our steering series. Learn the exact hand positions for safe and smooth turning without crossing your arms.",
+  "tags": [
+    "driving tips",
+    "driving tips turning",
+    "how to drive",
+    "steering technique",
+    "driver safety",
+    "new driver tips",
+    "car control",
+    "driving lessons",
+    "beginner drivers",
+    "steering mastery"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#steering",
+    "#newdriver"
+  ],
+  "thumbnail_text": "PERFECT STEERING",
+  "why_it_will_work": "Directly follows up on a popular driving topic with a structured series format that builds immediate viewer retention.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Steering Mastery",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "video_ready",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-14T02:27:01.514446",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261014_022659_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261014_022659_2/thumbnail.jpg",
+  "duration_sec": 20.9,
+  "chapters": [],
+  "credits": [
+    "Video by Pavel Danilyuk on Pexels: https://www.pexels.com/video/hands-of-a-man-on-the-steering-wheel-5520046/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Umar Andrabi on Pexels: https://www.pexels.com/video/a-road-with-trees-and-a-car-driving-down-it-25955706/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-road-with-a-car-driving-down-it-27444989/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/driver-inside-car-adjusting-mirror-during-daylight-35585187/"
+  ]
+}
