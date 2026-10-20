@@ -1,0 +1,65 @@
+{
+  "title": "What Happens If You Drive With Low Tire Pressure",
+  "hook": "Stop driving on soft flat tires.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop driving on soft flat tires. It destroys your fuel economy instantly.",
+      "visual_search": "low tire pressure warning on car dashboard"
+    },
+    {
+      "section": "Body",
+      "narration": "Under-inflated tires create more friction against the pavement. This extra drag forces your engine to burn extra fuel just to maintain speed, generating dangerous excess heat.",
+      "visual_search": "car tire rolling on asphalt close up"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Check your PSI monthly. Like if this helped, follow for daily science tips. Have you ever checked yours? Comment below, because stop driving on...",
+      "visual_search": "person checking tire pressure with gauge"
+    }
+  ],
+  "description": "Curious what happens when you ignore your tire pressure? Discover the hidden science of friction and heat that drains your gas tank and ruins your tires.\n\nQuick science and tech facts explained simply for everyday life.",
+  "tags": [
+    "science and tech",
+    "how things work",
+    "tire pressure",
+    "fuel efficiency",
+    "car physics",
+    "driving science",
+    "everyday science",
+    "auto tech",
+    "learn fast",
+    "science facts",
+    "car care",
+    "stem"
+  ],
+  "hashtags": [
+    "#science",
+    "#cars",
+    "#shorts"
+  ],
+  "thumbnail_text": "WHY TIRES DRAIN GAS",
+  "why_it_will_work": "Combines a practical automotive scenario with fundamental physics, appealing to our popular Science & Technology category.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Science & Technology",
+  "status": "video_ready",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-20T18:57:21.006642",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261020_185709_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261020_185709_2/thumbnail.jpg",
+  "duration_sec": 22.3,
+  "chapters": [],
+  "credits": [
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/vintage-car-dashboard-with-classic-radio-36474528/",
+    "Video by Magda Ehlers on Pexels: https://www.pexels.com/video/suv-tire-washing-with-high-pressure-hose-37175111/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/close-up-of-car-dashboard-speedometer-35585177/",
+    "Video by Alex Vo on Pexels: https://www.pexels.com/video/close-up-of-car-wheel-on-hydraulic-lift-40308617/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/a-car-with-a-tire-on-it-in-a-dark-room-4488722/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/a-woman-checking-the-tire-pressure-on-a-go-kart-5637836/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/young-man-checking-bicycle-wheel-5446385/"
+  ]
+}

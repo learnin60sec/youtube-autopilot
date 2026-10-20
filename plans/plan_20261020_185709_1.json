@@ -1,0 +1,64 @@
+{
+  "title": "Never Leave Your Gas Cap Loose",
+  "hook": "Never ignore that check engine light.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never ignore that check engine light. It might just be your gas cap.",
+      "visual_search": "driver opening car fuel door close up"
+    },
+    {
+      "section": "Body",
+      "narration": "Modern fuel systems need a tight seal to trap harmful vapors. If the cap is loose, pressure drops, triggering the warning sensor on your dashboard.",
+      "visual_search": "dashboard check engine light glowing"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Tighten it until it clicks. Like if this helped, follow for daily driving tips. Did you know this? Comment yes or no, because never ignore that...",
+      "visual_search": "hand tightening gas cap until it clicks"
+    }
+  ],
+  "description": "Stop stressing over dashboard warning lights. Learn why a loose gas cap triggers your check engine light and how a simple click fixes it instantly.\n\nGet essential driving tips and tricks for new and experienced drivers to keep your car running smoothly.",
+  "tags": [
+    "driving tips",
+    "driving tips for new drivers",
+    "car maintenance",
+    "check engine light",
+    "gas cap",
+    "car hacks",
+    "beginner drivers",
+    "auto advice",
+    "vehicle care",
+    "driving tricks",
+    "car repairs",
+    "learn to drive"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carmaintenance",
+    "#shorts"
+  ],
+  "thumbnail_text": "CHECK ENGINE LIGHT FIX",
+  "why_it_will_work": "Tap into high-search-volume driving tips queries with a quick, satisfying resolution that answers a common everyday mystery.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "video_ready",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-20T18:57:19.682573",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261020_185709_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261020_185709_1/thumbnail.jpg",
+  "duration_sec": 19.6,
+  "chapters": [],
+  "credits": [
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/white-car-door-handle-6873502/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/driver-inside-car-adjusting-mirror-during-daylight-35585187/",
+    "Video by Konstantin Mishchenko on Pexels: https://www.pexels.com/video/close-up-of-a-dashboard-5787612/",
+    "Video by MART  PRODUCTION on Pexels: https://www.pexels.com/video/a-man-checking-the-engine-of-a-car-8865237/",
+    "Video by Okan DEMİRCAN on Pexels: https://www.pexels.com/video/lighting-a-gas-stove-in-a-modern-kitchen-39584330/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/caffeine-coffee-hand-drink-5495026/"
+  ]
+}

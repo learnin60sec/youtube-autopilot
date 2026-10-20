@@ -46,7 +46,7 @@
   "fact_check_notes": [],
   "series": null,
   "category": "Autos & Vehicles",
-  "status": "video_ready",
+  "status": "uploaded",
   "quality_problems": [],
   "ai_provider": "gemini",
   "format": "short",
@@ -58,11 +58,16 @@
   "chapters": [],
   "credits": [
     "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/close-up-of-car-start-button-activation-35585186/",
-    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/an-auto-mechanic-repairing-a-car-engine-8987289/",
+    "Video by Miriam Alonso on Pexels: https://www.pexels.com/video/close-up-video-of-a-hot-mug-7577435/",
     "Video by MART  PRODUCTION on Pexels: https://www.pexels.com/video/a-man-checking-the-engine-of-a-car-8865237/",
-    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/black-and-white-video-of-mechanic-checking-a-car-8987296/",
-    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/close-up-of-car-dashboard-speedometer-35585177/",
-    "Video by Ron Lach on Pexels: https://www.pexels.com/video/two-men-standing-next-to-a-car-looking-at-the-engine-9518898/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/mechanic-checking-under-the-car-8987301/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-interior-dashboard-close-up-36474525/",
+    "Video by Tim  Samuel on Pexels: https://www.pexels.com/video/vertical-video-of-two-men-looking-the-car-engine-5834329/",
     "Video by utopia 36 on Pexels: https://www.pexels.com/video/a-man-is-working-on-a-car-under-a-car-18104144/"
-  ]
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "ivaTw4OP3ik",
+  "youtube_url": "https://youtu.be/ivaTw4OP3ik",
+  "uploaded_at": "2026-10-20T19:02:31",
+  "privacy_locked": false
 }
