@@ -1,0 +1,62 @@
+{
+  "title": "Why Your Car Pulls When You Accelerate",
+  "hook": "Torque steer will yank your wheel.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Torque steer will yank your wheel.",
+      "visual_search": "driver hands suddenly turning steering wheel hard acceleration"
+    },
+    {
+      "section": "Fact",
+      "narration": "In front-wheel drive cars, unequal length drive axles send different power amounts to each front wheel when you slam the gas, forcing the car to pull sideways instantly.",
+      "visual_search": "car engine closeup mechanical parts motion"
+    },
+    {
+      "section": "CTA",
+      "narration": "Like if this helped, follow for daily driving tips. Did your car ever do this? Comment yes or no.",
+      "visual_search": "steering wheel view driving down open highway"
+    }
+  ],
+  "description": "Ever wondered why your car suddenly pulls to one side when you step heavily on the gas? Discover the mechanics behind torque steer.\n\nSubscribe for more quick driving tips and automotive explanations.",
+  "tags": [
+    "driving tips",
+    "how to drive a car",
+    "driving tips and tricks",
+    "car facts",
+    "front wheel drive",
+    "torque steer",
+    "car science",
+    "automotive",
+    "driving mechanics",
+    "car education",
+    "new drivers"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carknowledge",
+    "#cars"
+  ],
+  "thumbnail_text": "WHY IT PULLS",
+  "why_it_will_work": "Uses a surprising mechanical fact about cars that directly answers a real query drivers have about handling.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "video_ready",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-21T01:18:20.517527",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261021_011801_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261021_011801_2/thumbnail.jpg",
+  "duration_sec": 16.6,
+  "chapters": [],
+  "credits": [
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Marc Alz on Pexels: https://www.pexels.com/video/pouring-engine-oil-into-car-engine-33930254/",
+    "Video by utopia 36 on Pexels: https://www.pexels.com/video/a-man-is-working-on-the-engine-of-a-car-18104139/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by SN.CHE on Pexels: https://www.pexels.com/video/a-person-driving-a-car-on-a-road-19178495/"
+  ]
+}

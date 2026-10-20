@@ -1,0 +1,58 @@
+{
+  "title": "Stop Doing This At Every Red Light (Part 1)",
+  "hook": "Stop holding your brake pedal down.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop holding your brake pedal down.",
+      "visual_search": "driver foot pressing car brake pedal traffic light"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Leaving your foot jammed on the brake at a long red light creates intense pressure in your master cylinder. It also blinds the drivers behind you with glaring red light.",
+      "visual_search": "red brake lights glowing at night traffic"
+    },
+    {
+      "section": "Cliffhanger",
+      "narration": "Instead, switch to this hidden gear method. Follow so you don't miss Part 2!",
+      "visual_search": "gear shifter hand manual automatic car"
+    }
+  ],
+  "description": "Stop making this common daily driving mistake at every traffic light. Learn how to save your brake components and keep your driving smooth.\n\nSubscribe for daily driving tips and tricks to improve your skills on the road.",
+  "tags": [
+    "driving tips",
+    "driving tips for new drivers",
+    "driving tips and tricks",
+    "how to drive a car",
+    "driving habits",
+    "car tips",
+    "driving mistakes",
+    "traffic lights",
+    "car maintenance",
+    "driving guide",
+    "beginner drivers",
+    "driver education"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#cartips",
+    "#driving"
+  ],
+  "thumbnail_text": "STOP BRAKING WRONG",
+  "why_it_will_work": "Leverages the high-performing 'Stop doing this' instructional angle that resonates well with the channel's audience.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Red Light Habits",
+    "part": 1,
+    "next_part_idea": "The correct gear to use during long stops to save your brakes."
+  },
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Holding the brake pedal down does not create 'intense pressure' that damages the master cylinder in normal driving conditions; this is a mechanical exaggeration.; The script references a 'hidden gear method' without explaining it, which is misleading and relies on clickbait tactics prohibited by the rules."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-21T01:18:07.191560"
+}

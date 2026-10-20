@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-20T13:26:55.518751+00:00",
+  "generated_at": "2026-10-20T19:47:44.920767+00:00",
   "subscribers": 29,
   "total_views": 25040,
-  "public_videos": 36,
-  "shorts_views_90_days": 24016,
+  "public_videos": 38,
+  "shorts_views_90_days": 25007,
   "best": [
     {
       "id": "a8kECwJjE4U",
       "title": "How to Start a Manual Car on a Hill Without Rolling",
-      "views": 1120,
+      "views": 1121,
       "likes": 16,
       "comments": 2,
-      "age_days": 8.7,
-      "views_per_day": 128.5,
+      "age_days": 9.0,
+      "views_per_day": 124.8,
       "like_rate_pct": 1.4,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop rolling backward on steep hills.",
       "published": "2026-10-11T20:11:36+00:00",
-      "score": 22.82
+      "score": 22.7
     },
     {
       "id": "Gi8hjfM_g8M",
@@ -26,14 +26,14 @@
       "views": 1091,
       "likes": 10,
       "comments": 0,
-      "age_days": 6.7,
-      "views_per_day": 163.5,
+      "age_days": 6.9,
+      "views_per_day": 157.3,
       "like_rate_pct": 0.9,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Never shift into reverse while moving.",
       "published": "2026-10-13T21:19:44+00:00",
-      "score": 22.61
+      "score": 22.44
     },
     {
       "id": "mnrj36vwonQ",
@@ -41,14 +41,14 @@
       "views": 1027,
       "likes": 12,
       "comments": 0,
-      "age_days": 6.7,
-      "views_per_day": 153.9,
+      "age_days": 6.9,
+      "views_per_day": 148.1,
       "like_rate_pct": 1.2,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop crossing your arms when turning.",
       "published": "2026-10-13T21:19:49+00:00",
-      "score": 22.5
+      "score": 22.33
     },
     {
       "id": "IsEgjW7B_7s",
@@ -56,14 +56,14 @@
       "views": 1049,
       "likes": 13,
       "comments": 1,
-      "age_days": 9.7,
-      "views_per_day": 107.7,
+      "age_days": 10.0,
+      "views_per_day": 104.9,
       "like_rate_pct": 1.2,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop misusing your engine brake.",
       "published": "2026-10-10T19:42:29+00:00",
-      "score": 21.46
+      "score": 21.35
     },
     {
       "id": "eoRCImVDGyg",
@@ -71,31 +71,31 @@
       "views": 1015,
       "likes": 14,
       "comments": 0,
-      "age_days": 8.7,
-      "views_per_day": 116.4,
+      "age_days": 9.0,
+      "views_per_day": 113.0,
       "like_rate_pct": 1.4,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Part two! Select your gear early.",
       "published": "2026-10-11T20:11:47+00:00",
-      "score": 21.4
+      "score": 21.27
     }
   ],
   "worst": [
     {
       "id": "gryo8PpzTYw",
       "title": "Stop Turning Your Steering Wheel While Completely Parked",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 0,
-      "age_days": 6.7,
-      "views_per_day": 1.5,
+      "age_days": 6.9,
+      "views_per_day": 1.6,
       "like_rate_pct": 0.0,
       "format": "long",
       "category": "Autos & Vehicles",
       "hook": "If you want your tires and steering parts to last as long as possible, you need to stop turning your steering wheel while your car is completely parked.",
       "published": "2026-10-13T21:20:38+00:00",
-      "score": 3.98
+      "score": 4.15
     },
     {
       "id": "HTBwvCOR1-g",
@@ -103,7 +103,7 @@
       "views": 11,
       "likes": 0,
       "comments": 0,
-      "age_days": 11.7,
+      "age_days": 11.9,
       "views_per_day": 0.9,
       "like_rate_pct": 0.0,
       "format": "long",
@@ -118,7 +118,7 @@
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "age_days": 19.9,
+      "age_days": 20.1,
       "views_per_day": 0.6,
       "like_rate_pct": 0.0,
       "format": "short",
@@ -129,10 +129,10 @@
     }
   ],
   "category_views_per_day": {
-    "Autos & Vehicles": 58.4,
-    "Howto & Style": 47.5,
-    "Science & Technology": 24.9,
-    "Education": 1.8
+    "Autos & Vehicles": 57.0,
+    "Howto & Style": 46.9,
+    "Science & Technology": 24.5,
+    "Education": 1.7
   },
   "category_video_counts": {
     "Autos & Vehicles": 28,
@@ -141,9 +141,9 @@
     "Education": 1
   },
   "retention": {
-    "avg_view_pct_shorts": 75.2,
-    "avg_view_pct_long": 27.3,
-    "long_watch_hours_90d": 24.8,
+    "avg_view_pct_shorts": 75.1,
+    "avg_view_pct_long": 33.7,
+    "long_watch_hours_90d": 25.6,
     "tips": [
       "Long videos lose viewers: shorter intro, more curiosity lines, and more concrete examples in each section."
     ],
