@@ -42,7 +42,7 @@
   "fact_check_notes": [],
   "series": null,
   "category": "Autos & Vehicles",
-  "status": "video_ready",
+  "status": "uploaded",
   "quality_problems": [],
   "ai_provider": "gemini",
   "format": "short",
@@ -50,13 +50,18 @@
   "created_at": "2026-10-21T01:18:20.517527",
   "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261021_011801_2/video.mp4",
   "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261021_011801_2/thumbnail.jpg",
-  "duration_sec": 16.6,
+  "duration_sec": 16.8,
   "chapters": [],
   "credits": [
-    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
-    "Video by Marc Alz on Pexels: https://www.pexels.com/video/pouring-engine-oil-into-car-engine-33930254/",
-    "Video by utopia 36 on Pexels: https://www.pexels.com/video/a-man-is-working-on-the-engine-of-a-car-18104139/",
     "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
-    "Video by SN.CHE on Pexels: https://www.pexels.com/video/a-person-driving-a-car-on-a-road-19178495/"
-  ]
+    "Video by Marc Alz on Pexels: https://www.pexels.com/video/pouring-engine-oil-into-car-engine-33930254/",
+    "Video by Dani Nasr on Pexels: https://www.pexels.com/video/close-up-of-car-engine-13358202/",
+    "Video by Image Hunter on Pexels: https://www.pexels.com/video/driving-car-on-road-13229385/",
+    "Video by Videas on Pexels: https://www.pexels.com/video/driving-scenic-road-through-mountain-landscape-35078421/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "g73z5UBc8zg",
+  "youtube_url": "https://youtu.be/g73z5UBc8zg",
+  "uploaded_at": "2026-10-22T01:25:16",
+  "privacy_locked": false
 }

@@ -1,0 +1,54 @@
+{
+  "title": "Stop Doing This When Merging Onto Highways",
+  "hook": "Stop merging at highway speeds too early.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop merging at highway speeds too early.",
+      "visual_search": "car merging on busy highway dashcam view"
+    },
+    {
+      "section": "Mistakes",
+      "narration": "First, never slow down on the on-ramp. Second, do not wait until the very end to match traffic speed. Third, stop relying only on your side mirrors.",
+      "visual_search": "driver checking blind spot car interior"
+    },
+    {
+      "section": "Fix",
+      "narration": "Instead, use the entire acceleration lane to match the speed of flowing traffic before easing into the gap. Like if this helped, follow for daily driving tips. Have you ever missed a merge? Comment yes or no.",
+      "visual_search": "car successfully merging smoothly on highway"
+    }
+  ],
+  "description": "Master highway merging safely with these essential driving tips for beginners. Learn the three common mistakes drivers make on on-ramps and how to fix them instantly.\n\nSubscribe for more quick driving tutorials and safety hacks.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips and tricks",
+    "how to drive a car",
+    "highway merging",
+    "driving mistakes",
+    "learn to drive",
+    "new driver tips",
+    "driving lessons",
+    "safe driving",
+    "car tips",
+    "driving help",
+    "driver education"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carhacks",
+    "#learntodrive"
+  ],
+  "thumbnail_text": "STOP MERGING WRONG",
+  "why_it_will_work": "Leverages the high-performing driving tips format from the channel with a strong negative hook targeting a universal driving anxiety.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Contradictory advice regarding when to match traffic speed (do not wait until the end vs. use the entire acceleration lane)."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-22T01:22:57.232950"
+}

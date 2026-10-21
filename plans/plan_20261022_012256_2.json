@@ -1,0 +1,70 @@
+{
+  "title": "How to Clean Cloudy Headlights in 3 Steps",
+  "hook": "Stop driving with yellow hazy headlights.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop driving with yellow hazy headlights.",
+      "visual_search": "dirty cloudy car headlight close up"
+    },
+    {
+      "section": "Steps",
+      "narration": "First, wash the lens thoroughly with soapy water. Second, apply a specialized headlight restoration polish using a clean microfiber cloth in circular motions. Third, wipe clean and seal with a protective UV coating.",
+      "visual_search": "person polishing car headlight with microfiber cloth"
+    },
+    {
+      "section": "Outro",
+      "narration": "Now your night visibility is instantly restored. Like if this tried, follow for quick auto care tips. Did this clear yours up? Comment yes or no.",
+      "visual_search": "bright clear car headlight glowing at night"
+    }
+  ],
+  "description": "Learn how to clean cloudy headlights in three easy steps to improve your night visibility. Quick car maintenance and how-to guide for every driver.\n\nSubscribe for daily 60-second automotive tips.",
+  "tags": [
+    "how to clean headlights",
+    "car cleaning hacks",
+    "auto detailing tips",
+    "headlight restoration",
+    "car maintenance",
+    "how to",
+    "diy car repair",
+    "clear headlights",
+    "car care",
+    "driving safety",
+    "quick fix",
+    "vehicle maintenance"
+  ],
+  "hashtags": [
+    "#cartips",
+    "#detailing",
+    "#diy"
+  ],
+  "thumbnail_text": "FIX HAZY HEADLIGHTS",
+  "why_it_will_work": "Combines a practical Howto & Style topic with a high-value car maintenance tutorial that appeals to a wide audience.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Howto & Style",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-22T01:22:57.846412",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261022_012256_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261022_012256_2/thumbnail.jpg",
+  "duration_sec": 24.1,
+  "chapters": [],
+  "credits": [
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/close-up-view-of-orange-sports-car-headlight-39733705/",
+    "Video by Konstantin Mishchenko on Pexels: https://www.pexels.com/video/video-of-a-car-headlight-and-taillight-5787623/",
+    "Video by Liliana Drew on Pexels: https://www.pexels.com/video/a-person-wiping-a-table-with-a-cloth-9462907/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/a-person-wiping-a-window-car-6873153/",
+    "Video by setengah lima sore on Pexels: https://www.pexels.com/video/asian-man-polishing-car-outdoors-37416333/",
+    "Video by Vietrov on Pexels: https://www.pexels.com/video/a-view-of-the-city-at-night-from-inside-a-car-19797355/",
+    "Video by Milan Mathew on Pexels: https://www.pexels.com/video/front-view-of-a-car-with-the-lights-on-during-a-rainy-night-14743885/"
+  ],
+  "playlist": "Smart How-To Hacks",
+  "youtube_id": "GGB0pGodiOI",
+  "youtube_url": "https://youtu.be/GGB0pGodiOI",
+  "uploaded_at": "2026-10-22T01:25:21",
+  "privacy_locked": false
+}
