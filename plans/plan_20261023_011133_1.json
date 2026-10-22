@@ -1,0 +1,124 @@
+{
+  "title": "3 Dangerous Driving Mistakes Beginners Make on Roundabouts",
+  "hook": "Approaching a multi-lane roundabout for the very first time can make even the calmest driver's palms sweat.",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "Approaching a multi-lane roundabout for the very first time can make even the calmest driver's palms sweat. You pull up, see multiple lanes wrapping around a central island, and suddenly you have to decide which lane to pick, when to signal, and how to merge without cutting someone off. It is completely normal to feel overwhelmed when traffic is moving around you from the left, horns are honking, and your exit is rushing up fast. But navigating these circles does not have to be a guessing game. Thousands of drivers struggle with roundabouts simply because they were never taught the specific vehicle control habits required to handle them smoothly. Today, you are going to learn three dangerous driving mistakes beginners make on roundabouts, and more importantly, how to fix them so you can drive through any circle with total confidence. We will cover why guessing your lane layout leads to near misses, how changing lanes in the middle of a turn confuses everyone behind you, and the number one error drivers make when they panic and hit the brakes where they should keep moving. By the end of this quick guide, you will know exactly how to approach, navigate, and exit roundabouts safely every single time. Let us jump right into mistake number one.",
+      "visual_search": "driver view navigating multi lane roundabout traffic"
+    },
+    {
+      "section": "Mistake 1: Signaling Wrong",
+      "narration": "The first major error is signaling your intentions before you even enter the circle. When approaching a roundabout, drivers often leave their left blinker on while waiting to merge. This confuses everyone around you into thinking you are cutting across traffic immediately. Instead, keep your wheels straight and your indicators off until you have passed the exit just before the one you intend to take. Think of it like walking down a busy hallway; you do not tell people which door you are turning into until you are practically standing right in front of it. By keeping your signals quiet until the right moment, you give waiting drivers a clear and honest picture of where your car is actually heading. If you are learning something, subscribe, it helps a lot. But what happens when you get the lane positioning completely wrong halfway through the turn?",
+      "visual_search": "car approaching busy traffic circle street level"
+    },
+    {
+      "section": "Mistake 2: Changing Lanes Inside",
+      "narration": "The second major mistake beginners make is changing lanes while actively driving inside the roundabout. Picture this: you enter on the outer lane, but suddenly realize you need to move toward the inner circle, or vice versa. Doing this mid-circle is extremely dangerous. When you swap lanes inside, you are driving directly into the blind spots of drivers right next to you who might not see your car shifting over. Multi-lane roundabouts are designed with a specific flow. If you entered on the outside, you need to stay on the outside until it is time for your exit. If you miss your turn or find yourself in the wrong lane, do not panic and try to force your way across. It is always much safer to simply take your exit, follow the road, and turn around to re-route. Trying to cut across traffic lanes inside a tight circle is one of the quickest ways to cause a side-impact collision. If you are finding these tips helpful, hit that subscribe button to keep improving your driving skills with us. Now, what happens when traffic gets heavy and a driver completely freezes up right in the middle of the circle?",
+      "visual_search": "close up of car tires on asphalt road driving"
+    },
+    {
+      "section": "Mistake 3: Stopping Mid-Circle",
+      "narration": "The third and most dangerous mistake is stopping inside the roundabout to let someone merge. Picture this: you are driving smoothly through the circle, you spot a car waiting at the entrance, and you decide to be polite by slamming on your brakes to wave them in. It feels like a kind gesture, but it is actually one of the fastest ways to cause an accident. Once you are already inside the traffic circle, you have the absolute right of way over incoming traffic. Drivers behind you are completely focused on looking ahead and matching the flow of the circle, not expecting you to halt in the middle of a moving lane. Stopping your vehicle abruptly creates a major rear-end collision hazard for everyone trailing right behind you. The golden rule is simple: never yield to traffic trying to enter once you are already inside. Always keep your wheels rolling smoothly and maintain your speed until your specific exit opens up safely ahead. But what happens if you accidentally miss your exit entirely? Do you just keep going, or is there a safe way to fix it?",
+      "visual_search": "traffic flowing smoothly around a modern roundabout"
+    },
+    {
+      "section": "Summary and Outro",
+      "narration": "To wrap everything up, mastering roundabouts just takes a little bit of practice and keeping these three core rules in mind. First, always make sure you are using your signals at the correct time so other drivers know exactly where you are heading, instead of confusing them right as you approach. Second, pick your lane before you enter and stick with it all the way through, avoiding any sudden lane shifts while you are driving in the circle. And third, keep your momentum going and never come to a complete stop inside the roundabout unless an unexpected hazard pops up right in front of you. Taking these simple habits with you on your next drive will instantly boost your confidence behind the wheel. We would love to hear from you: what is your least favorite part about driving through a modern roundabout? Let us know your thoughts in the comments below, and if you want to brush up on more essential driving tips, be sure to check out our other guides right here on the channel. Safe driving, and we will see you in the next one.",
+      "visual_search": "car driving away into sunset aerial view"
+    }
+  ],
+  "description": "Master multi-lane roundabouts with these three essential driving tips for beginners. Avoid common fender benders and navigate traffic circles with total confidence.",
+  "tags": [
+    "driving tips for beginners",
+    "how to drive",
+    "roundabout tips",
+    "driving mistakes",
+    "new driver help",
+    "road safety",
+    "traffic circles",
+    "driving lessons",
+    "beginner driver",
+    "car tips"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#beginners",
+    "#cartips"
+  ],
+  "thumbnail_text": "STOP ROUNDABOUT MISTAKES",
+  "why_it_will_work": "Targets high-volume beginner search queries with a clear 3-mistake instructional format that delivers immediate utility.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "long",
+  "language": "English",
+  "created_at": "2026-10-23T01:12:01.688886",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261023_011133_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261023_011133_1/thumbnail.jpg",
+  "duration_sec": 295.9,
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Intro"
+    },
+    {
+      "t": 71,
+      "title": "Mistake 1: Signaling Wrong"
+    },
+    {
+      "t": 117,
+      "title": "Mistake 2: Changing Lanes Inside"
+    },
+    {
+      "t": 180,
+      "title": "Mistake 3: Stopping Mid-Circle"
+    },
+    {
+      "t": 240,
+      "title": "Summary and Outro"
+    }
+  ],
+  "credits": [
+    "Video by Saman Ragalage on Pexels: https://www.pexels.com/video/aerial-view-of-traffic-flowing-through-roundabout-39812038/",
+    "Video by Rudi Singh on Pexels: https://www.pexels.com/video/aerial-view-of-busy-traffic-roundabout-38226627/",
+    "Video by Altaf Shah on Pexels: https://www.pexels.com/video/aerial-view-of-busy-urban-roundabout-traffic-40073524/",
+    "Video by Altaf Shah on Pexels: https://www.pexels.com/video/aerial-view-of-urban-roundabout-traffic-flow-40046282/",
+    "Video by Altaf Shah on Pexels: https://www.pexels.com/video/aerial-traffic-flow-at-urban-roundabout-35136540/",
+    "Video by Oleksandr Petroniuk on Pexels: https://www.pexels.com/video/aerial-view-of-city-roundabout-with-cars-37718018/",
+    "Video by David Pickup |  Advertising & Marketing  🇬🇧 on Pexels: https://www.pexels.com/video/aerial-view-of-fast-cars-on-a-roundabout-27395264/",
+    "Video by Rholdan Ortiz on Pexels: https://www.pexels.com/video/a-driver-on-the-road-driving-at-night-3554322/",
+    "Video by FÁBIO REIS DE ABREU (PORTUGA) on Pexels: https://www.pexels.com/video/traffic-on-busy-city-street-13755828/",
+    "Video by Altaf Shah on Pexels: https://www.pexels.com/video/aerial-view-of-busy-roundabout-with-traffic-flow-40368469/",
+    "Video by Evgenij Mikhailov on Pexels: https://www.pexels.com/video/night-city-traffic-at-busy-roundabout-32147098/",
+    "Video by Alex Moliski on Pexels: https://www.pexels.com/video/sunset-city-street-with-cars-and-buildings-28902950/",
+    "Video by Nelson Axigoth on Pexels: https://www.pexels.com/video/motor-vehicles-traffic-at-night-5938338/",
+    "Video by Deen Docs on Pexels: https://www.pexels.com/video/close-up-of-muddy-car-driving-on-african-road-35245053/",
+    "Video by Hakan Kayahan on Pexels: https://www.pexels.com/video/close-up-of-car-tire-on-a-dirt-road-29902177/",
+    "Video by Denys Gromov on Pexels: https://www.pexels.com/video/close-up-view-of-car-driving-off-road-10358959/",
+    "Video by KoolShooters on Pexels: https://www.pexels.com/video/close-up-video-of-a-moving-car-8104040/",
+    "Video by Jarod Kuhn on Pexels: https://www.pexels.com/video/close-up-video-of-moving-car-wheel-1002790/",
+    "Video by AP Vibes on Pexels: https://www.pexels.com/video/a-car-is-driving-down-a-road-with-trees-in-the-background-28044007/",
+    "Video by Denys Gromov on Pexels: https://www.pexels.com/video/view-on-left-tyre-of-car-on-sand-10358977/",
+    "Video by Ahmet Kurt on Pexels: https://www.pexels.com/video/aerial-view-of-a-city-street-with-a-roundabout-19179531/",
+    "Video by Ahmet Kurt on Pexels: https://www.pexels.com/video/an-aerial-view-of-a-city-street-with-a-roundabout-19179595/",
+    "Video by Altaf Shah on Pexels: https://www.pexels.com/video/aerial-view-of-busy-urban-roundabout-traffic-31621422/",
+    "Video by Aydin Siraje on Pexels: https://www.pexels.com/video/the-intersection-of-a-roundabout-and-a-street-16701024/",
+    "Video by Altaf Shah on Pexels: https://www.pexels.com/video/aerial-footage-of-a-roundabout-8745397/",
+    "Video by Altaf Shah on Pexels: https://www.pexels.com/video/aerial-footage-of-a-roundabout-8746891/",
+    "Video by Orhan Pergel on Pexels: https://www.pexels.com/video/aerial-view-of-a-car-driving-on-a-road-in-a-green-field-24796937/",
+    "Video by Alex Moliski on Pexels: https://www.pexels.com/video/drone-view-of-car-driving-through-autumn-landscape-34305606/",
+    "Video by K on Pexels: https://www.pexels.com/video/aerial-view-of-a-highway-with-cars-driving-on-it-27114560/",
+    "Video by David Pickup |  Advertising & Marketing  🇬🇧 on Pexels: https://www.pexels.com/video/aerial-view-of-country-road-in-autumn-light-29566035/",
+    "Video by Sergei Starostin on Pexels: https://www.pexels.com/video/aerial-view-of-cars-in-a-forest-road-6438315/",
+    "Video by Orhan Pergel on Pexels: https://www.pexels.com/video/a-car-driving-down-a-dirt-road-in-a-field-24796943/"
+  ],
+  "playlist": "Full Guides (Long Videos)",
+  "youtube_id": "suQGJk7U_Q8",
+  "youtube_url": "https://youtu.be/suQGJk7U_Q8",
+  "uploaded_at": "2026-10-23T01:27:21",
+  "privacy_locked": false
+}

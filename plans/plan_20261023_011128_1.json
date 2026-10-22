@@ -1,0 +1,72 @@
+{
+  "title": "Stop Doing This At Intersections (Part 1)",
+  "hook": "Never enter an intersection like this.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never enter an intersection like this.",
+      "visual_search": "driver pov car approaching busy intersection"
+    },
+    {
+      "section": "Explanation",
+      "narration": "When turning left at a green light, always keep your front wheels pointed straight while waiting. If you turn them early and get rear-ended, you get pushed straight into oncoming traffic.",
+      "visual_search": "steering wheel close up inside car"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Like if this helped, follow for daily driving tips. Did you knew this rule? Comment yes or no, because never enter an intersection like this.",
+      "visual_search": "cars driving on city street traffic"
+    }
+  ],
+  "description": "Essential driving tips for beginners to stay safe at busy intersections. Learn proper wheel positioning when waiting to make a left turn to avoid dangerous collisions.",
+  "tags": [
+    "driving tips",
+    "driving tips for beginners",
+    "new driver tips",
+    "driving safety",
+    "driving tricks",
+    "intersection safety",
+    "driving lessons",
+    "car safety",
+    "driving skills",
+    "learn to drive",
+    "driving test tips"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#driver",
+    "#safety"
+  ],
+  "thumbnail_text": "STOP DOING THIS",
+  "why_it_will_work": "Tap into the high-performing driving safety and beginner tips format with a strong negative hook and a 2-part series cliffhanger.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Intersection Safety",
+    "part": 1,
+    "next_part_idea": "How to position your car when waiting to turn left on a flashing yellow arrow"
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-23T01:11:29.317056",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261023_011128_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261023_011128_1/thumbnail.jpg",
+  "duration_sec": 18.7,
+  "chapters": [],
+  "credits": [
+    "Video by Kowsar  Ahmed on Pexels: https://www.pexels.com/video/busy-city-intersection-with-rickshaws-and-buses-39924364/",
+    "Video by Raj  Bala on Pexels: https://www.pexels.com/video/busy-urban-intersection-with-traffic-and-clouds-31453907/",
+    "Video by Alex Moliski on Pexels: https://www.pexels.com/video/classic-car-steering-wheel-close-up-34479400/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by David Lomax on Pexels: https://www.pexels.com/video/a-view-of-a-city-street-with-cars-and-buildings-28566777/",
+    "Video by Israyosoy S. on Pexels: https://www.pexels.com/video/city-traffic-on-a-busy-mexican-highway-39688226/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "nlLxRItuyLs",
+  "youtube_url": "https://youtu.be/nlLxRItuyLs",
+  "uploaded_at": "2026-10-23T01:27:29",
+  "privacy_locked": false
+}

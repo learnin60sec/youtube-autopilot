@@ -1,0 +1,73 @@
+{
+  "title": "Which Way Do You Turn Out of a Skid?",
+  "hook": "Stop panicking when your tires slip.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop panicking when your tires slip.",
+      "visual_search": "car driving on wet rainy road dashboard view"
+    },
+    {
+      "section": "Mini quiz",
+      "narration": "Do you steer into the skid or away from it? Think fast. The correct answer is into the direction your rear end is sliding.",
+      "visual_search": "driver hands turning steering wheel quickly"
+    },
+    {
+      "section": "Explanation",
+      "narration": "This aligns your front tires with your movement and restores traction instantly.",
+      "visual_search": "tires splashing water on road close up"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Like if this helped, follow for daily driving tips. Did you guess right? Comment yes or no, because stop panicking when your tires slip.",
+      "visual_search": "highway traffic driving smoothly"
+    }
+  ],
+  "description": "Test your driving knowledge with this quick mini quiz. Learn the correct technique to recover safely when your car starts to skid on wet or icy roads.",
+  "tags": [
+    "driving tips",
+    "driving tips and tricks",
+    "how to drive",
+    "driving quiz",
+    "car safety",
+    "driving skills",
+    "driving lessons",
+    "emergency driving",
+    "winter driving",
+    "new driver tips"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#cartips",
+    "#quiz"
+  ],
+  "thumbnail_text": "SLIPPING TIRES",
+  "why_it_will_work": "Leverages an interactive mini quiz format on an essential driving survival topic that appeals to both beginners and experienced drivers.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-23T01:11:30.058966",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261023_011128_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261023_011128_2/thumbnail.jpg",
+  "duration_sec": 20.1,
+  "chapters": [],
+  "credits": [
+    "Video by Nothing Ahead on Pexels: https://www.pexels.com/video/view-from-a-car-driving-during-rain-12601918/",
+    "Video by Ummu on Pexels: https://www.pexels.com/video/driving-in-rainy-weather-inside-a-car-40236369/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/hands-on-hyundai-steering-wheel-13675325/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Jill Burrow on Pexels: https://www.pexels.com/video/close-up-video-of-a-raining-on-floor-7681545/",
+    "Video by David Pickup |  Advertising & Marketing  🇬🇧 on Pexels: https://www.pexels.com/video/aerial-view-of-busy-highway-traffic-in-daylight-30106869/",
+    "Video by Şeyhmus Kino on Pexels: https://www.pexels.com/video/busy-highway-traffic-at-sunset-31779728/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "iyo5161fxfU",
+  "youtube_url": "https://youtu.be/iyo5161fxfU",
+  "uploaded_at": "2026-10-23T01:27:33",
+  "privacy_locked": false
+}
