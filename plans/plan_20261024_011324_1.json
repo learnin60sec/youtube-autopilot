@@ -1,0 +1,74 @@
+{
+  "title": "What Happens If You Ride the Clutch",
+  "hook": "Stop resting your foot right there.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop resting your foot right there.",
+      "visual_search": "driver foot resting on clutch pedal inside car"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Hovering your foot on the clutch pedal applies tiny pressure to the release bearing. Over time, this constant friction burns out your clutch disc early.",
+      "visual_search": "manual car gear shifter and pedals close up"
+    },
+    {
+      "section": "Call to action",
+      "narration": "Like if this helped, follow for daily driving tips. Do you drive manual? Comment yes or no.",
+      "visual_search": "hands on steering wheel driving on open road"
+    },
+    {
+      "section": "Loop",
+      "narration": "Always keep your foot clear so you never stop resting your foot right there.",
+      "visual_search": "driver foot firmly on dead pedal floor"
+    }
+  ],
+  "description": "Learn what happens to your manual transmission when you ride the clutch pedal. A quick driving tip for stick shift drivers to avoid costly repairs.\n\nMaster your manual car with these quick driving tips for beginners.",
+  "tags": [
+    "driving tips",
+    "how to drive stick shift",
+    "manual transmission",
+    "clutch pedal",
+    "driving tips for beginners",
+    "car maintenance",
+    "stick shift tips",
+    "learn to drive",
+    "driving advice",
+    "car care tips",
+    "manual car basics",
+    "driving tricks"
+  ],
+  "hashtags": [
+    "#manual",
+    "#drivingtips",
+    "#cars"
+  ],
+  "thumbnail_text": "DON'T RIDE THE CLUTCH",
+  "why_it_will_work": "Leverages high-performing mechanical problem-solving topics from the channel history combined with surging searches for manual driving tips.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-24T01:13:24.803079",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261024_011324_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261024_011324_1/thumbnail.jpg",
+  "duration_sec": 18.5,
+  "chapters": [],
+  "credits": [
+    "Video by Kaan Durmuş on Pexels: https://www.pexels.com/video/raindrops-on-car-window-from-driver-s-seat-30027705/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-dashboard-close-up-interior-36474526/",
+    "Video by Anna Pou on Pexels: https://www.pexels.com/video/close-up-video-of-a-bass-drum-8118136/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Image Hunter on Pexels: https://www.pexels.com/video/driving-car-on-road-13229385/",
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/man-sitting-on-the-ambulance-driver-seat-6520256/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "Ory2lqAVHAc",
+  "youtube_url": "https://youtu.be/Ory2lqAVHAc",
+  "uploaded_at": "2026-10-24T01:15:40",
+  "privacy_locked": false
+}

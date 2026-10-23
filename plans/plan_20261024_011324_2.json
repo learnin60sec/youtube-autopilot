@@ -1,0 +1,77 @@
+{
+  "title": "Stop Doing This At Intersections (Part 2)",
+  "hook": "Part two! Keep your wheels straight.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Part two! Keep your wheels straight.",
+      "visual_search": "car waiting to turn left at intersection interior view"
+    },
+    {
+      "section": "Explanation",
+      "narration": "When waiting to turn left on a flashing yellow arrow, never pre-turn your steering wheel. If you get rear-ended, pointed wheels push you straight into oncoming traffic.",
+      "visual_search": "dashboard view of intersection traffic light changing"
+    },
+    {
+      "section": "Call to action",
+      "narration": "Like if this saved you, follow for daily driving tips. Did you know this? Comment yes or no.",
+      "visual_search": "driver hands holding steering wheel straight"
+    },
+    {
+      "section": "Loop",
+      "narration": "Protect yourself at every light because part two! Keep your wheels straight.",
+      "visual_search": "car front wheels aligned straight on asphalt"
+    }
+  ],
+  "description": "Part 2 of our intersection safety series! Learn the correct way to position your car when waiting to turn left on a flashing yellow arrow to avoid rear-end collisions into oncoming traffic.\n\nEssential driving tips for new drivers navigating busy city streets.",
+  "tags": [
+    "driving tips",
+    "intersection safety",
+    "driving tips for beginners",
+    "left turn tips",
+    "driving advice",
+    "safe driving",
+    "new driver tips",
+    "driving rules",
+    "traffic safety",
+    "car tips",
+    "driving skills",
+    "road safety"
+  ],
+  "hashtags": [
+    "#driving",
+    "#safety",
+    "#tips"
+  ],
+  "thumbnail_text": "FLASHER TURN RULE",
+  "why_it_will_work": "Directly continues a proven top-performing series topic on intersection safety while delivering high-intent practical safety advice.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Intersection Safety",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-24T01:13:25.637179",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261024_011324_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261024_011324_2/thumbnail.jpg",
+  "duration_sec": 21.0,
+  "chapters": [],
+  "credits": [
+    "Video by Wolf  Art on Pexels: https://www.pexels.com/video/motorcycle-rider-waiting-at-urban-intersection-30914732/",
+    "Video by El Jundi on Pexels: https://www.pexels.com/video/traffic-light-cycling-signal-at-urban-intersection-38860693/",
+    "Video by Raj  Bala on Pexels: https://www.pexels.com/video/busy-urban-intersection-with-traffic-and-clouds-31453907/",
+    "Video by Smitha Nittur on Pexels: https://www.pexels.com/video/driver-holding-steering-wheel-on-a-sunny-day-39450368/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Alex Vo on Pexels: https://www.pexels.com/video/red-car-on-lift-with-focused-wheel-alignment-40308619/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "rZn52GKwoYY",
+  "youtube_url": "https://youtu.be/rZn52GKwoYY",
+  "uploaded_at": "2026-10-24T01:15:45",
+  "privacy_locked": false
+}
