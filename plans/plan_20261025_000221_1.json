@@ -1,0 +1,77 @@
+{
+  "title": "Never Touch Your Brakes On A Downhill Curve (Part 1)",
+  "hook": "Never brake hard on steep curves.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never brake hard on steep curves.",
+      "visual_search": "car driving on winding mountain road"
+    },
+    {
+      "section": "Body",
+      "narration": "Touching your brakes halfway through a turn shifts all the weight to your front tires, causing your rear end to slide out. Instead, slow down completely before you enter the curve.",
+      "visual_search": "close up of car tires on wet asphalt"
+    },
+    {
+      "section": "CTA",
+      "narration": "Like if this helped, follow for daily driving tips. What speed do you take sharp turns? Comment below.",
+      "visual_search": "driver hands on steering wheel turning"
+    },
+    {
+      "section": "Loop",
+      "narration": "Never brake hard on steep curves.",
+      "visual_search": "car driving on winding mountain road"
+    }
+  ],
+  "description": "Learn essential driving tips for beginners and new drivers to stay safe on winding mountain roads. Understanding weight transfer during turns prevents dangerous skids and loss of vehicle control. Follow for Part 2 of our expert driving series.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips turning",
+    "how to drive a car",
+    "driving safety",
+    "mountain driving tips",
+    "new driver advice",
+    "car handling",
+    "driving tricks",
+    "safe driving",
+    "car control"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#cartips",
+    "#safedriving"
+  ],
+  "thumbnail_text": "STOP BRAKING IN CURVES",
+  "why_it_will_work": "Leverages real searches for driving tips for beginners while using a high-performing single-idea instructional format.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Mountain Driving Safety",
+    "part": 1,
+    "next_part_idea": "How to use engine braking safely on steep descents"
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-25T00:02:23.368967",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261025_000221_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261025_000221_1/thumbnail.jpg",
+  "duration_sec": 19.2,
+  "chapters": [],
+  "credits": [
+    "Video by bruss sanches romero on Pexels: https://www.pexels.com/video/aerial-view-of-car-on-mountain-road-in-clouds-30701039/",
+    "Video by Sina Rezakhani on Pexels: https://www.pexels.com/video/a-car-driving-down-a-mountain-road-with-clouds-in-the-sky-26348269/",
+    "Video by kirpiklipencere on Pexels: https://www.pexels.com/video/close-up-of-wet-asphalt-and-pebbles-35362483/",
+    "Video by Alex Vo on Pexels: https://www.pexels.com/video/close-up-of-car-wheel-on-hydraulic-lift-40308617/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/hands-on-hyundai-steering-wheel-13675325/",
+    "Video by Anıl Karakaya on Pexels: https://www.pexels.com/video/sleek-car-navigating-scenic-mountain-road-32391977/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "dUYcDKhJGro",
+  "youtube_url": "https://youtu.be/dUYcDKhJGro",
+  "uploaded_at": "2026-10-25T00:04:27",
+  "privacy_locked": false
+}

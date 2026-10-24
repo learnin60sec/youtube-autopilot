@@ -1,0 +1,72 @@
+{
+  "title": "Stop Doing This When Parallel Parking",
+  "hook": "Stop turning your wheels while parked.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop turning your wheels while parked.",
+      "visual_search": "driver turning steering wheel inside car"
+    },
+    {
+      "section": "Body",
+      "narration": "Dry steering strains your steering rack and wears down your tread unevenly. Always roll forward slightly before cutting your wheel into a parking space.",
+      "visual_search": "car parallel parking on city street"
+    },
+    {
+      "section": "CTA",
+      "narration": "Like if this helped, follow for daily driving tips. Do you dry steer your car? Comment yes or no.",
+      "visual_search": "close up of car front wheels turning"
+    },
+    {
+      "section": "Loop",
+      "narration": "Stop turning your wheels while parked.",
+      "visual_search": "driver turning steering wheel inside car"
+    }
+  ],
+  "description": "Master parallel parking without damaging your steering system. These quick driving tips and tricks help new drivers protect their tires and steering components from premature wear.",
+  "tags": [
+    "driving tips parking",
+    "how to drive a car",
+    "parallel parking tips",
+    "driving tips for new drivers",
+    "car maintenance tips",
+    "driving tricks",
+    "beginner driver tips",
+    "car care",
+    "driving lessons",
+    "parking advice"
+  ],
+  "hashtags": [
+    "#parking",
+    "#drivingtips",
+    "#carmaintenance"
+  ],
+  "thumbnail_text": "STOP DRY STEERING",
+  "why_it_will_work": "Directly targets the high-volume search for parking driving tips with a short, highly actionable correction.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-25T00:02:26.679645",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261025_000221_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261025_000221_2/thumbnail.jpg",
+  "duration_sec": 17.4,
+  "chapters": [],
+  "credits": [
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Naser Ghazanfer on Pexels: https://www.pexels.com/video/cars-on-street-in-city-10360251/",
+    "Video by Teju on Pexels: https://www.pexels.com/video/tree-lined-city-street-in-autumn-vista-39925491/",
+    "Video by Alex Vo on Pexels: https://www.pexels.com/video/close-up-of-a-black-car-tire-in-motion-40308616/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/close-up-of-a-fast-moving-sport-car-wheel-39140749/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "7plEGbkB_1Q",
+  "youtube_url": "https://youtu.be/7plEGbkB_1Q",
+  "uploaded_at": "2026-10-25T00:04:34",
+  "privacy_locked": false
+}
