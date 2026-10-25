@@ -1,0 +1,82 @@
+{
+  "title": "How to Park on a Steep Hill Properly",
+  "hook": "Never leave your wheels straight when parking uphill.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never leave your wheels straight when parking uphill.",
+      "visual_search": "car parked on a steep hill angle view"
+    },
+    {
+      "section": "Step 1",
+      "narration": "First, pull close to the curb and stop completely with your foot on the brake.",
+      "visual_search": "driver stepping on car brake pedal"
+    },
+    {
+      "section": "Step 2",
+      "narration": "Second, turn your steering wheel sharply away from the curb so the tires face the street.",
+      "visual_search": "steering wheel turning quickly close up"
+    },
+    {
+      "section": "Step 3",
+      "narration": "Third, let the car roll back gently until the front tire rests firmly against the curb.",
+      "visual_search": "car tire touching curb close up"
+    },
+    {
+      "section": "Outro",
+      "narration": "Like if this helped, follow for daily driving tips. Do you always use your parking brake on hills? Comment yes or no.",
+      "visual_search": "driver pulling handbrake up"
+    }
+  ],
+  "description": "Learn the proper way to park your car on a steep hill to prevent rollaways. This quick step-by-step guide is essential for all new drivers in the USA.\n\nMaster safe parking habits in under 60 seconds with our daily driving tips.",
+  "tags": [
+    "driving tips for beginners",
+    "how to park a car",
+    "parking on a hill",
+    "new driver tips",
+    "driving tricks",
+    "car safety",
+    "parallel parking",
+    "driving lessons",
+    "learn to drive",
+    "driving 101",
+    "auto advice",
+    "vehicle safety",
+    "driver education"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#parking",
+    "#cartips"
+  ],
+  "thumbnail_text": "HILL PARKING HACK",
+  "why_it_will_work": "Aligns with top high-intent searches for driving tips for beginners while leveraging our audience's proven high engagement with actionable parking safety advice.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-26T00:10:48.664045",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261026_001047_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261026_001047_1/thumbnail.jpg",
+  "duration_sec": 22.6,
+  "chapters": [],
+  "credits": [
+    "Video by Anıl Karakaya on Pexels: https://www.pexels.com/video/aerial-view-of-car-on-coastal-cliffside-road-32486199/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/vibrant-red-sports-car-on-urban-rooftop-40061336/",
+    "Video by Alex Vo on Pexels: https://www.pexels.com/video/high-performance-car-wheel-on-hydraulic-lift-40308618/",
+    "Video by Alex Moliski on Pexels: https://www.pexels.com/video/classic-car-steering-wheel-close-up-34479400/",
+    "Video by Alex Vo on Pexels: https://www.pexels.com/video/close-up-of-a-black-car-tire-in-motion-40308616/",
+    "Video by Alex Vo on Pexels: https://www.pexels.com/video/close-up-of-car-wheel-on-hydraulic-lift-40308617/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/driver-inside-car-adjusting-mirror-during-daylight-35585187/",
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/ambulance-driver-flipping-switches-6520259/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "Yt9jibHQ6F0",
+  "youtube_url": "https://youtu.be/Yt9jibHQ6F0",
+  "uploaded_at": "2026-10-26T00:27:45",
+  "privacy_locked": false
+}

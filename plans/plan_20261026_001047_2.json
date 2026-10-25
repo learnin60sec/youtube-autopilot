@@ -1,0 +1,80 @@
+{
+  "title": "Never Touch Your Brakes On A Downhill Curve (Part 2)",
+  "hook": "Part 2! Shift down before entering steep descents.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Part 2! Shift down before entering steep descents.",
+      "visual_search": "mountain winding road aerial view"
+    },
+    {
+      "section": "Quiz",
+      "narration": "What gear should you pick? Think fast. The right answer is a lower gear to use engine braking safely.",
+      "visual_search": "manual gear shifter moving down"
+    },
+    {
+      "section": "Explanation",
+      "narration": "This stops your brake pads from overheating by letting the engine control your vehicle speed naturally.",
+      "visual_search": "car driving down steep mountain curve"
+    },
+    {
+      "section": "Outro",
+      "narration": "Like if this helped, follow for daily driving tips. Do you use engine braking on mountains? Comment yes or no.",
+      "visual_search": "driver hands on steering wheel mountain road"
+    }
+  ],
+  "description": "Part 2 of our mountain driving safety series! Learn how to use engine braking safely on steep descents without destroying your car's brakes.\n\nNever touch your brakes constantly on downhill curves. Master advanced driving techniques in under 60 seconds.",
+  "tags": [
+    "mountain driving safety",
+    "engine braking",
+    "driving tips and tricks",
+    "how to drive downhill",
+    "car brakes",
+    "driving tips for beginners",
+    "manual driving",
+    "automatic transmission tips",
+    "driving lessons",
+    "safe driving",
+    "road safety",
+    "car maintenance",
+    "driving skills"
+  ],
+  "hashtags": [
+    "#mountaindriving",
+    "#drivingtips",
+    "#carsafety"
+  ],
+  "thumbnail_text": "DOWNHILL BRAKING SECRET",
+  "why_it_will_work": "Directly continues our best-performing topic category and fulfills a promised part two for a high-retention series.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Mountain Driving Safety",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-26T00:10:49.341150",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261026_001047_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261026_001047_2/thumbnail.jpg",
+  "duration_sec": 20.1,
+  "chapters": [],
+  "credits": [
+    "Video by Yunus Tuğ on Pexels: https://www.pexels.com/video/aerial-view-of-winding-mountain-road-33318434/",
+    "Video by Bahri Gün on Pexels: https://www.pexels.com/video/aerial-view-of-winding-mountain-road-35845447/",
+    "Video by shoreline vehicles on Pexels: https://www.pexels.com/video/rustic-off-road-adventure-in-vintage-land-rover-31943165/",
+    "Video by Thirdman on Pexels: https://www.pexels.com/video/a-person-driving-a-car-6944949/",
+    "Video by Anıl Karakaya on Pexels: https://www.pexels.com/video/sleek-black-car-navigating-mountain-roads-32486198/",
+    "Video by Anıl Karakaya on Pexels: https://www.pexels.com/video/sleek-car-navigating-scenic-mountain-road-32391977/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "Xtk2XLHh_Wc",
+  "youtube_url": "https://youtu.be/Xtk2XLHh_Wc",
+  "uploaded_at": "2026-10-26T00:27:51",
+  "privacy_locked": false
+}
