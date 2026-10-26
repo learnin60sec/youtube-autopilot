@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-10-25T18:40:38.400274+00:00",
+  "generated_at": "2026-10-26T20:50:18.049518+00:00",
   "subscribers": 33,
-  "total_views": 35501,
-  "public_videos": 50,
-  "shorts_views_90_days": 36329,
+  "total_views": 39067,
+  "public_videos": 53,
+  "shorts_views_90_days": 37719,
   "best": [
     {
-      "id": "dUYcDKhJGro",
-      "title": "Never Touch Your Brakes On A Downhill Curve (Part 1)",
-      "views": 928,
-      "likes": 10,
+      "id": "Yt9jibHQ6F0",
+      "title": "How to Park on a Steep Hill Properly",
+      "views": 931,
+      "likes": 11,
       "comments": 0,
-      "age_days": 1.0,
-      "views_per_day": 924.3,
-      "like_rate_pct": 1.1,
+      "age_days": 1.1,
+      "views_per_day": 863.7,
+      "like_rate_pct": 1.2,
       "format": "short",
       "category": "Autos & Vehicles",
-      "hook": "Never brake hard on steep curves.",
-      "published": "2026-10-24T18:34:52+00:00",
-      "score": 30.21
+      "hook": "Never leave your wheels straight when parking uphill.",
+      "published": "2026-10-25T18:58:08+00:00",
+      "score": 29.97
     },
     {
       "id": "7plEGbkB_1Q",
       "title": "Stop Doing This When Parallel Parking",
-      "views": 863,
-      "likes": 6,
+      "views": 929,
+      "likes": 8,
       "comments": 1,
-      "age_days": 1.0,
-      "views_per_day": 859.7,
-      "like_rate_pct": 0.7,
+      "age_days": 2.1,
+      "views_per_day": 443.7,
+      "like_rate_pct": 0.9,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop turning your wheels while parked.",
       "published": "2026-10-24T18:35:02+00:00",
-      "score": 30.2
+      "score": 27.43
+    },
+    {
+      "id": "dUYcDKhJGro",
+      "title": "Never Touch Your Brakes On A Downhill Curve (Part 1)",
+      "views": 1014,
+      "likes": 10,
+      "comments": 0,
+      "age_days": 2.1,
+      "views_per_day": 484.2,
+      "like_rate_pct": 1.0,
+      "format": "short",
+      "category": "Autos & Vehicles",
+      "hook": "Never brake hard on steep curves.",
+      "published": "2026-10-24T18:34:52+00:00",
+      "score": 27.36
     },
     {
       "id": "rZn52GKwoYY",
       "title": "Stop Doing This At Intersections (Part 2)",
-      "views": 1041,
-      "likes": 8,
+      "views": 1048,
+      "likes": 9,
       "comments": 0,
-      "age_days": 2.0,
-      "views_per_day": 532.6,
-      "like_rate_pct": 0.8,
+      "age_days": 3.0,
+      "views_per_day": 344.2,
+      "like_rate_pct": 0.9,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Part two! Keep your wheels straight.",
       "published": "2026-10-23T19:46:04+00:00",
-      "score": 27.67
+      "score": 25.83
     },
     {
       "id": "Ory2lqAVHAc",
       "title": "What Happens If You Ride the Clutch",
-      "views": 998,
+      "views": 999,
       "likes": 4,
       "comments": 0,
-      "age_days": 2.0,
-      "views_per_day": 510.6,
+      "age_days": 3.0,
+      "views_per_day": 328.1,
       "like_rate_pct": 0.4,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop resting your foot right there.",
       "published": "2026-10-23T19:46:05+00:00",
-      "score": 27.29
-    },
-    {
-      "id": "nlLxRItuyLs",
-      "title": "Stop Doing This At Intersections (Part 1)",
-      "views": 1003,
-      "likes": 5,
-      "comments": 0,
-      "age_days": 2.9,
-      "views_per_day": 340.4,
-      "like_rate_pct": 0.5,
-      "format": "short",
-      "category": "Autos & Vehicles",
-      "hook": "Never enter an intersection like this.",
-      "published": "2026-10-22T19:57:48+00:00",
-      "score": 25.58
+      "score": 25.37
     }
   ],
   "worst": [
@@ -88,7 +88,7 @@
       "views": 16,
       "likes": 0,
       "comments": 0,
-      "age_days": 16.9,
+      "age_days": 18.0,
       "views_per_day": 0.9,
       "like_rate_pct": 0.0,
       "format": "long",
@@ -103,7 +103,7 @@
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "age_days": 25.1,
+      "age_days": 26.2,
       "views_per_day": 0.5,
       "like_rate_pct": 0.0,
       "format": "short",
@@ -115,42 +115,42 @@
     {
       "id": "suQGJk7U_Q8",
       "title": "3 Dangerous Driving Mistakes Beginners Make on Roundabouts",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
-      "age_days": 2.9,
-      "views_per_day": 0.0,
-      "like_rate_pct": 0,
+      "age_days": 4.0,
+      "views_per_day": 0.2,
+      "like_rate_pct": 0.0,
       "format": "long",
       "category": "Autos & Vehicles",
       "hook": "Approaching a multi-lane roundabout for the very first time can make even the calmest driver's palms sweat.",
       "published": "2026-10-22T19:57:53+00:00",
-      "score": 0.0
+      "score": 0.79
     }
   ],
   "category_views_per_day": {
-    "Autos & Vehicles": 140.9,
-    "Howto & Style": 75.1,
-    "Science & Technology": 18.9,
+    "Autos & Vehicles": 118.8,
+    "Howto & Style": 63.9,
+    "Science & Technology": 18.0,
     "Education": 1.4
   },
   "category_video_counts": {
-    "Autos & Vehicles": 41,
+    "Autos & Vehicles": 44,
     "Howto & Style": 5,
     "Science & Technology": 3,
     "Education": 1
   },
   "retention": {
-    "avg_view_pct_shorts": 75.9,
-    "avg_view_pct_long": 34.3,
-    "long_watch_hours_90d": 31.7,
+    "avg_view_pct_shorts": 74.1,
+    "avg_view_pct_long": 33.5,
+    "long_watch_hours_90d": 34.6,
     "tips": [
       "Long videos lose viewers: shorter intro, more curiosity lines, and more concrete examples in each section."
     ],
     "best_for_subscribers": [
       {
         "title": "3 Motorcycle Turning Mistakes Every Beginner Makes",
-        "subscribers": 10
+        "subscribers": 12
       },
       {
         "title": "Stop Braking in the Middle of a Turn",

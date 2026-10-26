@@ -1,0 +1,73 @@
+{
+  "title": "What Happens If You Rest Your Hand on the Gear Shifter",
+  "hook": "Stop resting your hand there.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop resting your hand there. Leaving it on the shifter while driving causes expensive damage.",
+      "visual_search": "hand resting on manual gear shifter inside car"
+    },
+    {
+      "section": "Explanation",
+      "narration": "The weight pushes internal selector forks against rotating collars. Over time, this constant friction wears down the metal components inside the transmission.",
+      "visual_search": "car manual transmission gears close up mechanism"
+    },
+    {
+      "section": "Call to Action",
+      "narration": "Keep both hands on the wheel. Like if this helped, and comment your biggest driving habit below.",
+      "visual_search": "driver hands properly placed on steering wheel"
+    },
+    {
+      "section": "Loop",
+      "narration": "Stop resting your hand there.",
+      "visual_search": "hand resting on manual gear shifter inside car"
+    }
+  ],
+  "description": "Discover why resting your hand on the gear shifter of a manual car can ruin your transmission over time. Simple driving habits to protect your car.\n\nSubscribe for more daily driving tips and car maintenance tricks.",
+  "tags": [
+    "how to drive a manual car",
+    "how to drive stick shift",
+    "driving tips for beginners",
+    "car maintenance",
+    "manual transmission",
+    "driving tips and tricks",
+    "bad driving habits",
+    "car care",
+    "stick shift tips",
+    "driving skills"
+  ],
+  "hashtags": [
+    "#manualtransmission",
+    "#drivingtips",
+    "#carmaintenance"
+  ],
+  "thumbnail_text": "RUINING YOUR GEARS",
+  "why_it_will_work": "Uses a strong curiosity hook about a common bad habit, delivering a clear mechanical explanation that viewers want to verify.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-27T02:20:28.395144",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261027_022026_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261027_022026_2/thumbnail.jpg",
+  "duration_sec": 20.2,
+  "chapters": [],
+  "credits": [
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/hand-placing-doughnuts-inside-car-10466422/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Ummu on Pexels: https://www.pexels.com/video/driving-in-rainy-weather-inside-a-car-40236369/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-dashboard-close-up-interior-36474526/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/close-up-video-of-a-machine-5846713/",
+    "Video by Smitha Nittur on Pexels: https://www.pexels.com/video/driver-holding-steering-wheel-on-a-sunny-day-39450368/",
+    "Video by Polina Istomina on Pexels: https://www.pexels.com/video/dynamic-racing-car-pov-on-track-37622449/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "jfNVLgkyp48",
+  "youtube_url": "https://youtu.be/jfNVLgkyp48",
+  "uploaded_at": "2026-10-27T02:22:47",
+  "privacy_locked": false
+}
