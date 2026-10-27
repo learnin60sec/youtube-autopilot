@@ -1,0 +1,69 @@
+{
+  "title": "Why Manual Drivers Downshift Instead of Braking",
+  "hook": "Stop slamming your brakes on hills.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop slamming your brakes on hills.",
+      "visual_search": "driver stepping on car brake pedal interior view"
+    },
+    {
+      "section": "Body",
+      "narration": "Manual drivers use engine braking to slow down safely. Shifting into a lower gear uses engine compression to control speed without wearing out brake pads.",
+      "visual_search": "manual car gear shifter moving while driving"
+    },
+    {
+      "section": "CTA and Loop",
+      "narration": "Like if this helped, follow for daily driving tips. Do you drive manual? Comment yes or no. Because when you...",
+      "visual_search": "road view from inside moving car sunset"
+    }
+  ],
+  "description": "Learn how manual car drivers use engine braking to preserve their brake pads on long descents. Simple driving tips for beginners to improve car safety and control.\n\nMaster essential driving skills in under a minute with Learn in 60 Seconds.",
+  "tags": [
+    "driving tips for beginners",
+    "how to drive a manual car",
+    "driving tips and tricks",
+    "engine braking",
+    "manual transmission",
+    "car tips",
+    "driving hacks",
+    "how to drive stick shift",
+    "driving skills",
+    "car maintenance tips",
+    "beginner driver advice",
+    "vehicle control",
+    "safe driving habits"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#manualcar",
+    "#cartips"
+  ],
+  "thumbnail_text": "STOP BRAKING HARD",
+  "why_it_will_work": "Leverages high-performing automotive educational content by addressing a common driving question with a quick, actionable insight that viewers love.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-28T01:52:38.364119",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261028_015237_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261028_015237_1/thumbnail.jpg",
+  "duration_sec": 19.6,
+  "chapters": [],
+  "credits": [
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/sunlit-interior-of-a-car-steering-wheel-view-35585195/",
+    "Video by Thirdman on Pexels: https://www.pexels.com/video/a-person-driving-a-car-6944949/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by shakar adalat on Pexels: https://www.pexels.com/video/city-view-inside-the-car-19011773/",
+    "Video by Gönüldenbirkare on Pexels: https://www.pexels.com/video/street-view-through-car-mirror-at-sunset-38515182/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "1k8g8WXmXFM",
+  "youtube_url": "https://youtu.be/1k8g8WXmXFM",
+  "uploaded_at": "2026-10-28T02:06:19",
+  "privacy_locked": false
+}
