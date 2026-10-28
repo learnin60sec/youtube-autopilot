@@ -1,0 +1,73 @@
+{
+  "title": "How to Handle Blind Spots in 3 Steps",
+  "hook": "Stop driving blind in your mirrors.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop driving blind in your mirrors.",
+      "visual_search": "side mirror car blind spot view"
+    },
+    {
+      "section": "Step 1",
+      "narration": "First, sit straight and lean your head against the driver side window.",
+      "visual_search": "driver adjusting side mirror in car"
+    },
+    {
+      "section": "Step 2",
+      "narration": "Second, adjust your left mirror until you can just barely see the side of your car.",
+      "visual_search": "car side mirror reflecting traffic"
+    },
+    {
+      "section": "Step 3",
+      "narration": "Third, lean to the center console and set your right mirror the same way. Like this video if it helped, and follow for daily driving hacks. Have you checked your mirrors today? Comment yes or no.",
+      "visual_search": "driver checking rearview mirror safely"
+    }
+  ],
+  "description": "Eliminate dangerous blind spots in just three simple steps. Proper mirror adjustment prevents accidents and keeps you safe on the road. Follow for more essential driving tips.",
+  "tags": [
+    "driving tips for new drivers",
+    "driving tips and tricks",
+    "blind spots",
+    "mirror adjustment",
+    "car safety",
+    "new driver",
+    "driving hacks",
+    "driving lessons",
+    "car maintenance",
+    "driving skills"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#cartips",
+    "#safety"
+  ],
+  "thumbnail_text": "ELIMINATE BLIND SPOTS",
+  "why_it_will_work": "Answers a fundamental beginner search query with a clear, highly visual 3-step solution that viewers want to save and share.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-29T02:13:42.757581",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261029_021341_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261029_021341_2/thumbnail.jpg",
+  "duration_sec": 20.9,
+  "chapters": [],
+  "credits": [
+    "Video by BJ Zurc on Pexels: https://www.pexels.com/video/cyclists-passing-by-in-car-side-mirror-view-34633207/",
+    "Video by Nothing Ahead on Pexels: https://www.pexels.com/video/side-view-mirror-of-a-car-driving-on-a-highway-12601957/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/driver-inside-car-adjusting-mirror-during-daylight-35585187/",
+    "Video by Yunus KARA on Pexels: https://www.pexels.com/video/view-of-street-lights-on-the-side-mirror-of-a-moving-car-15688900/",
+    "Video by fish socks on Pexels: https://www.pexels.com/video/rainy-mackinac-bridge-drive-through-rearview-mirror-34622575/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/thoughtful-woman-driving-in-car-rearview-mirror-35585181/",
+    "Video by Airam Dato-on on Pexels: https://www.pexels.com/video/woman-looking-into-rear-view-mirror-in-car-33067604/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "_Q-XXftnO4E",
+  "youtube_url": "https://youtu.be/_Q-XXftnO4E",
+  "uploaded_at": "2026-10-29T02:16:33",
+  "privacy_locked": false
+}

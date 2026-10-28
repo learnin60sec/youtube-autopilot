@@ -1,0 +1,73 @@
+{
+  "title": "Stop Doing This At Highway Exits (Part 1)",
+  "hook": "Never slam your brakes before exiting.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never slam your brakes before exiting.",
+      "visual_search": "highway exit ramp car braking close up"
+    },
+    {
+      "section": "Mistake",
+      "narration": "Most drivers panic and slow down on the main lane instead of waiting for the deceleration lane.",
+      "visual_search": "driver foot on brake pedal inside car"
+    },
+    {
+      "section": "Fix",
+      "narration": "Always merge fully into the exit lane first, then brake smoothly. Like if this helped, follow for daily driving tips. Did you know this? Comment yes or no. Never slam your",
+      "visual_search": "car smoothly merging onto highway exit lane"
+    }
+  ],
+  "description": "Stop making this dangerous highway exit mistake. Learn the proper way to exit safely without disrupting traffic behind you. Follow for more essential driving tips for beginners.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips and tricks",
+    "highway driving",
+    "driving mistakes",
+    "car tips",
+    "driving safety",
+    "how to drive",
+    "new driver tips",
+    "highway exit",
+    "driving lessons",
+    "learn to drive"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#highway",
+    "#driving"
+  ],
+  "thumbnail_text": "STOP BRAKING HERE",
+  "why_it_will_work": "Leverages real search trends for beginner driving tips with a high-stakes hook that stops the scroll instantly.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Highway Exit Safety",
+    "part": 1,
+    "next_part_idea": "The exact speed management technique to use once you are inside the exit lane."
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-29T02:13:42.044967",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261029_021341_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261029_021341_1/thumbnail.jpg",
+  "duration_sec": 17.2,
+  "chapters": [],
+  "credits": [
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/close-up-of-a-fast-moving-sport-car-wheel-39140749/",
+    "Video by Marlon Castor on Pexels: https://www.pexels.com/video/aerial-view-of-urban-highway-in-spring-37067154/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/man-sitting-on-the-ambulance-driver-seat-6520256/",
+    "Video by Nothing Ahead on Pexels: https://www.pexels.com/video/side-view-mirror-of-a-car-driving-on-a-highway-12601957/",
+    "Video by Azean Shahimi on Pexels: https://www.pexels.com/video/driving-car-on-highway-13823104/",
+    "Video by Altaf Shah on Pexels: https://www.pexels.com/video/scenic-highway-drive-with-passing-cars-40549636/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "NldkeVf8eWg",
+  "youtube_url": "https://youtu.be/NldkeVf8eWg",
+  "uploaded_at": "2026-10-29T02:16:25",
+  "privacy_locked": false
+}
