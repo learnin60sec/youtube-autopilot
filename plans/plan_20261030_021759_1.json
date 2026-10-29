@@ -1,0 +1,70 @@
+{
+  "title": "Stop Doing This At Traffic Lights",
+  "hook": "Stop turning your wheels too early.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop turning your wheels too early while waiting to make a left at a green light.",
+      "visual_search": "car waiting at intersection interior view"
+    },
+    {
+      "section": "Explanation",
+      "narration": "If someone rear-ends you, your pointed wheels push you straight into oncoming traffic. Keep them pointed straight until you actually start moving.",
+      "visual_search": "car dashboard steering wheel closeup"
+    },
+    {
+      "section": "CTA and Loop",
+      "narration": "Like if this helped, follow for daily driving tips. Did you know this? Comment yes or no, because you should...",
+      "visual_search": "city traffic light turning green"
+    }
+  ],
+  "description": "Learn a crucial safety habit for waiting at intersections. Keeping your wheels straight prevents devastating secondary collisions if you get hit from behind.\n\nSubscribe to Learn in 60 Seconds for fast, essential driving tips every day.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips turning",
+    "driving tips and tricks",
+    "driving tips in usa",
+    "how to drive a car",
+    "driving safety",
+    "new driver tips",
+    "car safety hacks",
+    "defensive driving",
+    "driving advice",
+    "traffic light safety",
+    "learn to drive"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carsafety",
+    "#shorts"
+  ],
+  "thumbnail_text": "STOP TURNING EARLY",
+  "why_it_will_work": "Leverages the high-performing structural format of the creator's top automotive safety warnings, targeting real beginner searches.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-30T02:18:00.583560",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261030_021759_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261030_021759_1/thumbnail.jpg",
+  "duration_sec": 17.6,
+  "chapters": [],
+  "credits": [
+    "Video by Wolf  Art on Pexels: https://www.pexels.com/video/motorcycle-rider-waiting-at-urban-intersection-30914732/",
+    "Video by Airam Dato-on on Pexels: https://www.pexels.com/video/in-car-view-of-city-drive-experience-36067574/",
+    "Video by eddienilton on Pexels: https://www.pexels.com/video/urban-nightlife-scene-at-busy-city-intersection-39917144/",
+    "Video by Alex Moliski on Pexels: https://www.pexels.com/video/classic-car-steering-wheel-close-up-34479400/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Luke Miller on Pexels: https://www.pexels.com/video/a-traffic-light-with-the-words-stop-go-and-stop-18521318/",
+    "Video by Yasemin Gül on Pexels: https://www.pexels.com/video/busy-city-intersection-with-traffic-lights-39573529/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "H9Y2VaKNfVY",
+  "youtube_url": "https://youtu.be/H9Y2VaKNfVY",
+  "uploaded_at": "2026-10-30T02:33:56",
+  "privacy_locked": false
+}

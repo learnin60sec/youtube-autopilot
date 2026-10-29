@@ -1,0 +1,57 @@
+{
+  "title": "Stop Doing This At Highway Exits (Part 2)",
+  "hook": "Part 2! Never brake inside this lane.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Part 2! Never brake inside the deceleration lane until you are completely out of the main highway flow.",
+      "visual_search": "car entering highway exit ramp"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Maintain your highway speed inside the merge lane first, then brake smoothly only after you are fully off the main lanes.",
+      "visual_search": "driver foot pressing car brake pedal"
+    },
+    {
+      "section": "CTA and Loop",
+      "narration": "Like if this helped, follow for daily driving tips. Did you know this? Comment yes or no, because you should...",
+      "visual_search": "highway exit sign passing by"
+    }
+  ],
+  "description": "Part 2 of our Highway Exit Safety series. Master the correct speed management technique once you enter the exit lane to prevent rear-end collisions.\n\nSubscribe to Learn in 60 Seconds for daily driving tips.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips and tricks",
+    "driving tips for new drivers",
+    "how to drive a car",
+    "highway driving tips",
+    "driving safety",
+    "new driver tips",
+    "car safety",
+    "defensive driving",
+    "highway exits",
+    "driving lessons",
+    "road safety"
+  ],
+  "hashtags": [
+    "#highway",
+    "#drivingtips",
+    "#shorts"
+  ],
+  "thumbnail_text": "EXIT LANE SPEED",
+  "why_it_will_work": "Directly continues a successful series requested by the subscriber base, fulfilling the exact promise made in Part 1.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Highway Exit Safety",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Confusion between deceleration lanes and merge lanes. The script tells drivers to brake inside the merge lane, which is incorrect and dangerous."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-30T02:18:01.369216"
+}
