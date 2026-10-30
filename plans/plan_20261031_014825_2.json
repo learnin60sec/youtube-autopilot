@@ -1,0 +1,55 @@
+{
+  "title": "Stop Doing This At Highway Exits (Part 2)",
+  "hook": "Part 2! Never brake on the highway.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Part 2! Never brake on the highway.",
+      "visual_search": "highway exit ramp traffic view from car"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Once you enter the deceleration lane, keep your foot off the brake until you are fully inside the lane. Braking early on the main highway lane triggers sudden tailgating and rear-end collisions behind you.",
+      "visual_search": "car speeding on highway passing exit"
+    },
+    {
+      "section": "CTA",
+      "narration": "Like if this helped, follow for daily driving tips. Do you brake too early? Comment below.",
+      "visual_search": "driver rearview mirror highway view"
+    }
+  ],
+  "description": "Part 2 of our Highway Exit Safety series. Learn the exact speed management technique to use once you are inside the exit lane to stay safe and avoid rear-end collisions.\n\nSubscribe for daily 60-second driving tips.",
+  "tags": [
+    "highway driving tips",
+    "driving tips for new drivers",
+    "driving tips in usa",
+    "driving tips and tricks",
+    "how to drive on highway",
+    "exit ramp safety",
+    "defensive driving",
+    "new driver help",
+    "road safety",
+    "driving lessons"
+  ],
+  "hashtags": [
+    "#highway",
+    "#drivingtips",
+    "#safety"
+  ],
+  "thumbnail_text": "EXIT LANE SPEED SECRET",
+  "why_it_will_work": "Direct continuation of a top-performing series on the channel, capitalizing on high-intent search queries for new drivers and highway safety.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Highway Exit Safety",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Claiming to never brake on the highway is dangerous and contradicts standard defensive driving guidelines regarding adjusting speed before entering a deceleration lane."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-31T01:48:26.905218"
+}

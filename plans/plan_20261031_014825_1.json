@@ -1,0 +1,53 @@
+{
+  "title": "What Happens If You Coast in Neutral",
+  "hook": "Stop coasting in neutral right now.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop coasting in neutral right now.",
+      "visual_search": "car dashboard interior driving"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Many drivers shift to neutral down hills to save fuel. But modern cars actually use zero fuel when your foot is off the gas in gear. Coasting cuts off vital automatic transmission fluid flow, causing serious damage over time.",
+      "visual_search": "car engine closeup mechanical parts"
+    },
+    {
+      "section": "CTA",
+      "narration": "Like if this helped, follow for daily driving tips. Did you know this? Comment yes or no, because you need to stop coasting in neutral right now.",
+      "visual_search": "driver holding steering wheel hands"
+    }
+  ],
+  "description": "Learn what actually happens to your car transmission when you coast in neutral down a hill. This quick tip explains modern fuel injection and how to protect your car from costly gearbox repairs.\n\nSubscribe for daily 60-second driving tips.",
+  "tags": [
+    "driving tips",
+    "driving tips and tricks",
+    "driving tips for beginners",
+    "how to drive automatic car",
+    "car maintenance",
+    "transmission damage",
+    "coasting in neutral",
+    "save gas myth",
+    "car advice",
+    "driver education",
+    "learn to drive"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#cartips",
+    "#mechanic"
+  ],
+  "thumbnail_text": "STOP COASTING IN NEUTRAL",
+  "why_it_will_work": "Leverages the proven high-performing 'What Happens If' style with a common driving myth, answering user searches for driving tips and tricks.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: The claim that coasting in neutral cuts off vital automatic transmission fluid flow and causes serious damage is factually incorrect for modern standard automatic transmissions, as the transmission pump is driven by the input side connected to the engine, which remains running."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-10-31T01:48:26.186645"
+}

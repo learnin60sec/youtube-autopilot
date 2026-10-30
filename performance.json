@@ -1,54 +1,69 @@
 {
-  "generated_at": "2026-10-29T20:47:49.085782+00:00",
+  "generated_at": "2026-10-30T20:18:17.931544+00:00",
   "subscribers": 38,
-  "total_views": 45157,
-  "public_videos": 60,
-  "shorts_views_90_days": 43432,
+  "total_views": 45422,
+  "public_videos": 62,
+  "shorts_views_90_days": 44402,
   "best": [
+    {
+      "id": "H9Y2VaKNfVY",
+      "title": "Stop Doing This At Traffic Lights",
+      "views": 730,
+      "likes": 6,
+      "comments": 0,
+      "age_days": 1.0,
+      "views_per_day": 730.0,
+      "like_rate_pct": 0.8,
+      "format": "short",
+      "category": "Autos & Vehicles",
+      "hook": "Stop turning your wheels too early.",
+      "published": "2026-10-29T21:04:12+00:00",
+      "score": 29.04
+    },
     {
       "id": "NldkeVf8eWg",
       "title": "Stop Doing This At Highway Exits (Part 1)",
-      "views": 901,
-      "likes": 9,
+      "views": 1009,
+      "likes": 12,
       "comments": 2,
-      "age_days": 1.0,
-      "views_per_day": 900.2,
-      "like_rate_pct": 1.0,
+      "age_days": 2.0,
+      "views_per_day": 509.5,
+      "like_rate_pct": 1.2,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Never slam your brakes before exiting.",
       "published": "2026-10-28T20:46:36+00:00",
-      "score": 31.05
+      "score": 28.68
     },
     {
       "id": "_Q-XXftnO4E",
       "title": "How to Handle Blind Spots in 3 Steps",
-      "views": 915,
+      "views": 991,
       "likes": 6,
       "comments": 0,
-      "age_days": 1.0,
-      "views_per_day": 914.4,
-      "like_rate_pct": 0.7,
+      "age_days": 2.0,
+      "views_per_day": 500.5,
+      "like_rate_pct": 0.6,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop driving blind in your mirrors.",
       "published": "2026-10-28T20:46:53+00:00",
-      "score": 29.97
+      "score": 27.3
     },
     {
       "id": "N_8QXw9l5jE",
       "title": "Stop Crossing Your Arms When Turning (Part 2)",
-      "views": 1011,
+      "views": 1013,
       "likes": 12,
       "comments": 0,
-      "age_days": 2.0,
-      "views_per_day": 503.6,
+      "age_days": 3.0,
+      "views_per_day": 339.1,
       "like_rate_pct": 1.2,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Never twist your hands turning corners.",
       "published": "2026-10-27T20:37:09+00:00",
-      "score": 27.63
+      "score": 25.92
     },
     {
       "id": "jfNVLgkyp48",
@@ -56,61 +71,31 @@
       "views": 879,
       "likes": 4,
       "comments": 2,
-      "age_days": 3.0,
-      "views_per_day": 293.4,
+      "age_days": 4.0,
+      "views_per_day": 221.1,
       "like_rate_pct": 0.5,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop resting your hand there.",
       "published": "2026-10-26T20:53:12+00:00",
-      "score": 25.94
-    },
-    {
-      "id": "1k8g8WXmXFM",
-      "title": "Why Manual Drivers Downshift Instead of Braking",
-      "views": 608,
-      "likes": 4,
-      "comments": 0,
-      "age_days": 2.0,
-      "views_per_day": 302.8,
-      "like_rate_pct": 0.7,
-      "format": "short",
-      "category": "Autos & Vehicles",
-      "hook": "Stop slamming your brakes on hills.",
-      "published": "2026-10-27T20:36:38+00:00",
-      "score": 25.18
+      "score": 24.72
     }
   ],
   "worst": [
-    {
-      "id": "suQGJk7U_Q8",
-      "title": "3 Dangerous Driving Mistakes Beginners Make on Roundabouts",
-      "views": 5,
-      "likes": 0,
-      "comments": 0,
-      "age_days": 7.0,
-      "views_per_day": 0.7,
-      "like_rate_pct": 0.0,
-      "format": "long",
-      "category": "Autos & Vehicles",
-      "hook": "Approaching a multi-lane roundabout for the very first time can make even the calmest driver's palms sweat.",
-      "published": "2026-10-22T19:57:53+00:00",
-      "score": 2.3
-    },
     {
       "id": "9whH68EjNoY",
       "title": "Why Your Gas Cap Has That Small Rubber Tether",
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "age_days": 4.1,
-      "views_per_day": 0.5,
+      "age_days": 5.1,
+      "views_per_day": 0.4,
       "like_rate_pct": 0.0,
       "format": "long",
       "category": "Autos & Vehicles",
       "hook": "Stop letting your gas cap dangle against your car paint every time you fill up.",
       "published": "2026-10-25T18:58:12+00:00",
-      "score": 1.76
+      "score": 1.46
     },
     {
       "id": "FHRm3a4jRAk",
@@ -118,7 +103,7 @@
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "age_days": 29.2,
+      "age_days": 30.1,
       "views_per_day": 0.4,
       "like_rate_pct": 0.0,
       "format": "short",
@@ -126,27 +111,40 @@
       "hook": "Stop calling the plumber for jams.",
       "published": "2026-09-30T16:59:18+00:00",
       "score": 1.46
+    },
+    {
+      "id": "b7XqTdVUX5M",
+      "title": "3 Dangerous Driving Mistakes Beginners Make",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "age_days": 1.0,
+      "views_per_day": 0.0,
+      "like_rate_pct": 0,
+      "format": "long",
+      "category": "Autos & Vehicles",
+      "hook": "Learning to drive is exciting, but brand-new drivers often pick up subtle habits that quietly destroy their cars and create dangerous situations on the road.",
+      "published": "2026-10-29T21:04:30+00:00",
+      "score": 0.0
     }
   ],
   "category_views_per_day": {
-    "Autos & Vehicles": 121.4,
-    "Howto & Style": 47.7,
-    "Science & Technology": 15.9,
+    "Autos & Vehicles": 101.8,
+    "Howto & Style": 44.4,
+    "Science & Technology": 15.3,
     "Education": 1.2
   },
   "category_video_counts": {
-    "Autos & Vehicles": 51,
+    "Autos & Vehicles": 53,
     "Howto & Style": 5,
     "Science & Technology": 3,
     "Education": 1
   },
   "retention": {
     "avg_view_pct_shorts": 74.2,
-    "avg_view_pct_long": 34.9,
-    "long_watch_hours_90d": 43.6,
-    "tips": [
-      "Long videos lose viewers: shorter intro, more curiosity lines, and more concrete examples in each section."
-    ],
+    "avg_view_pct_long": 39.6,
+    "long_watch_hours_90d": 46.2,
+    "tips": [],
     "best_for_subscribers": [
       {
         "title": "3 Motorcycle Turning Mistakes Every Beginner Makes",
