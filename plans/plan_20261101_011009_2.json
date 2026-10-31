@@ -1,0 +1,79 @@
+{
+  "title": "Stop Doing This At Highway Exits (Part 2)",
+  "hook": "Never brake before entering the deceleration lane.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never brake before entering the deceleration lane.",
+      "visual_search": "car approaching highway exit sign"
+    },
+    {
+      "section": "Body",
+      "narration": "Part 2! Maintain your highway speed until your entire car is fully inside the deceleration lane. Only then should you begin applying steady brake pressure. Braking early on the main highway surprises drivers behind you and creates unnecessary rear-end collision risks.",
+      "visual_search": "highway exit lane view from inside car"
+    },
+    {
+      "section": "Call to action",
+      "narration": "Like if this helped, follow for daily driving tips. Did you know this highway rule? Comment yes or no.",
+      "visual_search": "driver holding steering wheel on highway"
+    },
+    {
+      "section": "Loop",
+      "narration": "Remember why you should never brake before entering the deceleration lane.",
+      "visual_search": "highway traffic flowing smoothly"
+    }
+  ],
+  "description": "Master highway exit safety in part 2 of our series. Learn the exact speed management technique to use once you are inside the exit lane. Never brake on the main highway before transitioning into the exit lane.",
+  "tags": [
+    "driving tips for new drivers",
+    "highway driving",
+    "driving safety",
+    "highway exit",
+    "driving tips and tricks",
+    "car tips",
+    "safe driving",
+    "driving education",
+    "traffic rules",
+    "road safety",
+    "beginner driver",
+    "driving lessons"
+  ],
+  "hashtags": [
+    "#highwaysafety",
+    "#drivingtips",
+    "#learnin60seconds"
+  ],
+  "thumbnail_text": "EXIT LANE MISTAKE",
+  "why_it_will_work": "Directly continues a successful existing series on the channel, fulfilling the promise made in Part 1 to deliver advanced highway exit speed management.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Highway Exit Safety",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-01T01:10:11.151607",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261101_011009_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261101_011009_2/thumbnail.jpg",
+  "duration_sec": 26.3,
+  "chapters": [],
+  "credits": [
+    "Video by Raj  Bala on Pexels: https://www.pexels.com/video/a-highway-sign-that-says-southbound-on-interstate-85-27508824/",
+    "Video by Nothing Ahead on Pexels: https://www.pexels.com/video/side-view-mirror-of-a-car-driving-on-a-highway-12601957/",
+    "Video by RAHULKUMAR R on Pexels: https://www.pexels.com/video/aerial-view-of-highway-toll-plaza-with-cars-passing-36152745/",
+    "Video by Azean Shahimi on Pexels: https://www.pexels.com/video/driving-car-on-highway-13823104/",
+    "Video by Zero51  ❤ 🇵🇰 on Pexels: https://www.pexels.com/video/high-angle-view-of-traffic-on-a-highway-12774361/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Salih Sezgen on Pexels: https://www.pexels.com/video/a-man-driving-a-bus-on-the-highway-18693520/",
+    "Video by Aero Drone on Pexels: https://www.pexels.com/video/aerial-view-of-busy-highway-traffic-flow-35970483/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "aCYkK1PUqck",
+  "youtube_url": "https://youtu.be/aCYkK1PUqck",
+  "uploaded_at": "2026-11-01T01:13:46",
+  "privacy_locked": false
+}

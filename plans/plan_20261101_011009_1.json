@@ -1,0 +1,76 @@
+{
+  "title": "Stop Doing This When Accelerating From A Stop",
+  "hook": "Stop slamming your gas pedal immediately.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop slamming your gas pedal immediately.",
+      "visual_search": "driver foot pressing gas pedal aggressively"
+    },
+    {
+      "section": "Body",
+      "narration": "Many drivers think quick acceleration saves time, but it actually surges fuel consumption instantly. Instead, apply smooth and steady pressure during the first few seconds of movement. This keeps your engine efficient and extends your transmission lifespan effortlessly.",
+      "visual_search": "smooth car acceleration dashboard view"
+    },
+    {
+      "section": "Call to action",
+      "narration": "Like if this helped, follow for daily driving tips. Do you press the gas smoothly? Comment yes or no.",
+      "visual_search": "hands on steering wheel driving"
+    },
+    {
+      "section": "Loop",
+      "narration": "Because you should stop slamming your gas pedal immediately.",
+      "visual_search": "car moving forward smoothly on road"
+    }
+  ],
+  "description": "Learn how to optimize your car acceleration with this quick driving tip. Smooth acceleration saves fuel and protects your vehicle from unnecessary wear over time. Master your daily driving habits in under 60 seconds with Learn in 60 Seconds.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips and tricks",
+    "car tips",
+    "how to drive",
+    "driving habits",
+    "save gas",
+    "car maintenance",
+    "smooth driving",
+    "auto advice",
+    "driving skills",
+    "car education",
+    "vehicle tips"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#cartips",
+    "#learnin60seconds"
+  ],
+  "thumbnail_text": "STOP ACCELERATING WRONG",
+  "why_it_will_work": "Leverages search demand for driving tips for beginners while using a high-performing corrective hook format that stops the scroll.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-01T01:10:10.467050",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261101_011009_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261101_011009_1/thumbnail.jpg",
+  "duration_sec": 27.0,
+  "chapters": [],
+  "credits": [
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/ambulance-driver-flipping-switches-6520259/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/driver-inside-car-adjusting-mirror-during-daylight-35585187/",
+    "Video by Airam Dato-on on Pexels: https://www.pexels.com/video/in-car-view-of-city-drive-experience-36067574/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/sunlit-interior-of-a-car-steering-wheel-view-35585195/",
+    "Video by Konstantin Mishchenko on Pexels: https://www.pexels.com/video/close-up-of-a-dashboard-5787612/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by ArtHouse Studio on Pexels: https://www.pexels.com/video/a-moving-car-on-the-road-while-wiping-the-windshield-4605079/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "C_J1u3rTDUQ",
+  "youtube_url": "https://youtu.be/C_J1u3rTDUQ",
+  "uploaded_at": "2026-11-01T01:13:39",
+  "privacy_locked": false
+}
