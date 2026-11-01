@@ -1,0 +1,68 @@
+{
+  "title": "Stop Doing This At Roundabouts (Part 1)",
+  "hook": "Stop entering roundabouts in the wrong lane.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop entering roundabouts in the wrong lane.",
+      "visual_search": "car entering a multi-lane roundabout overhead view"
+    },
+    {
+      "section": "Step 1",
+      "narration": "First, check your exit number before you even approach the circle.",
+      "visual_search": "driver looking at road sign"
+    },
+    {
+      "section": "Step 2",
+      "narration": "Second, stay in the right lane if you are taking the first or second exit.",
+      "visual_search": "car turning right into traffic circle"
+    },
+    {
+      "section": "Step 3",
+      "narration": "Third, use the left lane only if you are going past the halfway point.",
+      "visual_search": "car driving inside roundabout left lane"
+    },
+    {
+      "section": "Call to action & Loop",
+      "narration": "Follow for daily driving tips so you don't miss Part 2!",
+      "visual_search": "car exiting roundabout smoothly"
+    }
+  ],
+  "description": "Learn the proper lane choice for multi-lane roundabouts. Master these simple rules to avoid accidents and navigate traffic circles like a pro. Follow for daily driving tips and tricks.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips and tricks",
+    "driving tips in usa",
+    "how to drive a car",
+    "roundabout rules",
+    "driving lessons",
+    "new driver help",
+    "road safety",
+    "traffic circles",
+    "driver education",
+    "car tips",
+    "driving guide"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#roundabout",
+    "#newdriver"
+  ],
+  "thumbnail_text": "ROUNDABOUT MISTAKE",
+  "why_it_will_work": "Builds directly on proven high-performing channel formats focused on negative-framing hooks ('Stop doing this') combined with high-intent search queries for beginners.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Roundabout Mastery",
+    "part": 1,
+    "next_part_idea": "How to signal properly when exiting a multi-lane roundabout"
+  },
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Roundabout lane rules vary significantly by country, region, and specific road signs, making absolute rules about left and right lanes misleading without local context."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-02T01:34:15.883589"
+}
