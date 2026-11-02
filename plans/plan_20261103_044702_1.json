@@ -1,0 +1,71 @@
+{
+  "title": "Stop Doing This At Every Green Light",
+  "hook": "Stop slamming your gas pedal immediately.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop slamming your gas pedal immediately.",
+      "visual_search": "car accelerating fast from traffic light POV"
+    },
+    {
+      "section": "Body",
+      "narration": "When the light turns green, jumping off the line too fast causes tire spin and wastes fuel. Instead, roll onto the throttle smoothly for better traction and instant control.",
+      "visual_search": "driver foot pressing gas pedal smoothly"
+    },
+    {
+      "section": "Call to action and Loop",
+      "narration": "Like if this helped, follow for daily driving tips. Do you accelerate fast? Comment yes or no. Because when the light turns green,",
+      "visual_search": "city traffic moving smoothly at green light"
+    }
+  ],
+  "description": "Learn how to accelerate smoothly from a stoplight to improve fuel efficiency and maintain vehicle control. Perfect for beginner drivers looking for practical everyday tips.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips and tricks",
+    "driving tips in usa",
+    "how to drive a car",
+    "driving habits",
+    "smooth acceleration",
+    "fuel saving tips",
+    "car tips",
+    "driving lessons",
+    "new driver advice",
+    "traffic light tips",
+    "learn to drive",
+    "driving 101"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#cartips",
+    "#learntodrive"
+  ],
+  "thumbnail_text": "STOP ACCELERATING FAST",
+  "why_it_will_work": "Builds directly on our top-performing traffic and acceleration videos with a proven high-retention hook format.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-03T04:47:03.371113",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261103_044702_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261103_044702_1/thumbnail.jpg",
+  "duration_sec": 19.9,
+  "chapters": [],
+  "credits": [
+    "Video by Polina Istomina on Pexels: https://www.pexels.com/video/dynamic-racing-car-pov-on-track-37622449/",
+    "Video by Joffray Jouve on Pexels: https://www.pexels.com/video/a-car-driving-on-a-highway-at-night-19653393/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/a-person-using-double-bass-drum-pedal-5045412/",
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/ambulance-driver-flipping-switches-6520259/",
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/man-sitting-on-the-ambulance-driver-seat-6520256/",
+    "Video by Kuiyibo Campos on Pexels: https://www.pexels.com/video/urban-traffic-at-dusk-in-busy-city-40477995/",
+    "Video by Toàn BDS on Pexels: https://www.pexels.com/video/aerial-view-of-city-street-with-traffic-flow-37704038/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "JRevCH5ZJxk",
+  "youtube_url": "https://youtu.be/JRevCH5ZJxk",
+  "uploaded_at": "2026-11-03T04:49:27",
+  "privacy_locked": false
+}

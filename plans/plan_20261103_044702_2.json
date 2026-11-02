@@ -1,0 +1,70 @@
+{
+  "title": "What Happens If You Drive With Foggy Windows",
+  "hook": "Never ignore foggy windows while driving.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never ignore foggy windows while driving.",
+      "visual_search": "driver POV through foggy car windshield"
+    },
+    {
+      "section": "Body",
+      "narration": "Moisture inside your cabin traps condensation on cold glass, blinding your peripheral vision. Turning on your air conditioner removes humidity instantly, clearing your view.",
+      "visual_search": "car dashboard defrost button close up"
+    },
+    {
+      "section": "Call to action and Loop",
+      "narration": "Like if this helped, follow for daily car hacks. Did you know this trick? Comment yes or no. Remember, never ignore",
+      "visual_search": "driver wiping clear car window"
+    }
+  ],
+  "description": "Discover why car windows fog up and how to clear them instantly using your AC system. Essential knowledge for safe driving in any weather.",
+  "tags": [
+    "how to drive a car",
+    "driving tips for beginners",
+    "life hacks for home",
+    "life hacks you didn't know",
+    "car maintenance",
+    "foggy windshield",
+    "defrost car windows",
+    "driving safety",
+    "car hacks",
+    "automotive tips",
+    "new driver help",
+    "visibility tips",
+    "car care"
+  ],
+  "hashtags": [
+    "#carhacks",
+    "#drivingtips",
+    "#cartips"
+  ],
+  "thumbnail_text": "CLEAR FOGGY WINDOWS",
+  "why_it_will_work": "Leverages the highly successful 'What happens if' format combined with everyday automotive problem-solving.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Howto & Style",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-03T04:47:04.216375",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261103_044702_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261103_044702_2/thumbnail.jpg",
+  "duration_sec": 18.8,
+  "chapters": [],
+  "credits": [
+    "Video by Rishabh Kaple on Pexels: https://www.pexels.com/video/rainy-day-drive-through-foggy-window-38433795/",
+    "Video by Yeşim Kabaca on Pexels: https://www.pexels.com/video/person-traveling-on-a-foggy-day-3398942/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/close-up-of-car-speedometer-reaching-60-mph-36474529/",
+    "Video by Konstantin Mishchenko on Pexels: https://www.pexels.com/video/close-up-of-a-dashboard-5787612/",
+    "Video by Kaan Durmuş on Pexels: https://www.pexels.com/video/raindrops-on-car-window-from-driver-s-seat-30027705/",
+    "Video by Anastasia  Shuraeva on Pexels: https://www.pexels.com/video/person-wiping-a-windscreen-8469682/"
+  ],
+  "playlist": "Smart How-To Hacks",
+  "youtube_id": "Rk27LVPMpSE",
+  "youtube_url": "https://youtu.be/Rk27LVPMpSE",
+  "uploaded_at": "2026-11-03T04:49:32",
+  "privacy_locked": false
+}
