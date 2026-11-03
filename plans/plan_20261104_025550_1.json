@@ -1,0 +1,56 @@
+{
+  "title": "Stop Doing This In Reverse (Part 1)",
+  "hook": "Stop looking at your rearview mirror.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop looking at your rearview mirror.",
+      "visual_search": "driver reversing car looking back"
+    },
+    {
+      "section": "Body",
+      "narration": "When backing up, your rearview mirror only shows a fraction of what is behind you. Your side mirrors and shoulders cover the rest. Relying on just one mirror creates massive blind zones.",
+      "visual_search": "car side mirror reflection closeup"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Like if this helped, follow for daily driving tips. Did you know this? Comment yes or no. Stop looking at your rearview mirror.",
+      "visual_search": "parking lot car backing out"
+    }
+  ],
+  "description": "Learn essential driving tips for beginners to eliminate blind spots when backing up your vehicle. Proper mirror adjustment is key to safe driving.\n\nSubscribe for more quick driving guides.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips",
+    "how to drive",
+    "reverse parking",
+    "car safety",
+    "driving lessons",
+    "new driver tips",
+    "blind spots",
+    "driving tricks",
+    "automotive tips"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#newdriver",
+    "#carsafety"
+  ],
+  "thumbnail_text": "REVERSE MISTAKE",
+  "why_it_will_work": "Builds directly on the successful 'Learn in 60 Seconds' format that focuses on correcting common daily driving mistakes with a high-retention negative hook.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Reverse Driving",
+    "part": 1,
+    "next_part_idea": "How to properly adjust your side mirrors for zero blind spots."
+  },
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Instructing drivers to stop looking at their rearview mirror entirely when reversing is dangerous and contradicts standard driver education, which teaches drivers to use all mirrors and check over their shoulders."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-04T02:55:51.439000"
+}

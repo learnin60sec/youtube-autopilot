@@ -1,0 +1,67 @@
+{
+  "title": "Never Coast Downhill Like This",
+  "hook": "Never shift into neutral while driving.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never shift into neutral while driving.",
+      "visual_search": "car dashboard automatic gear shifter"
+    },
+    {
+      "section": "Body",
+      "narration": "Some drivers think coasting in neutral saves gas down hills. It actually disconnects engine braking, forcing your traditional brakes to work twice as hard and overheat.",
+      "visual_search": "car brake rotors glowing red"
+    },
+    {
+      "section": "Call to action and loop",
+      "narration": "Like if this helped, follow for daily driving tips. Did you know this? Comment yes or no. Never shift into neutral while driving.",
+      "visual_search": "winding mountain road driving"
+    }
+  ],
+  "description": "Discover why coasting in neutral on downhills is a dangerous driving habit that damages your braking system. Simple tips for safer car operation.\n\nLike and subscribe for more.",
+  "tags": [
+    "driving tips and tricks",
+    "car maintenance",
+    "driving mistakes",
+    "safe driving",
+    "how to drive",
+    "automatic car",
+    "driving advice",
+    "vehicle tips",
+    "road safety",
+    "beginner driver"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#cars",
+    "#cartips"
+  ],
+  "thumbnail_text": "NEUTRAL DANGER",
+  "why_it_will_work": "Uses a surprising fact format that corrects a widespread driving myth, tapping into high-intent search queries for driving tips and tricks.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-04T02:55:52.670721",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261104_025550_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261104_025550_2/thumbnail.jpg",
+  "duration_sec": 18.8,
+  "chapters": [],
+  "credits": [
+    "Video by Sina Rezakhani on Pexels: https://www.pexels.com/video/modern-car-interior-with-sleek-dashboard-36202861/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-interior-dashboard-close-up-36474525/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/mechanic-working-on-car-brake-system-39733708/",
+    "Video by Polina Istomina on Pexels: https://www.pexels.com/video/red-sports-car-on-open-road-parking-lot-37707307/",
+    "Video by Sina Rezakhani on Pexels: https://www.pexels.com/video/a-car-driving-down-a-mountain-road-with-clouds-in-the-sky-26348269/",
+    "Video by Ashish Parasar on Pexels: https://www.pexels.com/video/driving-on-road-in-mountains-14010676/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "pYqeYE0XzYc",
+  "youtube_url": "https://youtu.be/pYqeYE0XzYc",
+  "uploaded_at": "2026-11-04T03:10:42",
+  "privacy_locked": false
+}
