@@ -1,0 +1,62 @@
+{
+  "title": "How to Drive a Manual Car Without Jerking",
+  "hook": "Stop dumping your clutch from stops.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop dumping your clutch from stops.",
+      "visual_search": "driver shifting manual gear stick close up"
+    },
+    {
+      "section": "Body",
+      "narration": "First, raise the clutch pedal smoothly until the engine RPM drops slightly. Second, hold your foot right at that bite point for one full second. Third, add gentle gas as you release the rest of the pedal. Like if this helped, follow for daily driving tips. Have you ever stalled a manual car? Comment yes or no.",
+      "visual_search": "feet operating manual car pedals clutch gas brake"
+    }
+  ],
+  "description": "Master driving a manual car with this simple 3-step clutch technique. Essential driving tips for new drivers learning stick shift without stalling. Quick and easy guide to smooth shifting.",
+  "tags": [
+    "how to drive a manual car",
+    "driving tips for new drivers",
+    "stick shift basics",
+    "manual transmission",
+    "how to drive manual",
+    "driving lessons",
+    "car tips",
+    "beginner driver",
+    "clutch control",
+    "driving skills"
+  ],
+  "hashtags": [
+    "#manualcar",
+    "#drivingtips",
+    "#shorts"
+  ],
+  "thumbnail_text": "MASTER MANUAL CLUTCH",
+  "why_it_will_work": "Directly targets high-volume search queries for manual transmission tutorials using a quick step-by-step format.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Howto & Style",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-05T03:10:36.099699",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261105_031034_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261105_031034_2/thumbnail.jpg",
+  "duration_sec": 19.5,
+  "chapters": [],
+  "credits": [
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/driver-inside-car-adjusting-mirror-during-daylight-35585187/",
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/ambulance-driver-flipping-switches-6520259/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/a-woman-sitting-in-the-car-s-passenger-seat-while-her-feet-above-the-dashboard-5966554/",
+    "Video by Vikesh zen on Pexels: https://www.pexels.com/video/car-maintenance-workshop-with-brake-repair-40739615/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/mechanic-working-on-car-brake-system-39733708/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/sunlit-interior-of-a-car-steering-wheel-view-35585195/"
+  ],
+  "playlist": "Smart How-To Hacks",
+  "youtube_id": "pPMZQq0wOcI",
+  "youtube_url": "https://youtu.be/pPMZQq0wOcI",
+  "uploaded_at": "2026-11-05T03:13:19",
+  "privacy_locked": false
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Stop Doing This When Driving Over Potholes",
+  "hook": "Never slam your brakes over potholes.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never slam your brakes over potholes.",
+      "visual_search": "car hitting deep pothole on wet road dashboard view"
+    },
+    {
+      "section": "Body",
+      "narration": "First, braking compresses your front suspension, forcing your car's weight downward. Second, this leaves your tires with zero give when they smash into the edge. Third, always release the brake just before impact so your suspension absorbs the hit freely. Like if this helped, follow for daily driving tips. Did you know this trick? Comment yes or no.",
+      "visual_search": "close up of car tire hitting pothole slow motion"
+    }
+  ],
+  "description": "Learn the right way to handle road potholes without destroying your suspension. Simple driving tips for beginners to protect your vehicle from costly alignment damage. Watch till the end for the smooth driving secret.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips and tricks",
+    "car maintenance",
+    "avoid potholes",
+    "driving hacks",
+    "car tips",
+    "new driver help",
+    "driving advice",
+    "smooth driving",
+    "car suspension",
+    "learn to drive"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carmaintenance",
+    "#shorts"
+  ],
+  "thumbnail_text": "STOP BRAKING ON POTHOLES",
+  "why_it_will_work": "Leverages viewer interest in practical car care tips using our proven single-action negative hook formula.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-05T03:10:35.043868",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261105_031034_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261105_031034_1/thumbnail.jpg",
+  "duration_sec": 21.4,
+  "chapters": [],
+  "credits": [
+    "Video by Airam Dato-on on Pexels: https://www.pexels.com/video/in-car-view-of-city-drive-experience-36067574/",
+    "Video by Sapol Churanon on Pexels: https://www.pexels.com/video/driving-down-a-scenic-open-road-on-a-clear-day-34614349/",
+    "Video by Alex Vo on Pexels: https://www.pexels.com/video/close-up-of-a-black-car-tire-in-motion-40308616/",
+    "Video by Alex Vo on Pexels: https://www.pexels.com/video/close-up-of-car-wheel-on-hydraulic-lift-40308617/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/close-up-of-a-fast-moving-sport-car-wheel-39140749/",
+    "Video by Nadezhda Moryak on Pexels: https://www.pexels.com/video/close-up-view-of-snow-6501454/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "CaQzHpKMn1Q",
+  "youtube_url": "https://youtu.be/CaQzHpKMn1Q",
+  "uploaded_at": "2026-11-05T03:13:14",
+  "privacy_locked": false
+}
