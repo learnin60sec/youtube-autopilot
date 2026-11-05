@@ -1,0 +1,74 @@
+{
+  "title": "Can you pass this driving mirror quiz?",
+  "hook": "Most drivers fail this mirror test.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Most drivers fail this mirror test. If you can see the side of your own car in your side mirrors while driving normally, are your mirrors set correctly?",
+      "visual_search": "car side mirror reflecting road"
+    },
+    {
+      "section": "Quiz",
+      "narration": "Take a second to think. Is it yes, or is it no?",
+      "visual_search": "driver adjusting side mirror"
+    },
+    {
+      "section": "Answer",
+      "narration": "The answer is no! You should barely see your car's edge. This eliminates blind spots, giving you a wider view of the lane next to you. Like if you learned something, and comment your answer. It is time to...",
+      "visual_search": "highway traffic merging"
+    }
+  ],
+  "description": "Test your knowledge on proper mirror adjustment. Most new drivers set their side mirrors incorrectly, creating massive blind spots. Learn how to position them for maximum visibility and safety on the road. Quick driving tips for beginners.",
+  "tags": [
+    "driving test",
+    "mirror adjustment",
+    "blind spots",
+    "driving tips",
+    "how to drive",
+    "car safety",
+    "beginner driver",
+    "driving tricks",
+    "safe driving",
+    "driving skills",
+    "car basics",
+    "driver training",
+    "traffic safety",
+    "driving advice",
+    "new driver tips"
+  ],
+  "hashtags": [
+    "#drivingquiz",
+    "#cartips",
+    "#blindspots"
+  ],
+  "thumbnail_text": "ARE YOUR MIRRORS WRONG?",
+  "why_it_will_work": "Mini-quizzes perform well by forcing engagement through a question, and it directly addresses a common 'driving tips for beginners' pain point.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-06T03:15:09.788536",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261106_031508_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261106_031508_2/thumbnail.jpg",
+  "duration_sec": 20.8,
+  "chapters": [],
+  "credits": [
+    "Video by Videas on Pexels: https://www.pexels.com/video/car-side-mirror-reflection-showing-road-scene-29484561/",
+    "Video by Nothing Ahead on Pexels: https://www.pexels.com/video/side-view-mirror-of-a-car-driving-on-a-highway-12601957/",
+    "Video by Hafize  Balcı on Pexels: https://www.pexels.com/video/a-car-mirror-with-the-words-the-best-way-to-see-the-world-is-through-the-rear-view-mirror-26730364/",
+    "Video by Diana ✨ on Pexels: https://www.pexels.com/video/a-car-is-shown-in-the-rear-view-mirror-with-the-words-the-best-way-to-see-the-sunset-18575766/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/driver-inside-car-adjusting-mirror-during-daylight-35585187/",
+    "Video by Altaf Shah on Pexels: https://www.pexels.com/video/drone-footage-of-a-highway-with-traffic-12571926/",
+    "Video by Altaf Shah on Pexels: https://www.pexels.com/video/vertical-video-of-traffic-on-highway-11573673/",
+    "Video by Matthias Groeneveld on Pexels: https://www.pexels.com/video/aerial-view-of-dutch-highway-traffic-32953537/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "cL_OC0QCDf8",
+  "youtube_url": "https://youtu.be/cL_OC0QCDf8",
+  "uploaded_at": "2026-11-06T03:32:17",
+  "privacy_locked": false
+}
