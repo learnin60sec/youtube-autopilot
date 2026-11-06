@@ -1,0 +1,77 @@
+{
+  "title": "Part 2: Never grip the steering wheel like this (Part 2)",
+  "hook": "Part 2! Stop crossing your arms turning.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Part 2! Stop crossing your arms turning. The hand-over-hand technique is actually dangerous during airbag deployment.",
+      "visual_search": "driver hands on steering wheel turning"
+    },
+    {
+      "section": "The Fact",
+      "narration": "If the airbag fires while your arms are crossed, the force can push your own hands into your face.",
+      "visual_search": "car interior steering wheel airbag test"
+    },
+    {
+      "section": "The Solution",
+      "narration": "Always use the push-pull steering method to keep your hands on the wheel without crossing them over.",
+      "visual_search": "hands sliding on steering wheel"
+    },
+    {
+      "section": "Call to Action",
+      "narration": "Like if this helped, follow for daily driving tips. Do you use the push-pull method? Comment yes or no, so stop crossing your arms turning.",
+      "visual_search": "driver steering car safely"
+    }
+  ],
+  "description": "In this second part of our steering safety series, we explain why crossing your arms is a major safety risk. Learn the proper push-pull steering technique to stay safe on the road.",
+  "tags": [
+    "steering safety",
+    "driving tips",
+    "new driver",
+    "safe driving",
+    "car control",
+    "driving techniques",
+    "defensive driving",
+    "steering wheel",
+    "learn to drive",
+    "driving school"
+  ],
+  "hashtags": [
+    "#drivingsafety",
+    "#steeringsafety",
+    "#learnin60"
+  ],
+  "thumbnail_text": "STOP CROSSING ARMS!",
+  "why_it_will_work": "Continuing a series creates recurring viewership, and this addresses a very common mistake new drivers make, matching the high performance of my previous steering safety content.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Steering Safety",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-07T02:43:41.687664",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261107_024333_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261107_024333_2/thumbnail.jpg",
+  "duration_sec": 23.3,
+  "chapters": [],
+  "credits": [
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/hands-on-hyundai-steering-wheel-13675325/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/close-up-of-steering-wheel-grip-40345334/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/modern-car-interior-with-steering-wheel-focus-33596422/",
+    "Video by Pavel Danilyuk on Pexels: https://www.pexels.com/video/hands-of-a-man-on-the-steering-wheel-5520046/",
+    "Video by Smitha Nittur on Pexels: https://www.pexels.com/video/driver-holding-steering-wheel-on-a-sunny-day-39450368/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/driver-inside-car-adjusting-mirror-during-daylight-35585187/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "piSp6e2bSbc",
+  "youtube_url": "https://youtu.be/piSp6e2bSbc",
+  "uploaded_at": "2026-11-07T02:46:48",
+  "privacy_locked": false
+}

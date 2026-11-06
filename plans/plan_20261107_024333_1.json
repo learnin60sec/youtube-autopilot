@@ -1,0 +1,75 @@
+{
+  "title": "What happens if you shift into Reverse while driving?",
+  "hook": "Stop trying to shift into Reverse now.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop trying to shift into Reverse now. Most modern cars have a built-in safety lockout mechanism.",
+      "visual_search": "driver hand shifting gear lever close up"
+    },
+    {
+      "section": "Explanation",
+      "narration": "If you are moving forward and push the lever into Reverse, the transmission computer simply ignores the command.",
+      "visual_search": "dashboard digital display showing speed"
+    },
+    {
+      "section": "The Result",
+      "narration": "It won't grind the gears or explode the transmission. It just stays in drive until you slow down safely.",
+      "visual_search": "car moving on city street"
+    },
+    {
+      "section": "Call to Action",
+      "narration": "Like if this helped, follow for daily driving tips. Have you ever accidentally moved the shifter while driving? Tell me below.",
+      "visual_search": "driver holding steering wheel"
+    }
+  ],
+  "description": "Ever wondered what happens if you accidentally shift into reverse while driving? Modern safety technology prevents damage, but it is important to understand how these systems work. Learn the truth about transmission safety in this quick tip.",
+  "tags": [
+    "driving tips",
+    "car safety",
+    "how to drive",
+    "transmission",
+    "car maintenance",
+    "driving hacks",
+    "new driver",
+    "auto tips",
+    "car features",
+    "learning to drive"
+  ],
+  "hashtags": [
+    "#drivingsafety",
+    "#carhacks",
+    "#learnin60"
+  ],
+  "thumbnail_text": "REVERSE WHILE DRIVING?",
+  "why_it_will_work": "This taps into the popular 'What happens if' curiosity format which performs well for my channel, focusing on common driver fears regarding car mechanics.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-07T02:43:34.675171",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261107_024333_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261107_024333_1/thumbnail.jpg",
+  "duration_sec": 23.1,
+  "chapters": [],
+  "credits": [
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/ambulance-driver-flipping-switches-6520259/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/a-worker-pulling-a-lever-5846652/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Jakub Zerdzicki on Pexels: https://www.pexels.com/video/interactive-digital-finance-dashboard-analysis-38901929/",
+    "Video by Konstantin Mishchenko on Pexels: https://www.pexels.com/video/close-up-of-a-dashboard-5787612/",
+    "Video by Evgenij Mikhailov on Pexels: https://www.pexels.com/video/nighttime-city-street-with-moving-vehicles-34679320/",
+    "Video by Shuaizhi Tian on Pexels: https://www.pexels.com/video/black-car-driving-through-rain-slicked-street-39178553/",
+    "Video by Smitha Nittur on Pexels: https://www.pexels.com/video/driver-holding-steering-wheel-on-a-sunny-day-39450368/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "khjWmlyY0iQ",
+  "youtube_url": "https://youtu.be/khjWmlyY0iQ",
+  "uploaded_at": "2026-11-07T02:46:42",
+  "privacy_locked": false
+}
