@@ -1,0 +1,53 @@
+{
+  "title": "Stop Using Your Handbrake Like This (Part 1)",
+  "hook": "Stop using your handbrake wrong.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop using your handbrake wrong. Many think pulling it up hard is the only way to park safely, but that is a myth. The reality is that the ratcheting mechanism can wear out prematurely if you don't engage it properly.",
+      "visual_search": "driver pulling manual handbrake in car"
+    },
+    {
+      "section": "The Fix",
+      "narration": "To save your cable, press the release button before you pull the lever up. This stops the clicking sound and prevents metal-on-metal wear. Follow so you don't miss Part 2!",
+      "visual_search": "close up of hand pressing parking brake button"
+    }
+  ],
+  "description": "Learn the correct way to operate your car's manual handbrake to avoid costly repairs. Many drivers damage their parking brake mechanism by ignoring this simple tip.\n\nMaster your vehicle controls and ensure your car stays safely parked every time. Follow for daily driving tips and expert car advice.",
+  "tags": [
+    "driving tips",
+    "parking brake",
+    "how to drive",
+    "car maintenance",
+    "driving for beginners",
+    "safe driving",
+    "manual handbrake",
+    "car tips",
+    "new driver",
+    "auto repair",
+    "vehicle safety",
+    "parking tips"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carmaintenance",
+    "#newdriver"
+  ],
+  "thumbnail_text": "STOP BREAKING HANDBRAKE",
+  "why_it_will_work": "Focuses on a specific, actionable mechanical tip that aligns with the successful 'how-to' style of the channel while utilizing a series format to increase retention.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Handbrake Mastery",
+    "part": 1,
+    "next_part_idea": "The correct sequence for parking on a hill using the handbrake and transmission"
+  },
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: The claim that pressing the release button before pulling the lever saves the cable or prevents wear is misleading; the ratcheting mechanism is specifically designed to click to ensure the brake is locked in place.; Bypassing the ratchet by holding the button while pulling can cause the brake to fail to lock entirely, creating a safety hazard.; The advice contradicts standard vehicle owner manual operating procedures for manual parking brakes."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-08T01:17:32.136406"
+}

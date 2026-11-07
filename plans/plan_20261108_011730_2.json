@@ -1,0 +1,69 @@
+{
+  "title": "3 Biggest Mistakes New Drivers Make",
+  "hook": "Stop making these driving mistakes.",
+  "script": [
+    {
+      "section": "Mistakes",
+      "narration": "Stop making these driving mistakes. First, resting your foot on the brake pedal while cruising creates unnecessary wear. Second, ignoring your side mirrors leads to massive blind spots. Finally, accelerating too hard after a stop wastes gas and tires.",
+      "visual_search": "driver foot on brake pedal"
+    },
+    {
+      "section": "The Fix",
+      "narration": "Hover your foot near the pedal instead, adjust mirrors to see the horizon, and accelerate smoothly to save your car. Like if this helped, follow for daily driving tips. Which of these three mistakes do you catch yourself doing most?",
+      "visual_search": "side view mirror adjustment"
+    }
+  ],
+  "description": "Are you accidentally damaging your car? Avoid these three common driving mistakes that every new driver should know to save money and stay safe on the road.\n\nFrom brake pedal habits to mirror positioning, these small changes make a big difference. Subscribe for daily driving tips and become a more confident driver today.",
+  "tags": [
+    "driving tips",
+    "new driver",
+    "car mistakes",
+    "how to drive",
+    "driving skills",
+    "safe driving",
+    "car maintenance",
+    "driving habits",
+    "beginner driver",
+    "defensive driving",
+    "car help",
+    "driving tutorial"
+  ],
+  "hashtags": [
+    "#driving",
+    "#newdriver",
+    "#cartips"
+  ],
+  "thumbnail_text": "3 DRIVING MISTAKES",
+  "why_it_will_work": "Lists are highly clickable on YouTube Shorts. This format directly addresses the 'driving tips for beginners' search intent while keeping the advice punchy and useful.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-08T01:17:33.084119",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261108_011730_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261108_011730_2/thumbnail.jpg",
+  "duration_sec": 26.4,
+  "chapters": [],
+  "credits": [
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/man-sitting-on-the-ambulance-driver-seat-6520256/",
+    "Video by Vikesh zen on Pexels: https://www.pexels.com/video/car-maintenance-workshop-with-brake-repair-40739615/",
+    "Video by Polina Istomina on Pexels: https://www.pexels.com/video/dynamic-racing-car-pov-on-track-37622449/",
+    "Video by Burak Elçi on Pexels: https://www.pexels.com/video/walking-on-urban-sidewalk-in-casual-pants-34913017/",
+    "Video by Alberto Escalona on Pexels: https://www.pexels.com/video/professional-driver-preparing-for-track-racing-32960634/",
+    "Video by Joan Lahoz on Pexels: https://www.pexels.com/video/high-speed-go-kart-racing-on-outdoor-track-37114362/",
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/ambulance-driver-flipping-switches-6520259/",
+    "Video by Kindel Media on Pexels: https://www.pexels.com/video/an-electric-car-charging-9790183/",
+    "Video by Diana ✨ on Pexels: https://www.pexels.com/video/a-car-is-shown-in-the-rear-view-mirror-with-the-words-the-best-way-to-see-the-sunset-18575766/",
+    "Video by Diana ✨ on Pexels: https://www.pexels.com/video/a-car-mirror-is-shown-in-the-rear-view-mirror-18575779/",
+    "Video by Eyüp Kurt on Pexels: https://www.pexels.com/video/serene-countryside-drive-view-in-car-mirror-36604949/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "g5jM__x3Gcw",
+  "youtube_url": "https://youtu.be/g5jM__x3Gcw",
+  "uploaded_at": "2026-11-08T01:19:14",
+  "privacy_locked": false
+}
