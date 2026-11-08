@@ -1,109 +1,94 @@
 {
-  "generated_at": "2026-11-07T19:47:22.499852+00:00",
-  "subscribers": 47,
-  "total_views": 54802,
-  "public_videos": 76,
-  "shorts_views_90_days": 54242,
+  "generated_at": "2026-11-08T20:05:46.313247+00:00",
+  "subscribers": 49,
+  "total_views": 57368,
+  "public_videos": 77,
+  "shorts_views_90_days": 55417,
   "best": [
     {
-      "id": "Hb_7DAfZ4a0",
-      "title": "Never grip the steering wheel like this (Part 1)",
-      "views": 958,
-      "likes": 10,
+      "id": "g5jM__x3Gcw",
+      "title": "3 Biggest Mistakes New Drivers Make",
+      "views": 949,
+      "likes": 14,
       "comments": 0,
-      "age_days": 1.9,
-      "views_per_day": 502.5,
-      "like_rate_pct": 1.0,
+      "age_days": 1.0,
+      "views_per_day": 938.4,
+      "like_rate_pct": 1.5,
       "format": "short",
       "category": "Autos & Vehicles",
-      "hook": "Stop holding your steering wheel wrong.",
-      "published": "2026-11-05T22:02:12+00:00",
-      "score": 27.52
+      "hook": "Stop making these driving mistakes.",
+      "published": "2026-11-07T19:49:28+00:00",
+      "score": 30.48
+    },
+    {
+      "id": "khjWmlyY0iQ",
+      "title": "What happens if you shift into Reverse while driving?",
+      "views": 1027,
+      "likes": 9,
+      "comments": 0,
+      "age_days": 2.0,
+      "views_per_day": 526.5,
+      "like_rate_pct": 0.9,
+      "format": "short",
+      "category": "Autos & Vehicles",
+      "hook": "Stop trying to shift into Reverse now.",
+      "published": "2026-11-06T21:16:56+00:00",
+      "score": 27.67
+    },
+    {
+      "id": "piSp6e2bSbc",
+      "title": "Part 2: Never grip the steering wheel like this (Part 2)",
+      "views": 968,
+      "likes": 6,
+      "comments": 0,
+      "age_days": 2.0,
+      "views_per_day": 496.3,
+      "like_rate_pct": 0.6,
+      "format": "short",
+      "category": "Autos & Vehicles",
+      "hook": "Part 2! Stop crossing your arms turning.",
+      "published": "2026-11-06T21:17:02+00:00",
+      "score": 27.27
     },
     {
       "id": "cL_OC0QCDf8",
       "title": "Can you pass this driving mirror quiz?",
-      "views": 995,
-      "likes": 6,
+      "views": 1052,
+      "likes": 7,
       "comments": 0,
-      "age_days": 1.9,
-      "views_per_day": 522.0,
-      "like_rate_pct": 0.6,
+      "age_days": 2.9,
+      "views_per_day": 360.4,
+      "like_rate_pct": 0.7,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Most drivers fail this mirror test.",
       "published": "2026-11-05T22:02:37+00:00",
-      "score": 27.49
+      "score": 25.93
     },
     {
-      "id": "CaQzHpKMn1Q",
-      "title": "Stop Doing This When Driving Over Potholes",
-      "views": 1031,
-      "likes": 13,
+      "id": "Hb_7DAfZ4a0",
+      "title": "Never grip the steering wheel like this (Part 1)",
+      "views": 975,
+      "likes": 11,
       "comments": 0,
       "age_days": 2.9,
-      "views_per_day": 353.2,
-      "like_rate_pct": 1.3,
+      "views_per_day": 334.0,
+      "like_rate_pct": 1.1,
       "format": "short",
       "category": "Autos & Vehicles",
-      "hook": "Never slam your brakes over potholes.",
-      "published": "2026-11-04T21:43:31+00:00",
-      "score": 26.14
-    },
-    {
-      "id": "pPMZQq0wOcI",
-      "title": "How to Drive a Manual Car Without Jerking",
-      "views": 819,
-      "likes": 1,
-      "comments": 0,
-      "age_days": 2.9,
-      "views_per_day": 280.5,
-      "like_rate_pct": 0.1,
-      "format": "short",
-      "category": "Autos & Vehicles",
-      "hook": "Stop dumping your clutch from stops.",
-      "published": "2026-11-04T21:43:29+00:00",
-      "score": 24.54
-    },
-    {
-      "id": "Rk27LVPMpSE",
-      "title": "What Happens If You Drive With Foggy Windows",
-      "views": 1028,
-      "likes": 14,
-      "comments": 0,
-      "age_days": 4.9,
-      "views_per_day": 211.9,
-      "like_rate_pct": 1.4,
-      "format": "short",
-      "category": "Autos & Vehicles",
-      "hook": "Never ignore foggy windows while driving.",
-      "published": "2026-11-02T23:20:21+00:00",
-      "score": 23.98
+      "hook": "Stop holding your steering wheel wrong.",
+      "published": "2026-11-05T22:02:12+00:00",
+      "score": 25.8
     }
   ],
   "worst": [
-    {
-      "id": "q4guQGhVQ4U",
-      "title": "Never Adjust Your Steering Wheel Like This",
-      "views": 6,
-      "likes": 0,
-      "comments": 0,
-      "age_days": 11.0,
-      "views_per_day": 0.5,
-      "like_rate_pct": 0.0,
-      "format": "long",
-      "category": "Autos & Vehicles",
-      "hook": "Stop setting your steering wheel height using your wrist.",
-      "published": "2026-10-27T20:36:46+00:00",
-      "score": 1.76
-    },
     {
       "id": "b7XqTdVUX5M",
       "title": "3 Dangerous Driving Mistakes Beginners Make",
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "age_days": 8.9,
+      "age_days": 10.0,
       "views_per_day": 0.4,
       "like_rate_pct": 0.0,
       "format": "long",
@@ -113,12 +98,27 @@
       "score": 1.46
     },
     {
+      "id": "MQKlLa2hFsA",
+      "title": "3 Common Mistakes When Merging Onto The Highway",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "age_days": 2.9,
+      "views_per_day": 0.3,
+      "like_rate_pct": 0.0,
+      "format": "long",
+      "category": "Autos & Vehicles",
+      "hook": "Merging onto a highway is one of the most common maneuvers you perform behind the wheel, yet it is also where many drivers unintentionally create dangerous bottlenecks.",
+      "published": "2026-11-05T22:02:15+00:00",
+      "score": 1.14
+    },
+    {
       "id": "FHRm3a4jRAk",
       "title": "Your garbage disposal is stuck",
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "age_days": 38.1,
+      "age_days": 39.1,
       "views_per_day": 0.3,
       "like_rate_pct": 0.0,
       "format": "short",
@@ -129,21 +129,21 @@
     }
   ],
   "category_views_per_day": {
-    "Autos & Vehicles": 69.2,
-    "Howto & Style": 29.8,
-    "Science & Technology": 11.8,
+    "Autos & Vehicles": 84.3,
+    "Howto & Style": 28.7,
+    "Science & Technology": 11.4,
     "Education": 0.9
   },
   "category_video_counts": {
-    "Autos & Vehicles": 65,
+    "Autos & Vehicles": 68,
     "Howto & Style": 5,
     "Science & Technology": 3,
     "Education": 1
   },
   "retention": {
-    "avg_view_pct_shorts": 70.8,
-    "avg_view_pct_long": 47.0,
-    "long_watch_hours_90d": 58.4,
+    "avg_view_pct_shorts": 71.6,
+    "avg_view_pct_long": 46.8,
+    "long_watch_hours_90d": 60.7,
     "tips": [],
     "best_for_subscribers": [
       {
@@ -155,15 +155,15 @@
         "subscribers": 3
       },
       {
+        "title": "Stop Doing This When Driving Over Potholes",
+        "subscribers": 3
+      },
+      {
         "title": "Stop Using Your Engine Brake Like This (Part 2)",
         "subscribers": 3
       },
       {
         "title": "Why Bikers Tap Their Helmet at You",
-        "subscribers": 2
-      },
-      {
-        "title": "How Your Phone Vibrates Without Making Noise",
         "subscribers": 2
       }
     ]

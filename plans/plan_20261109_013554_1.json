@@ -1,0 +1,85 @@
+{
+  "title": "Stop! Never leave your car in neutral.",
+  "hook": "Stop! Never leave your car in neutral.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop! Never leave your car in neutral. Your parking pawl is a tiny metal pin inside your transmission that holds the entire weight of your vehicle.",
+      "visual_search": "car parked on a steep hill"
+    },
+    {
+      "section": "Step 1",
+      "narration": "Step one: come to a complete stop with your foot firmly on the brake pedal.",
+      "visual_search": "driver foot pressing brake pedal"
+    },
+    {
+      "section": "Step 2",
+      "narration": "Step two: shift into neutral and engage your parking brake first to secure the weight.",
+      "visual_search": "hand pulling up mechanical parking brake"
+    },
+    {
+      "section": "Step 3",
+      "narration": "Step three: only then shift into park. This prevents that heavy clunking noise when you leave.",
+      "visual_search": "automatic gear shifter moving to park"
+    },
+    {
+      "section": "CTA",
+      "narration": "Like if this helped, follow for daily driving tips. Do you use your parking brake every time? Comment yes or no, because",
+      "visual_search": "car interior at night"
+    }
+  ],
+  "description": "Learn the correct sequence to park your automatic car to avoid expensive transmission damage. This quick guide explains how to use your parking brake effectively to protect your vehicle's parking pawl.",
+  "tags": [
+    "driving tips",
+    "new driver",
+    "car maintenance",
+    "parking brake",
+    "automatic transmission",
+    "how to drive",
+    "driving habits",
+    "car care",
+    "transmission repair",
+    "safe driving",
+    "car hacks",
+    "Learn in 60 Seconds",
+    "parking tips",
+    "car tips"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carmaintenance",
+    "#learnin60seconds"
+  ],
+  "thumbnail_text": "PARK LIKE A PRO",
+  "why_it_will_work": "Focuses on a mechanical 'hack' that prevents damage, a topic that historically performs well for new drivers seeking practical vehicle advice.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-09T01:35:55.696869",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261109_013554_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261109_013554_1/thumbnail.jpg",
+  "duration_sec": 28.9,
+  "chapters": [],
+  "credits": [
+    "Video by Samar Layek on Pexels: https://www.pexels.com/video/car-racing-on-a-forest-road-28186719/",
+    "Video by Anıl Karakaya on Pexels: https://www.pexels.com/video/aerial-view-of-car-on-coastal-cliffside-road-32486199/",
+    "Video by Ufuk  Avcuoğlu on Pexels: https://www.pexels.com/video/sleek-black-car-on-cobblestone-street-39596660/",
+    "Video by Maryna Pryvalova on Pexels: https://www.pexels.com/video/sleek-grey-car-in-scenic-mountain-parking-lot-39852902/",
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/ambulance-driver-flipping-switches-6520259/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/a-close-up-video-of-a-person-using-a-grinder-8321904/",
+    "Video by Kaan Özdemir on Pexels: https://www.pexels.com/video/hands-of-watch-moving-13046891/",
+    "Video by Konstantin Mishchenko on Pexels: https://www.pexels.com/video/video-of-a-automatic-shift-5787613/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/man-in-jacket-in-car-at-night-10385820/",
+    "Video by Sapol Churanon on Pexels: https://www.pexels.com/video/driving-time-lapse-through-city-streets-at-night-34224151/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "b41OpVZqMeE",
+  "youtube_url": "https://youtu.be/b41OpVZqMeE",
+  "uploaded_at": "2026-11-09T01:56:10",
+  "privacy_locked": false
+}
