@@ -1,0 +1,79 @@
+{
+  "title": "Stop holding the steering wheel like this (Part 1)",
+  "hook": "Stop holding the wheel at ten-and-two.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop holding the wheel at ten-and-two. Modern vehicles have steering column airbags that trigger with immense force. If your hands are positioned at the top of the wheel, that airbag can propel your wrists or arms directly into your face.",
+      "visual_search": "driver hands on steering wheel top"
+    },
+    {
+      "section": "The Better Way",
+      "narration": "Instead, keep your hands at nine and three or eight and four. This creates a clear path for the airbag to deploy safely while giving you better control during sharp maneuvers. Follow so you don't miss Part 2!",
+      "visual_search": "car steering wheel interior"
+    },
+    {
+      "section": "Engagement",
+      "narration": "Like this tip and follow for more. Where do you usually place your hands while driving? Comment below, because you need to...",
+      "visual_search": "driver holding steering wheel at nine and three"
+    }
+  ],
+  "description": "Learn the safest way to hold your steering wheel to avoid injury from airbag deployment. Many drivers still follow outdated advice that puts their wrists in danger. This is part one of our steering safety series.",
+  "tags": [
+    "driving tips",
+    "steering wheel",
+    "car safety",
+    "new driver",
+    "defensive driving",
+    "car maintenance",
+    "driver education",
+    "safe driving",
+    "auto tips",
+    "avoid accidents",
+    "steering wheel position",
+    "airbag safety"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carsoft",
+    "#safetyfirst"
+  ],
+  "thumbnail_text": "STOP TEN AND TWO",
+  "why_it_will_work": "Leverages the success of previous steering wheel content while providing a high-utility safety tip that directly addresses common habits.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Steering Wheel Safety",
+    "part": 1,
+    "next_part_idea": "The dangers of crossing your arms during turns."
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-10T05:26:14.841886",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261110_052613_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261110_052613_1/thumbnail.jpg",
+  "duration_sec": 29.3,
+  "chapters": [],
+  "credits": [
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/hands-on-hyundai-steering-wheel-13675325/",
+    "Video by Pavel Danilyuk on Pexels: https://www.pexels.com/video/hands-of-a-man-on-the-steering-wheel-5520046/",
+    "Video by Smitha Nittur on Pexels: https://www.pexels.com/video/driver-holding-steering-wheel-on-a-sunny-day-39450368/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/close-up-of-steering-wheel-grip-40345334/",
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/man-sitting-on-the-ambulance-driver-seat-6520256/",
+    "Video by MART  PRODUCTION on Pexels: https://www.pexels.com/video/steering-wheel-of-a-vintage-car-8078910/",
+    "Video by Alex Moliski on Pexels: https://www.pexels.com/video/classic-car-steering-wheel-close-up-34479400/",
+    "Video by Alberto Escalona on Pexels: https://www.pexels.com/video/elegant-luxury-car-interior-with-advanced-console-31588827/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/driver-inside-car-adjusting-mirror-during-daylight-35585187/",
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/ambulance-driver-flipping-switches-6520259/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "23LFb1fbLKI",
+  "youtube_url": "https://youtu.be/23LFb1fbLKI",
+  "uploaded_at": "2026-11-10T05:29:45",
+  "privacy_locked": false
+}

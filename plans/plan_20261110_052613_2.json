@@ -1,0 +1,72 @@
+{
+  "title": "What happens if you ignore low fuel?",
+  "hook": "Most drivers ignore the fuel light.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Most drivers ignore the fuel light. Pushing your car to run on nearly empty isn't just risky; it can actually damage your fuel pump. Modern fuel pumps rely on gasoline to stay cool and lubricated while they operate.",
+      "visual_search": "car dashboard fuel light blinking"
+    },
+    {
+      "section": "The Consequence",
+      "narration": "When you consistently run low, the pump sucks in sediment from the bottom of the tank and can overheat without enough fuel to surround it. This leads to costly repairs that are entirely avoidable.",
+      "visual_search": "fuel pump repair close up"
+    },
+    {
+      "section": "Loop",
+      "narration": "Like if this helped, follow for daily driving tips. How many miles do you drive after the light turns on? Because you know, most drivers ignore the...",
+      "visual_search": "car fuel gauge needle pointing to empty"
+    }
+  ],
+  "description": "Ever wonder why you shouldn't drive on empty? Running your tank low can lead to fuel pump failure. Learn why keeping your tank above a quarter helps your car last longer.",
+  "tags": [
+    "driving tips",
+    "fuel pump",
+    "car care",
+    "maintenance tips",
+    "running on empty",
+    "car advice",
+    "auto repair",
+    "driving habits",
+    "car life",
+    "fuel efficiency",
+    "save money on car"
+  ],
+  "hashtags": [
+    "#carcare",
+    "#drivingtips",
+    "#mechanictips"
+  ],
+  "thumbnail_text": "FUEL LIGHT DANGER",
+  "why_it_will_work": "Addresses a common bad habit with a clear technical reason, fitting perfectly with the 'What happens if' style and the channel's history of helpful driving tips.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-10T05:26:17.597906",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261110_052613_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261110_052613_2/thumbnail.jpg",
+  "duration_sec": 29.5,
+  "chapters": [],
+  "credits": [
+    "Video by Dr. Mohammad  Hoque on Pexels: https://www.pexels.com/video/car-dashboard-speedometer-with-cloudy-sky-view-29492584/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-interior-dashboard-close-up-36474525/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/close-up-of-car-dashboard-speedometer-35585177/",
+    "Video by Emre Vonal on Pexels: https://www.pexels.com/video/elegant-woman-driving-car-10936298/",
+    "Video by Konstantin Mishchenko on Pexels: https://www.pexels.com/video/close-up-of-a-dashboard-5787612/",
+    "Video by Konstantin Mishchenko on Pexels: https://www.pexels.com/video/tachometer-gauge-of-a-car-5777431/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/a-close-up-video-of-a-person-using-a-grinder-8321904/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/a-mechanic-doing-a-truck-maintenance-7564882/",
+    "Video by Kindel Media on Pexels: https://www.pexels.com/video/an-electric-car-charging-9790183/",
+    "Video by Konstantin Mishchenko on Pexels: https://www.pexels.com/video/driving-a-car-5787615/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "yaorupva7I0",
+  "youtube_url": "https://youtu.be/yaorupva7I0",
+  "uploaded_at": "2026-11-10T05:29:50",
+  "privacy_locked": false
+}
