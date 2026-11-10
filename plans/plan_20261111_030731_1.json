@@ -1,0 +1,75 @@
+{
+  "title": "What happens if you turn your wheel while stopped?",
+  "hook": "Stop dry steering your front tires.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop dry steering your front tires.",
+      "visual_search": "driver turning steering wheel while car is parked"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Turning your steering wheel while the car is completely stationary forces the heavy weight of the vehicle to grind against the rubber, wearing out your steering components fast.",
+      "visual_search": "close up of car tire turning on asphalt"
+    },
+    {
+      "section": "Action",
+      "narration": "Always roll forward just an inch before turning.",
+      "visual_search": "car moving forward slowly on street"
+    },
+    {
+      "section": "Call to action & Loop",
+      "narration": "Like if this helped, follow for daily driving tips. Did you knew this? Comment yes or no, because you should always...",
+      "visual_search": "person tapping smartphone screen subscribe button"
+    }
+  ],
+  "description": "Learn why turning your steering wheel while your car is parked causes premature wear and tear on your suspension and tires. Master essential driving habits in under 60 seconds with Learn in 60 Seconds.",
+  "tags": [
+    "driving tips for beginners",
+    "car maintenance",
+    "driving hacks",
+    "new driver tips",
+    "car secrets",
+    "driving lessons",
+    "autos",
+    "vehicle maintenance",
+    "driving advice",
+    "car care",
+    "driving tips and tricks",
+    "avoid car damage"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#cartips",
+    "#cardamage"
+  ],
+  "thumbnail_text": "STOP DRY STEERING",
+  "why_it_will_work": "Leverages high-performing automotive warning style with a strong negative hook that stops the scroll.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-11T03:07:31.987447",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261111_030731_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261111_030731_1/thumbnail.jpg",
+  "duration_sec": 19.8,
+  "chapters": [],
+  "credits": [
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/",
+    "Video by Alex Vo on Pexels: https://www.pexels.com/video/close-up-of-car-wheel-on-hydraulic-lift-40308617/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/close-up-of-a-fast-moving-sport-car-wheel-39140749/",
+    "Video by Bofforss on Pexels: https://www.pexels.com/video/a-blue-car-driving-down-a-street-with-other-cars-27555380/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/high-angle-shot-of-a-person-using-a-smartphone-6611951/",
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/a-person-holding-a-smartphone-7821861/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "TDeWxSaN2Os",
+  "youtube_url": "https://youtu.be/TDeWxSaN2Os",
+  "uploaded_at": "2026-11-11T03:22:52",
+  "privacy_locked": false
+}

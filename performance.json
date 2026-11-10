@@ -1,101 +1,116 @@
 {
-  "generated_at": "2026-11-09T23:56:04.544214+00:00",
-  "subscribers": 50,
-  "total_views": 59982,
-  "public_videos": 80,
-  "shorts_views_90_days": 56804,
+  "generated_at": "2026-11-10T21:36:40.123876+00:00",
+  "subscribers": 52,
+  "total_views": 60195,
+  "public_videos": 82,
+  "shorts_views_90_days": 57645,
   "best": [
     {
       "id": "b41OpVZqMeE",
       "title": "Stop! Never leave your car in neutral.",
-      "views": 874,
+      "views": 996,
       "likes": 5,
       "comments": 0,
-      "age_days": 1.1,
-      "views_per_day": 762.9,
-      "like_rate_pct": 0.6,
+      "age_days": 2.0,
+      "views_per_day": 486.1,
+      "like_rate_pct": 0.5,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop! Never leave your car in neutral.",
       "published": "2026-11-08T20:26:28+00:00",
-      "score": 29.13
+      "score": 27.13
     },
     {
       "id": "g5jM__x3Gcw",
       "title": "3 Biggest Mistakes New Drivers Make",
-      "views": 1027,
+      "views": 1029,
       "likes": 16,
       "comments": 0,
-      "age_days": 2.2,
-      "views_per_day": 473.0,
+      "age_days": 3.1,
+      "views_per_day": 334.7,
       "like_rate_pct": 1.6,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop making these driving mistakes.",
       "published": "2026-11-07T19:49:28+00:00",
-      "score": 27.56
+      "score": 26.06
     },
     {
       "id": "khjWmlyY0iQ",
       "title": "What happens if you shift into Reverse while driving?",
-      "views": 1030,
+      "views": 1031,
       "likes": 9,
       "comments": 0,
-      "age_days": 3.1,
-      "views_per_day": 331.1,
+      "age_days": 4.0,
+      "views_per_day": 256.9,
       "like_rate_pct": 0.9,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop trying to shift into Reverse now.",
       "published": "2026-11-06T21:16:56+00:00",
-      "score": 25.66
+      "score": 24.56
+    },
+    {
+      "id": "Ms99Zg7B1D4",
+      "title": "Most drivers fail this steering quiz.",
+      "views": 543,
+      "likes": 2,
+      "comments": 0,
+      "age_days": 2.0,
+      "views_per_day": 265.0,
+      "like_rate_pct": 0.4,
+      "format": "short",
+      "category": "Autos & Vehicles",
+      "hook": "Most drivers fail this steering quiz.",
+      "published": "2026-11-08T20:26:33+00:00",
+      "score": 24.45
     },
     {
       "id": "piSp6e2bSbc",
       "title": "Part 2: Never grip the steering wheel like this (Part 2)",
-      "views": 970,
+      "views": 968,
       "likes": 6,
       "comments": 0,
-      "age_days": 3.1,
-      "views_per_day": 311.9,
+      "age_days": 4.0,
+      "views_per_day": 241.2,
       "like_rate_pct": 0.6,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Part 2! Stop crossing your arms turning.",
       "published": "2026-11-06T21:17:02+00:00",
-      "score": 25.25
-    },
-    {
-      "id": "cL_OC0QCDf8",
-      "title": "Can you pass this driving mirror quiz?",
-      "views": 1110,
-      "likes": 8,
-      "comments": 0,
-      "age_days": 4.1,
-      "views_per_day": 272.1,
-      "like_rate_pct": 0.7,
-      "format": "short",
-      "category": "Autos & Vehicles",
-      "hook": "Most drivers fail this mirror test.",
-      "published": "2026-11-05T22:02:37+00:00",
-      "score": 24.71
+      "score": 24.14
     }
   ],
   "worst": [
+    {
+      "id": "q4guQGhVQ4U",
+      "title": "Never Adjust Your Steering Wheel Like This",
+      "views": 6,
+      "likes": 0,
+      "comments": 0,
+      "age_days": 14.0,
+      "views_per_day": 0.4,
+      "like_rate_pct": 0.0,
+      "format": "long",
+      "category": "Autos & Vehicles",
+      "hook": "Stop setting your steering wheel height using your wrist.",
+      "published": "2026-10-27T20:36:46+00:00",
+      "score": 1.46
+    },
     {
       "id": "b7XqTdVUX5M",
       "title": "3 Dangerous Driving Mistakes Beginners Make",
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "age_days": 11.1,
-      "views_per_day": 0.4,
+      "age_days": 12.0,
+      "views_per_day": 0.3,
       "like_rate_pct": 0.0,
       "format": "long",
       "category": "Autos & Vehicles",
       "hook": "Learning to drive is exciting, but brand-new drivers often pick up subtle habits that quietly destroy their cars and create dangerous situations on the road.",
       "published": "2026-10-29T21:04:30+00:00",
-      "score": 1.46
+      "score": 1.14
     },
     {
       "id": "FHRm3a4jRAk",
@@ -103,7 +118,7 @@
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "age_days": 40.3,
+      "age_days": 41.2,
       "views_per_day": 0.3,
       "like_rate_pct": 0.0,
       "format": "short",
@@ -111,27 +126,12 @@
       "hook": "Stop calling the plumber for jams.",
       "published": "2026-09-30T16:59:18+00:00",
       "score": 1.14
-    },
-    {
-      "id": "MQKlLa2hFsA",
-      "title": "3 Common Mistakes When Merging Onto The Highway",
-      "views": 1,
-      "likes": 0,
-      "comments": 0,
-      "age_days": 4.1,
-      "views_per_day": 0.2,
-      "like_rate_pct": 0.0,
-      "format": "long",
-      "category": "Autos & Vehicles",
-      "hook": "Merging onto a highway is one of the most common maneuvers you perform behind the wheel, yet it is also where many drivers unintentionally create dangerous bottlenecks.",
-      "published": "2026-11-05T22:02:15+00:00",
-      "score": 0.79
     }
   ],
   "category_views_per_day": {
-    "Autos & Vehicles": 76.7,
-    "Howto & Style": 27.5,
-    "Science & Technology": 11.1,
+    "Autos & Vehicles": 64.2,
+    "Howto & Style": 26.7,
+    "Science & Technology": 10.8,
     "Education": 0.9
   },
   "category_video_counts": {
@@ -141,14 +141,14 @@
     "Education": 1
   },
   "retention": {
-    "avg_view_pct_shorts": 71.3,
+    "avg_view_pct_shorts": 71.4,
     "avg_view_pct_long": 47.1,
-    "long_watch_hours_90d": 64.1,
+    "long_watch_hours_90d": 66.0,
     "tips": [],
     "best_for_subscribers": [
       {
         "title": "3 Motorcycle Turning Mistakes Every Beginner Makes",
-        "subscribers": 19
+        "subscribers": 20
       },
       {
         "title": "Stop Braking in the Middle of a Turn",
@@ -159,7 +159,7 @@
         "subscribers": 3
       },
       {
-        "title": "Stop Using Your Engine Brake Like This (Part 2)",
+        "title": "eoRCImVDGyg",
         "subscribers": 3
       },
       {
