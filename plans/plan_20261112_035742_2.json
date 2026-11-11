@@ -1,0 +1,51 @@
+{
+  "title": "How to Parallel Park in 3 Easy Steps",
+  "hook": "Most drivers struggle with parallel parking.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Most drivers struggle with parallel parking.",
+      "visual_search": "car struggling to back into tight parallel parking space"
+    },
+    {
+      "section": "Steps 1 & 2",
+      "narration": "Here is how to do it in three easy steps. Step one: pull up parallel to the front car, bumper to bumper. Step two: turn your steering wheel all the way toward the curb and reverse at a forty-five degree angle.",
+      "visual_search": "overhead animation of car reversing into parking spot"
+    },
+    {
+      "section": "Step 3 & Loop",
+      "narration": "Step three: turn your wheel all the way the opposite way and ease smoothly into the space. Like if this helped! Do you find parallel parking hard? Comment yes or no. You will never struggle again because...",
+      "visual_search": "car parked perfectly along the city street curb"
+    }
+  ],
+  "description": "Master parallel parking in under 60 seconds with this simple 3-step guide! Perfect for new drivers preparing for their driving test or anyone looking to park with confidence.\n\nFollow Learn in 60 Seconds for daily driving hacks and quick car tutorials!",
+  "tags": [
+    "driving tips parking",
+    "how to parallel park",
+    "parallel parking steps",
+    "driving tips for beginners",
+    "driving test tips",
+    "how to drive a car",
+    "parking hacks",
+    "new driver tips",
+    "learn in 60 seconds"
+  ],
+  "hashtags": [
+    "#parallelparking",
+    "#drivingtips",
+    "#howto"
+  ],
+  "thumbnail_text": "PARK PERFECT EVERY TIME",
+  "why_it_will_work": "Parallel parking is one of the top searched topics under 'driving tips parking'. Breaking it down into 3 simple reference points provides immediate value to viewers.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: The 3-step parallel parking instructions lack necessary mechanical alignment details (such as rear-axle or mirror alignment) making the steps ineffective and misleading for actual drivers."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-12T03:58:16.008102"
+}

@@ -1,0 +1,78 @@
+{
+  "title": "3 Dangerous Rain Driving Mistakes (Part 1)",
+  "hook": "Stop using hazard lights in heavy rain.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop using hazard lights in heavy rain.",
+      "visual_search": "car driving through rainstorm with hazard lights flashing"
+    },
+    {
+      "section": "Mistakes 1 & 2",
+      "narration": "First, hazards turn off your blinkers, making lane changes invisible to other drivers. Second, never use cruise control on wet asphalt—it can trigger hydroplaning instantly.",
+      "visual_search": "dashboard controls turn signal and wet road surface"
+    },
+    {
+      "section": "Mistake 3",
+      "narration": "Third, never slam your brakes if you slip. Ease off the gas pedal instead to regain traction.",
+      "visual_search": "driver foot lifting off car gas pedal"
+    },
+    {
+      "section": "Call to Action",
+      "narration": "Like if this helped! Did you know this? Comment below, and follow so you don't miss Part 2!",
+      "visual_search": "driver safely steering car through rain"
+    }
+  ],
+  "description": "Learn the 3 most common mistakes drivers make when driving in heavy rain and how to fix them immediately. Driving in rain requires specific habits to keep you safe from hydroplaning and collisions.\n\nSubscribe to Learn in 60 Seconds for quick, essential driving tips and car maintenance tricks every single day!",
+  "tags": [
+    "driving tips",
+    "driving tips for beginners",
+    "rain driving",
+    "car safety",
+    "driving mistakes",
+    "how to drive in rain",
+    "hydroplaning safety",
+    "driving tricks",
+    "new driver tips",
+    "learn in 60 seconds"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carsafety",
+    "#rainyday"
+  ],
+  "thumbnail_text": "STOP DOING THIS IN RAIN",
+  "why_it_will_work": "Rain driving safety taps into high beginner search traffic and severe weather interest. The bold hook directly challenges a very common bad habit (flashing hazards while moving).",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Rain Driving Safety",
+    "part": 1,
+    "next_part_idea": "3 dangerous wet road mistakes including driving through standing water puddles"
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-12T03:57:49.559432",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261112_035742_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261112_035742_1/thumbnail.jpg",
+  "duration_sec": 22.6,
+  "chapters": [],
+  "credits": [
+    "Video by Gıyasettin  Dündar on Pexels: https://www.pexels.com/video/rainy-night-urban-street-with-car-lights-39984932/",
+    "Video by Teju on Pexels: https://www.pexels.com/video/a-car-is-driving-down-the-road-in-the-rain-18127382/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-dashboard-close-up-interior-36474526/",
+    "Video by Gaber Magdi on Pexels: https://www.pexels.com/video/moody-night-drive-in-rain-with-neon-lights-35170756/",
+    "Video by Khang Ocean on Pexels: https://www.pexels.com/video/driving-through-heavy-rainstorm-on-highway-35587365/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/driver-inside-car-adjusting-mirror-during-daylight-35585187/",
+    "Video by Polina Istomina on Pexels: https://www.pexels.com/video/dynamic-racing-car-pov-on-track-37622449/",
+    "Video by Airam Dato-on on Pexels: https://www.pexels.com/video/driving-through-city-traffic-jam-in-car-36067578/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "UUyotD0Encc",
+  "youtube_url": "https://youtu.be/UUyotD0Encc",
+  "uploaded_at": "2026-11-12T03:59:59",
+  "privacy_locked": false
+}
