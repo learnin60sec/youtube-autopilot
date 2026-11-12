@@ -1,54 +1,69 @@
 {
-  "generated_at": "2026-11-11T22:25:41.892226+00:00",
+  "generated_at": "2026-11-12T22:00:12.439437+00:00",
   "subscribers": 52,
-  "total_views": 62447,
-  "public_videos": 85,
-  "shorts_views_90_days": 59967,
+  "total_views": 65954,
+  "public_videos": 86,
+  "shorts_views_90_days": 62099,
   "best": [
+    {
+      "id": "UUyotD0Encc",
+      "title": "3 Dangerous Rain Driving Mistakes (Part 1)",
+      "views": 936,
+      "likes": 15,
+      "comments": 0,
+      "age_days": 1.0,
+      "views_per_day": 936.0,
+      "like_rate_pct": 1.6,
+      "format": "short",
+      "category": "Autos & Vehicles",
+      "hook": "Stop using hazard lights in heavy rain.",
+      "published": "2026-11-11T22:30:16+00:00",
+      "score": 30.52
+    },
     {
       "id": "31g1LZNeWo0",
       "title": "Part 2! Stop crossing your arms turning.",
-      "views": 898,
-      "likes": 11,
+      "views": 955,
+      "likes": 12,
       "comments": 0,
-      "age_days": 1.0,
-      "views_per_day": 878.3,
-      "like_rate_pct": 1.2,
+      "age_days": 2.0,
+      "views_per_day": 476.4,
+      "like_rate_pct": 1.3,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Part 2! Stop crossing your arms.",
       "published": "2026-11-10T21:53:21+00:00",
-      "score": 30.04
+      "score": 27.44
     },
     {
       "id": "TDeWxSaN2Os",
       "title": "What happens if you turn your wheel while stopped?",
-      "views": 906,
+      "views": 909,
       "likes": 7,
       "comments": 0,
-      "age_days": 1.0,
-      "views_per_day": 886.0,
+      "age_days": 2.0,
+      "views_per_day": 453.4,
       "like_rate_pct": 0.8,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop dry steering your front tires.",
       "published": "2026-11-10T21:53:09+00:00",
-      "score": 29.88
+      "score": 26.97
     },
     {
       "id": "yaorupva7I0",
       "title": "What happens if you ignore low fuel?",
-      "views": 1094,
+      "views": 1109,
       "likes": 21,
       "comments": 0,
-      "age_days": 1.9,
-      "views_per_day": 565.6,
+      "age_days": 2.9,
+      "views_per_day": 380.2,
       "like_rate_pct": 1.9,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Most drivers ignore the fuel light.",
       "published": "2026-11-10T00:00:10+00:00",
-      "score": 28.48
+      "score": 26.76
     },
     {
       "id": "23LFb1fbLKI",
@@ -56,39 +71,24 @@
       "views": 934,
       "likes": 7,
       "comments": 0,
-      "age_days": 1.9,
-      "views_per_day": 482.8,
+      "age_days": 2.9,
+      "views_per_day": 320.2,
       "like_rate_pct": 0.7,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop holding the wheel at ten-and-two.",
       "published": "2026-11-10T00:00:13+00:00",
-      "score": 27.2
-    },
-    {
-      "id": "b41OpVZqMeE",
-      "title": "Stop! Never leave your car in neutral.",
-      "views": 998,
-      "likes": 5,
-      "comments": 0,
-      "age_days": 3.1,
-      "views_per_day": 323.7,
-      "like_rate_pct": 0.5,
-      "format": "short",
-      "category": "Autos & Vehicles",
-      "hook": "Stop! Never leave your car in neutral.",
-      "published": "2026-11-08T20:26:28+00:00",
-      "score": 25.36
+      "score": 25.42
     }
   ],
   "worst": [
     {
       "id": "b7XqTdVUX5M",
       "title": "3 Dangerous Driving Mistakes Beginners Make",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 0,
-      "age_days": 13.1,
+      "age_days": 14.0,
       "views_per_day": 0.4,
       "like_rate_pct": 0.0,
       "format": "long",
@@ -103,7 +103,7 @@
       "views": 6,
       "likes": 0,
       "comments": 0,
-      "age_days": 15.1,
+      "age_days": 16.1,
       "views_per_day": 0.4,
       "like_rate_pct": 0.0,
       "format": "long",
@@ -118,7 +118,7 @@
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "age_days": 42.2,
+      "age_days": 43.2,
       "views_per_day": 0.3,
       "like_rate_pct": 0.0,
       "format": "short",
@@ -129,26 +129,26 @@
     }
   ],
   "category_views_per_day": {
-    "Autos & Vehicles": 88.2,
-    "Howto & Style": 25.8,
-    "Science & Technology": 10.5,
-    "Education": 0.9
+    "Autos & Vehicles": 78.8,
+    "Howto & Style": 25.0,
+    "Science & Technology": 10.3,
+    "Education": 0.8
   },
   "category_video_counts": {
-    "Autos & Vehicles": 76,
+    "Autos & Vehicles": 77,
     "Howto & Style": 5,
     "Science & Technology": 3,
     "Education": 1
   },
   "retention": {
     "avg_view_pct_shorts": 71.7,
-    "avg_view_pct_long": 46.7,
-    "long_watch_hours_90d": 71.0,
+    "avg_view_pct_long": 46.6,
+    "long_watch_hours_90d": 73.6,
     "tips": [],
     "best_for_subscribers": [
       {
         "title": "3 Motorcycle Turning Mistakes Every Beginner Makes",
-        "subscribers": 21
+        "subscribers": 22
       },
       {
         "title": "Stop Braking in the Middle of a Turn",

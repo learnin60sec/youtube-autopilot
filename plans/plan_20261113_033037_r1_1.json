@@ -1,0 +1,69 @@
+{
+  "title": "3 Parking Brake Mistakes Destroying Your Car",
+  "hook": "You might be shortening the lifespan of your vehicle every time you park on a hill, simply by using your parking brake incorrectly.",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "You might be shortening the lifespan of your vehicle every time you park on a hill, simply by using your parking brake incorrectly. Most drivers assume that as long as the lever is engaged, everything is fine, but certain daily habits put unnecessary stress on the entire braking system. Today, we are breaking down three of the most common parking brake mistakes that lead to costly repairs down the road, and showing you the right way to operate it every single time. Whether you drive a manual or an automatic, getting this wrong can lead to premature wear on cables, jammed mechanisms, and stuck brakes when you least expect it. Fixing these simple errors takes zero extra time, but it saves you money at the mechanic and gives you total peace of mind whenever you walk away from your car. Let's start with the first mistake right now.",
+      "visual_search": "driver pulling handbrake in car"
+    },
+    {
+      "section": "Mistake 1",
+      "narration": "Mistake number one is engaging the parking brake after you release the foot brake. When you park on a hill, letting the car rest entirely on the transmission before pulling the brake puts massive weight on the transmission parking pawl. The correct way is to keep your foot firmly on the brake pedal, engage the parking brake fully, and only then shift into park and release your foot brake. This ensures the brakes hold the vehicle weight, not the transmission gears.",
+      "visual_search": "automatic gear shift in park"
+    },
+    {
+      "section": "Mistake 2",
+      "narration": "Mistake number two is driving with the parking brake even partially engaged. Even one click up can create constant friction, destroying your brake pads and rotors within weeks. Always check your dashboard cluster for the brake warning light before rolling forward out of your driveway. But wait, the third mistake is the most damaging and happens the moment you release the lever.",
+      "visual_search": "dashboard brake warning light on"
+    },
+    {
+      "section": "Subscribe",
+      "narration": "If you're learning something, subscribe, it helps a lot.",
+      "visual_search": "hands holding steering wheel driving"
+    },
+    {
+      "section": "Mistake 3",
+      "narration": "Mistake number three is dropping the handbrake lever without pressing the release button. Yanking the lever up and letting it snap down repeatedly wears down the ratchet mechanism inside the center console. Always press the thumb button in before pulling up, and keep it pressed all the way down until the lever is completely resting at the bottom. This single habit prevents your parking brake from getting stuck or failing completely.",
+      "visual_search": "hand pressing button on handbrake"
+    },
+    {
+      "section": "Recap and Outro",
+      "narration": "To wrap everything up and keep your car running smoothly for years to come, just remember these three simple habits. First, always come to a complete stop before engaging the parking brake so you protect the transmission. Second, take the extra second to put the car in park before you release the foot brake, letting the braking system take the actual weight of the vehicle instead of the gears. Third, treat the release button with care every single time you lower the lever, making sure you press it fully to protect those tiny metal teeth from wearing down prematurely. By avoiding these everyday habits, you will save yourself a lot of money on unexpected repair bills and keep your vehicle much safer on the road. Now, I want to hear from you. Have you ever accidentally driven away with your parking brake still engaged, and did you notice right away? Let me know your story in the comments below. If you want to become an even better and safer driver, make sure to click on the next video playing on our channel right now to master more essential car tips.",
+      "visual_search": "car driving on sunny road"
+    }
+  ],
+  "description": "Stop making these three common parking brake mistakes that destroy your car transmission and brake pads. Learn the proper way to use your handbrake every time you park.\n\nSubscribe to Learn in 60 Seconds for quick, useful driving tips that keep you safe.",
+  "tags": [
+    "driving tips",
+    "parking brake",
+    "handbrake mistakes",
+    "how to drive",
+    "driving for beginners",
+    "car maintenance",
+    "driving tricks",
+    "auto tips",
+    "safe driving",
+    "car care",
+    "vehicle tips",
+    "new driver help"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carmaintenance",
+    "#cartips"
+  ],
+  "thumbnail_text": "STOP DOING THIS",
+  "why_it_will_work": "Matches the proven high-performing format of calling out common dangerous car mistakes with direct, actionable fixes.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "script length 561 words (want 900-2000)"
+  ],
+  "ai_provider": "gemini",
+  "format": "long",
+  "language": "English",
+  "created_at": "2026-11-13T03:31:24.966968"
+}

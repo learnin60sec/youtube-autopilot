@@ -1,0 +1,64 @@
+{
+  "title": "3 Braking Mistakes That Ruin Your Car",
+  "hook": "Your brakes are the most important safety feature on your car, yet a few simple driving habits can wear them out in a fraction of their normal lifespan.",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "Your brakes are the most important safety feature on your car, yet a few simple driving habits can wear them out in a fraction of their normal lifespan. Today, you are going to learn three common braking mistakes that quietly destroy your car's stopping power and lead to expensive mechanic bills. Most drivers make at least two of these errors every single day without even realizing they are doing damage. From the way you handle long hills to how you respond to strange vibrations under your foot, fixing these habits will keep your car safer and save you a lot of money. If you want to keep your car running smoothly and avoid unnecessary repairs, hit that subscribe button. Let us dive right into mistake number one.",
+      "visual_search": "car driving on winding mountain road"
+    },
+    {
+      "section": "Mistake 1: Continuous Braking",
+      "narration": "Mistake number one is continuous brake pressure on downhills. When you keep your foot lightly pressing the brake pedal the entire way down a mountain or steep hill, your brake pads and rotors never get a chance to cool down. This creates massive friction heat, known as brake fade, which literally bakes your brake pads and can warp the metal rotors over time. Instead of riding the brakes the whole way down, try applying a firm, steady pressure to slow your car down significantly, and then release the pedal completely to let the airflow cool your braking system back down. You can repeat this on-and-off process safely. If you're learning something, subscribe, it helps a lot. But the next mistake on our list happens even more frequently, and it catches people off guard right in the middle of a routine commute.",
+      "visual_search": "driver foot pressing car brake pedal"
+    },
+    {
+      "section": "Mistake 2: Braking Mid-Turn",
+      "narration": "Mistake number two is hitting your brakes right in the middle of a turn. A lot of drivers keep braking as they start steering into a corner. When you do this, you instantly shift all of the car's weight forward onto the front two tires. Now those front tires have a huge problem. They are trying to do two totally different jobs at the exact same time: they have to steer the car and they have to slow it down. If the pavement is even slightly wet, or if there is a bit of loose gravel, the tires will simply lose their grip. Once that happens, your car starts sliding wide instead of following the curve of the road. The safe way to handle a turn is simple. Do all your heavy braking in a straight line before you start turning the steering wheel. Once you begin turning, release the brake pedal and smoothly coast or lightly press the gas through the curve. This keeps your vehicle's weight balanced evenly across all four tires so you always stay in control. Speaking of car controls, the final mistake on our list happens right under your feet, and ignoring it can destroy your braking system.",
+      "visual_search": "car turning corner on city street"
+    },
+    {
+      "section": "Mistake 3: Ignoring Pulsing Pedals",
+      "narration": "Mistake number three is ignoring a pulsing brake pedal. Have you ever pressed your brakes and felt a strange vibration under your foot, or noticed your steering wheel shaking? That is your car trying to tell you something important. Usually, that pulsation means your brake rotors have uneven spots on them, often caused by heat or normal wear over time. When you keep driving on pulsing brakes, that constant vibration puts extra stress on your brake calipers and suspension parts. What starts as a simple, affordable fix can quickly turn into a much larger repair bill if you wait too long. A quick inspection can tell you if your rotors need to be resurfaced or replaced entirely. Before we wrap up, leave a comment and tell us: have you ever felt your steering wheel shake when slowing down? Stay tuned, because the final recap will show you the easiest way to make your new brake pads last twice as long.",
+      "visual_search": "mechanic inspecting car brake rotor"
+    },
+    {
+      "section": "Recap",
+      "narration": "To recap, avoid riding your brakes down hills, finish braking before you turn, and never ignore a vibrating pedal. Fixing these habits will keep your car stopping safely and save you money. For more quick driving tips, watch the next video on our channel right now.",
+      "visual_search": "car safely stopping at traffic light"
+    }
+  ],
+  "description": "Learn the three most common braking mistakes drivers make that destroy car parts. Avoid brake fade, warped rotors, and unsafe cornering with these simple tips from Learn in 60 Seconds.\n\nSubscribe for more quick automotive guides and driving tips.",
+  "tags": [
+    "driving tips",
+    "car maintenance",
+    "brake safety",
+    "how to drive",
+    "beginner driving tips",
+    "car tips",
+    "driving advice",
+    "auto repair",
+    "brake pads",
+    "warped rotors",
+    "vehicle safety",
+    "driving tricks"
+  ],
+  "hashtags": [
+    "#driving",
+    "#cars",
+    "#cartips"
+  ],
+  "thumbnail_text": "STOP DOING THIS",
+  "why_it_will_work": "Leverages the proven high-performing 'mistakes to avoid' format from the channel history, targeting a universal car maintenance topic with high search and viewer retention.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "script length 677 words (want 900-2000)"
+  ],
+  "ai_provider": "gemini",
+  "format": "long",
+  "language": "English",
+  "created_at": "2026-11-13T03:31:55.895536"
+}
