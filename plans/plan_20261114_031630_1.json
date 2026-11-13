@@ -1,0 +1,79 @@
+{
+  "title": "What Happens If You Top Off Gas? (Part 1)",
+  "hook": "Stop pumping gas after the click.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop pumping gas after the click.",
+      "visual_search": "gas station fuel pump nozzle overflowing close up"
+    },
+    {
+      "section": "The Mistake",
+      "narration": "Squeezing the handle again forces liquid fuel where only vapors belong. Inside your car, a charcoal canister traps gas fumes, not liquid.",
+      "visual_search": "person squeezing gas pump handle at station"
+    },
+    {
+      "section": "The Damage",
+      "narration": "Flooding that filter ruins it and triggers your check engine light. Plus, gas expands in heat and can spill right back out.",
+      "visual_search": "car dashboard check engine light glowing close up"
+    },
+    {
+      "section": "CTA and Cliffhanger",
+      "narration": "Like if this helped, follow for daily car tips. Do you still top off? Comment yes or no. Follow so you don't miss Part 2 on loose gas caps!",
+      "visual_search": "mechanic inspecting car fuel tank cap"
+    }
+  ],
+  "description": "Have you ever wondered what happens if you keep pumping gas after the nozzle clicks off? Topping off your gas tank might seem harmless, but it can damage your vehicle's evaporative emission system and waste fuel.\n\nWatch this quick car tip to learn how your charcoal canister works and why stopping at the first click saves you from expensive repairs. Follow for Part 2 where we explain what happens when your gas cap is loose!",
+  "tags": [
+    "top off gas tank",
+    "pumping gas mistake",
+    "car maintenance tips",
+    "driving tips for beginners",
+    "check engine light",
+    "charcoal canister",
+    "gas station tips",
+    "auto repair tips",
+    "how to pump gas",
+    "car care advice",
+    "learn in 60 seconds",
+    "shorts"
+  ],
+  "hashtags": [
+    "#cartips",
+    "#gasstation",
+    "#shorts"
+  ],
+  "thumbnail_text": "STOP TOPPING OFF",
+  "why_it_will_work": "Gas is a top trending keyword right now, and 'What happens if...' hooks paired with everyday driver habits consistently drive high views on your channel.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Gas Tank Mistakes",
+    "part": 1,
+    "next_part_idea": "What happens if you drive with a loose or missing gas cap"
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-14T03:16:39.665653",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261114_031630_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261114_031630_1/thumbnail.jpg",
+  "duration_sec": 25.0,
+  "chapters": [],
+  "credits": [
+    "Video by Luca Dross on Pexels: https://www.pexels.com/video/snowy-night-at-illuminated-gas-station-35560146/",
+    "Video by Matheus Bertelli on Pexels: https://www.pexels.com/video/a-gas-station-at-night-with-cars-parked-in-front-25397939/",
+    "Video by Shruti Rai on Pexels: https://www.pexels.com/video/snowy-night-at-a-gas-station-in-winter-30001247/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-dashboard-close-up-interior-36474526/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-interior-dashboard-close-up-36474525/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/an-auto-mechanic-inspecting-a-car-engine-8987287/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/a-man-inspecting-a-car-engine-8987286/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "7lEpkBsirbo",
+  "youtube_url": "https://youtu.be/7lEpkBsirbo",
+  "uploaded_at": "2026-11-14T03:19:34",
+  "privacy_locked": false
+}

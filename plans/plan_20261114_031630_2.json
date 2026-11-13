@@ -1,0 +1,76 @@
+{
+  "title": "Why Your Turn Signal Blinks Twice As Fast",
+  "hook": "Never ignore a fast-blinking turn signal.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never ignore a fast-blinking turn signal.",
+      "visual_search": "car dashboard turn signal blinking fast at night"
+    },
+    {
+      "section": "Surprising Fact",
+      "narration": "If your blinker suddenly clicks twice as fast, it is not a random glitch. Your car is actually alerting you that a front or rear turn signal bulb has burned out.",
+      "visual_search": "car headlight and blinker close up in traffic"
+    },
+    {
+      "section": "Why It Happens",
+      "narration": "When a bulb dies, the system detects lower electrical load and speeds up the flash. Driving with a dead blinker hides your turns from other drivers.",
+      "visual_search": "mechanic replacing car tail light bulb"
+    },
+    {
+      "section": "CTA and Loop",
+      "narration": "Like if this helped, follow for daily car tips. Has your blinker ever done this? Comment yes or no. So whenever that arrow speeds up, remember—",
+      "visual_search": "driver hands on steering wheel using turn signal"
+    }
+  ],
+  "description": "Did you know a fast-blinking turn signal is actually a built-in warning system? Many drivers think rapid clicking on the dashboard is just a minor electrical glitch, but it is your car telling you a bulb is out.\n\nLearn this simple driving tip in under 60 seconds so you can fix dead bulbs quickly, avoid traffic tickets, and keep other drivers safe on the road.",
+  "tags": [
+    "fast blinking turn signal",
+    "turn signal blinking fast",
+    "car warning signs",
+    "driving tips for new drivers",
+    "driving tips and tricks",
+    "car maintenance for beginners",
+    "blinker bulb out",
+    "auto safety tips",
+    "car dashboard lights",
+    "driving tips turning",
+    "learn in 60 seconds",
+    "shorts"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#cartips",
+    "#shorts"
+  ],
+  "thumbnail_text": "FAST BLINKER WARNING",
+  "why_it_will_work": "Auto repair and common car mysteries are trending, and this answers a super relatable driving question that appeals to both new and experienced drivers.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-14T03:16:45.549846",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261114_031630_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261114_031630_2/thumbnail.jpg",
+  "duration_sec": 26.9,
+  "chapters": [],
+  "credits": [
+    "Video by UMUT DAĞLI on Pexels: https://www.pexels.com/video/a-car-driving-on-a-road-at-night-27700575/",
+    "Video by Joffray Jouve on Pexels: https://www.pexels.com/video/a-car-driving-on-a-highway-at-night-19653393/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/close-up-of-car-indicator-light-35585198/",
+    "Video by Paul Raymond on Pexels: https://www.pexels.com/video/a-car-with-rain-on-the-windshield-and-traffic-lights-18222676/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/mechanic-removing-the-wheel-of-a-car-8987454/",
+    "Video by Redyar Rzgar on Pexels: https://www.pexels.com/video/car-maintenance-tire-installation-in-workshop-37451898/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-is-driving-a-car-with-their-hands-on-the-steering-wheel-27445075/",
+    "Video by Furkan Elveren on Pexels: https://www.pexels.com/video/a-person-driving-a-car-with-their-hands-on-the-steering-wheel-27374367/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "gW9QgoAeIJo",
+  "youtube_url": "https://youtu.be/gW9QgoAeIJo",
+  "uploaded_at": "2026-11-14T03:19:41",
+  "privacy_locked": false
+}
