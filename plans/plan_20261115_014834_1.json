@@ -1,0 +1,64 @@
+{
+  "title": "The Truth About Premium Gas in Regular Cars",
+  "hook": "Most drivers waste money at gas pumps.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Most drivers waste money at gas pumps.",
+      "visual_search": "driver fueling car at busy gas station dramatic close up"
+    },
+    {
+      "section": "Myth",
+      "narration": "The myth is that premium gas boosts power and cleans every engine.",
+      "visual_search": "gas pump nozzle and fuel octane buttons"
+    },
+    {
+      "section": "Fact",
+      "narration": "The fact is octane only prevents engine knocking in high-compression engines. Regular gas already contains cleaning detergents. If your owner's manual calls for regular, premium adds zero extra horsepower or mileage.",
+      "visual_search": "car owner manual fuel recommendation page"
+    },
+    {
+      "section": "Fix",
+      "narration": "Always check inside your fuel door and buy the exact octane your car requires.",
+      "visual_search": "hand opening car fuel door sticker close up"
+    },
+    {
+      "section": "CTA",
+      "narration": "Like if this helped, follow for daily car tips. Which fuel do you buy? Comment below, because...",
+      "visual_search": "car driving smoothly on open highway"
+    }
+  ],
+  "description": "Think putting premium gas in your car gives you better horsepower or a cleaner engine? Here is the myth vs fact breakdown every driver should know before filling up.\n\nAll standard gasoline grades already include engine-cleaning detergents. Unless your vehicle requires or recommends higher octane to prevent knocking, choosing regular gas saves money without sacrificing performance.\n\nSubscribe to Learn in 60 Seconds for fast, practical driving tips and vehicle advice every day.",
+  "tags": [
+    "premium vs regular gas",
+    "does premium gas clean engine",
+    "gas pump tips",
+    "car maintenance tips",
+    "driving tips for beginners",
+    "save money on gas",
+    "fuel octane explained",
+    "car myths debunked",
+    "vehicle tip",
+    "auto tips",
+    "learn in 60 seconds",
+    "youtube shorts"
+  ],
+  "hashtags": [
+    "#cartips",
+    "#gas",
+    "#shorts"
+  ],
+  "thumbnail_text": "STOP BUYING PREMIUM",
+  "why_it_will_work": "Fuel-related videos like ignoring low fuel perform strongly on your channel, and 'gas' and 'vehicle tip' are hot keywords right now paired with a clear myth-versus-fact reveal.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: 'Most drivers waste money at gas pumps' is an exaggeration, as most drivers already purchase regular gasoline rather than unnecessary premium fuel.; 'If your owner's manual calls for regular, premium adds zero extra horsepower or mileage' is misleading because some modern engines designed to run on regular can still advance timing to gain slight power or efficiency on higher octane.; 'Regular gas already contains cleaning detergents' is not universally true everywhere without geographic qualification, and some fuel brands do put higher detergent concentrations in premium blends."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-15T01:48:54.074293"
+}
