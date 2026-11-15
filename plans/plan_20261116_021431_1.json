@@ -1,0 +1,165 @@
+{
+  "title": "How Car Keys Stop Thieves (And Hidden Tricks Inside)",
+  "hook": "A plain metal copy of your car key will never start most modern cars, even when the teeth match perfectly.",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "A plain metal copy of your car key will never start most modern cars, even when the teeth match perfectly. The real reason is hidden inside that ordinary piece of plastic you carry in your pocket every day. Over the next few minutes, you will learn how your key talks to your engine, why thieves cannot simply duplicate your blade or record your unlock button, and why your steering wheel sometimes traps your key in the ignition. Stay until near the end, because I saved the most useful trick for last: how to unlock and start a push-button car even when the key fob battery is completely dead. You might think a key is just cut metal with buttons on top, but there is clever wireless engineering working every time you drive. First, let's look at the tiny hidden part inside your key that runs without any battery.",
+      "visual_search": "modern car key close up in hand"
+    },
+    {
+      "section": "The Tiny Chip With No Battery",
+      "narration": "Look at a basic car key with a thick plastic head, and it is easy to assume that plastic is just there to give your fingers a grip. In reality, that plastic shell hides a tiny glass or ceramic transponder chip, and it is the real reason your engine starts. What surprises most drivers is that this chip has no battery inside it. How does it get power? Wrapped around the keyhole in your steering column is a small loop of wire called an antenna ring. The instant you turn the key, the car sends a tiny pulse of electricity through that ring, creating a short-range magnetic field. That field wakes up the chip inside your key for a fraction of a second, giving it just enough power to broadcast a unique digital code back to the car's computer. Only when that code matches does the fuel and ignition system turn on. Still, plenty of drivers test this at a hardware store—and the next detail shows what happens when you try a cheap copy.",
+      "visual_search": "inserting car key into ignition switch"
+    },
+    {
+      "section": "Why Metal Copies Still Fail",
+      "narration": "Say you lose a spare key and take your remaining key to a hardware store for a quick metal copy. Because the metal grooves match, that copy will usually slide right into your door lock and unlock the cabin. It will often even slide into the ignition and physically turn forward. At that moment, it feels like you just saved yourself a lot of money. Then you twist it to start the car, and nothing happens—or the engine fires up for a second and immediately dies while a lock icon flashes on your dashboard. That is the immobilizer doing its job. The car checked the grooves, saw no matching radio code from a transponder chip, and shut down the fuel or starter system to stop a theft. Mechanical keys are one thing, but what about the wireless buttons on a remote fob? The way they block radio thieves is even smarter.",
+      "visual_search": "car dashboard warning lights close up"
+    },
+    {
+      "section": "How Rolling Codes Stop Replay Attacks",
+      "narration": "If you're learning something, subscribe, it helps a lot. Think about what happens when you press the unlock button on your fob across a parking lot. Your fob sends a radio signal through the air, and anyone nearby with a radio scanner could listen in. Years ago, early remotes sent the exact same static code every time you pressed the button, meaning someone could record that signal and replay it later to unlock your doors. Modern fobs fixed this with rolling codes. Every time you press a button, both your fob and your car step forward to a brand-new code from a shared mathematical sequence. Once a code unlocks your car, the car throws that code away and never accepts it again. Even if someone records your signal in a parking lot, that recording becomes useless seconds later. That is also why pressing your buttons dozens of times far from your car can occasionally knock the fob out of sync. Wait until you see next how your own steering wheel can trap a real key inside the ignition.",
+      "visual_search": "person pressing car key fob in parking lot"
+    },
+    {
+      "section": "Why Keys Get Stuck in the Ignition",
+      "narration": "Every driver eventually hits that panic when a real key refuses to turn in the ignition, or refuses to pull out after parking. Most of the time, nothing is broken. When a key will not turn, the culprit is usually the steering wheel lock. Inside your steering column is a spring-loaded metal pin that drops into a notch when the key is out and the wheel turns slightly. If your tires rest against a curb or you leaned on the wheel while getting out, that pin wedges tightly against the notch, putting heavy sideways pressure on the ignition cylinder. Instead of forcing the key and risking a snapped blade, grip the steering wheel and gently wiggle it left and right while lightly turning the key. Once the pressure drops, the key turns smoothly. And if your key will not come out after parking, check your shifter—automatic cars use a shift interlock that blocks key removal unless you are clicked fully into Park. Speaking of modern conveniences, push-to-start cars got rid of the keyhole completely—which introduced a sneaky new trick thieves try outside your own house.",
+      "visual_search": "driver gripping car steering wheel"
+    },
+    {
+      "section": "The Signal Trick Around Keyless Cars",
+      "narration": "Push-to-start cars with smart fobs changed driving because you never have to take the fob out of your pocket. Your car checks for a weak proximity signal around the doors and inside the cabin. When the fob is close, pulling the handle unlocks the door and pressing start fires up the engine. That convenience did create a puzzle called a relay attack. Because the car only asks whether the key is nearby, thieves with signal boosters can sometimes stand near a front door, pick up the faint signal from a fob hanging inside, and relay it out to the driveway. You do not need expensive gadgets to stop this. Keeping fobs away from front doors and windows at night, or inside a metal tin or signal-blocking pouch, blocks that signal from leaking outside. Many newer fobs also go to sleep automatically after sitting still. Still, every keyless driver faces one universal headache—and the next tip is the one you will be glad you remembered.",
+      "visual_search": "push to start car button interior"
+    },
+    {
+      "section": "The Dead Battery Secret Inside Your Fob",
+      "narration": "Here is the most useful trick of all, and it saves drivers from unnecessary tow trucks every day. Suppose you walk out to your car with a push-to-start fob, pull the handle, and nothing happens because the small coin battery inside died. Most people assume they are stranded. Look closely at the back or side of your fob and you will usually find a small sliding latch or button. Slide it, and a hidden metal emergency key pulls right out of the plastic case. On some cars, the driver's door keyhole hides behind a small removable cap on the handle—pop that off, insert the blade, and unlock the door. Once inside, the car still will not sense a dead fob sitting on the seat. Remember the batteryless chip from earlier? Your smart fob still carries one inside. Hold the flat side of the dead fob directly against the start button itself—or set it in the marked backup slot in your console or steering column, depending on the car—and press start. The backup coil powers the chip and starts your engine.",
+      "visual_search": "unlocking car door handle close up"
+    },
+    {
+      "section": "Quick Recap and Next Step",
+      "narration": "Let's do a quick 20-second recap: your key hides a batteryless chip that talks to an antenna ring, rolling codes change your unlock signal with every press, a gentle wheel wiggle frees a bound ignition lock, and your push-to-start fob hides both a metal backup blade and a dead-battery start trick right against the button. Have you ever been stuck with a dead key fob battery or a locked steering wheel? Tell me what happened in the comments. And for another simple explanation of an everyday car mystery, watch our video on why your turn signal blinks twice as fast right here on the channel.",
+      "visual_search": "driver starting car engine interior"
+    }
+  ],
+  "description": "Ever wonder why a plain metal copy of your car key unlocks the door but will not start the engine? In this simple breakdown, you will learn how the batteryless transponder chip inside your key communicates with your car, how rolling codes protect your wireless fob, and why your steering wheel sometimes locks your key in place.\n\nWe also cover simple habits to protect push-to-start cars from signal relay tricks, plus the emergency hidden metal blade and dead-battery start trick built into almost every smart key fob so you never get stranded.\n\nWatch through the end for the quick recap, and drop a comment sharing if a dead key fob battery or stuck ignition has ever caught you off guard!",
+  "tags": [
+    "car key tricks",
+    "how car keys work",
+    "dead key fob trick",
+    "transponder key explained",
+    "car immobilizer",
+    "rolling codes car key",
+    "steering wheel locked",
+    "push to start dead battery",
+    "driving tips and tricks",
+    "car theft prevention",
+    "everyday car mysteries",
+    "learn in 60 seconds"
+  ],
+  "hashtags": [
+    "#carfacts",
+    "#drivingtips",
+    "#autotech"
+  ],
+  "thumbnail_text": "HIDDEN KEY TRICK",
+  "why_it_will_work": "It taps into trending interest around car theft prevention, everyday vehicle tips, and 'every car' mysteries while matching the channel's proven winning format of explaining familiar car mechanics simply.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "long",
+  "language": "English",
+  "created_at": "2026-11-16T02:14:37.508512",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261116_021431_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261116_021431_1/thumbnail.jpg",
+  "duration_sec": 411.2,
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Intro"
+    },
+    {
+      "t": 46,
+      "title": "The Tiny Chip With No Battery"
+    },
+    {
+      "t": 101,
+      "title": "Why Metal Copies Still Fail"
+    },
+    {
+      "t": 148,
+      "title": "How Rolling Codes Stop Replay Attacks"
+    },
+    {
+      "t": 205,
+      "title": "Why Keys Get Stuck in the Ignition"
+    },
+    {
+      "t": 265,
+      "title": "The Signal Trick Around Keyless Cars"
+    },
+    {
+      "t": 319,
+      "title": "The Dead Battery Secret Inside Your Fob"
+    },
+    {
+      "t": 378,
+      "title": "Quick Recap and Next Step"
+    }
+  ],
+  "credits": [
+    "Video by Rob  Cot on Pexels: https://www.pexels.com/video/car-key-in-close-up-view-2075170/",
+    "Video by Rob  Cot on Pexels: https://www.pexels.com/video/close-up-view-of-a-car-ignition-2075159/",
+    "Video by Kindel Media on Pexels: https://www.pexels.com/video/key-on-a-person-s-hand-7578842/",
+    "Video by Gustavo Fring on Pexels: https://www.pexels.com/video/woman-excited-with-the-key-of-a-car-6817063/",
+    "Video by JACK AND GOD IS GRACIOUS on Pexels: https://www.pexels.com/video/hands-in-the-dark-3566841/",
+    "Video by Rob  Cot on Pexels: https://www.pexels.com/video/key-on-ignition-2075168/",
+    "Video by AP Vibes on Pexels: https://www.pexels.com/video/a-person-is-adjusting-the-radio-on-a-blue-car-28044004/",
+    "Video by Taryn Elliott on Pexels: https://www.pexels.com/video/a-person-starting-a-luxury-sports-car-5309435/",
+    "Video by ArtHouse Studio on Pexels: https://www.pexels.com/video/a-person-starting-a-car-4565729/",
+    "Video by Yogendra  Singh on Pexels: https://www.pexels.com/video/a-person-turning-the-ignition-on-a-motorbike-3936776/",
+    "Video by KoolShooters on Pexels: https://www.pexels.com/video/a-person-forcing-to-open-the-car-door-8104039/",
+    "Video by CESAR CASANOVA on Pexels: https://www.pexels.com/video/close-up-video-of-the-car-s-speedometer-6312479/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/close-up-of-black-car-13643097/",
+    "Video by Ricky Esquivel on Pexels: https://www.pexels.com/video/close-up-video-of-a-car-speedometer-3752534/",
+    "Video by Dan Bleden on Pexels: https://www.pexels.com/video/close-up-of-an-illuminated-car-tachometer-16431350/",
+    "Video by Rodrigo Garcin on Pexels: https://www.pexels.com/video/close-up-of-driving-car-13078818/",
+    "Video by Emre Vonal on Pexels: https://www.pexels.com/video/person-walking-in-a-parking-lot-7700719/",
+    "Video by Sammy Marrco on Pexels: https://www.pexels.com/video/blue-bus-in-parking-lot-with-surrounding-cars-31782400/",
+    "Video by K on Pexels: https://www.pexels.com/video/aerial-view-of-snow-covered-parking-lot-30244582/",
+    "Video by Antoni Shkraba on Pexels: https://www.pexels.com/video/a-happy-woman-holding-the-car-key-7154224/",
+    "Video by Zuzanna Musial on Pexels: https://www.pexels.com/video/small-shopping-center-with-a-parking-lot-1315996/",
+    "Video by Luis Quintero on Pexels: https://www.pexels.com/video/a-person-wearing-black-sneakers-3757014/",
+    "Video by Nothing Ahead on Pexels: https://www.pexels.com/video/close-up-of-hand-on-car-steering-wheel-40304906/",
+    "Video by AP Vibes on Pexels: https://www.pexels.com/video/the-steering-wheel-of-a-classic-car-28044005/",
+    "Video by Михаил Косолапович on Pexels: https://www.pexels.com/video/hand-pressing-buttons-on-toyota-steering-wheel-11330932/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/a-person-s-hands-on-a-steering-wheel-8388280/",
+    "Video by KoolShooters on Pexels: https://www.pexels.com/video/a-person-tapping-fingers-on-a-steering-wheel-8102801/",
+    "Video by K on Pexels: https://www.pexels.com/video/man-inside-a-car-driving-4252063/",
+    "Video by Pavel Danilyuk on Pexels: https://www.pexels.com/video/close-up-of-a-car-interior-6157907/",
+    "Video by Rec Everywhere on Pexels: https://www.pexels.com/video/car-dashboard-ignition-startup-sequence-32084088/",
+    "Video by Alexander Pöllinger on Pexels: https://www.pexels.com/video/launching-audi-engine-with-button-on-steering-wheel-10566891/",
+    "Video by Yaroslav Shuraev on Pexels: https://www.pexels.com/video/a-person-turning-on-the-engine-of-a-car-5911023/",
+    "Video by Dario Fernandez Ruz on Pexels: https://www.pexels.com/video/a-person-starting-the-engine-of-the-car-6421467/",
+    "Video by Dre Newsome on Pexels: https://www.pexels.com/video/pressing-the-car-ignition-6636563/",
+    "Video by Pavel Danilyuk on Pexels: https://www.pexels.com/video/close-up-of-a-car-door-6157911/",
+    "Video by anandu mohan  mr on Pexels: https://www.pexels.com/video/close-up-of-a-hand-with-a-wristwatch-on-car-door-31155507/",
+    "Video by WeStarMoney  Rec on Pexels: https://www.pexels.com/video/a-man-pulling-the-door-of-his-car-to-close-4281252/",
+    "Video by Ammad Rasool on Pexels: https://www.pexels.com/video/person-repairing-a-car-handle-8065316/",
+    "Video by Pavel Danilyuk on Pexels: https://www.pexels.com/video/scratches-on-a-shiny-black-car-6157785/",
+    "Video by Anastasia  Shuraeva on Pexels: https://www.pexels.com/video/man-locking-the-hood-of-a-car-8470706/",
+    "Video by Taryn Elliott on Pexels: https://www.pexels.com/video/close-up-video-of-an-aston-martin-car-interior-5309353/",
+    "Video by Ron Lach on Pexels: https://www.pexels.com/video/back-view-of-a-young-man-starting-car-9518353/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/a-man-sitting-in-the-driver-s-seat-of-a-car-4607375/",
+    "Video by Михаил Косолапович on Pexels: https://www.pexels.com/video/hand-touching-car-interior-11330934/"
+  ],
+  "playlist": "Full Guides (Long Videos)",
+  "youtube_id": "u2P0t-pjiE4",
+  "youtube_url": "https://youtu.be/u2P0t-pjiE4",
+  "uploaded_at": "2026-11-16T02:32:36",
+  "privacy_locked": false
+}

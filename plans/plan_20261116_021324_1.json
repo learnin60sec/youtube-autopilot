@@ -1,0 +1,63 @@
+{
+  "title": "How to Jump-Start a Dead Car Safely (Part 1)",
+  "hook": "Stop! Wrong jumper cables can fry your car.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop! Wrong jumper cables can fry your car.",
+      "visual_search": "sparks flying from car battery jumper cables"
+    },
+    {
+      "section": "Step 1",
+      "narration": "Here is how to jump-start safely in three steps. First, turn both cars off and clamp red to the dead positive, then the good positive.",
+      "visual_search": "connecting red jumper cable to car battery"
+    },
+    {
+      "section": "Steps 2 and 3",
+      "narration": "Second, clamp black to the good negative, then to unpainted metal on the dead car—never its battery. Third, start the good car, wait two minutes, then start yours.",
+      "visual_search": "mechanic starting car engine hood open"
+    },
+    {
+      "section": "CTA and Cliffhanger",
+      "narration": "Like and follow for daily car tips! Ever needed a jump-start? Comment yes or no. Follow so you don't miss Part 2!",
+      "visual_search": "car headlights turning on at night"
+    }
+  ],
+  "description": "Learn how to jump-start a dead car battery safely in 3 easy steps without damaging your vehicle's electronics or causing dangerous sparks.\n\nKnowing the exact jumper cable order is an essential driving tip for every car owner. Always double-check your positive and negative terminals before connecting.\n\nFollow Learn in 60 Seconds for Part 2 and more quick auto maintenance tips!",
+  "tags": [
+    "how to jump start a car",
+    "jumper cables",
+    "dead car battery",
+    "car maintenance tips",
+    "auto repair basics",
+    "driving tips for beginners",
+    "car emergency tips",
+    "battery jump start",
+    "every car owner should know",
+    "learn in 60 seconds",
+    "car safety",
+    "vehicle tip"
+  ],
+  "hashtags": [
+    "#cartips",
+    "#drivingtips",
+    "#shorts"
+  ],
+  "thumbnail_text": "WRONG CABLE ORDER?",
+  "why_it_will_work": "Builds on the channel's high-performing safety and mistake-prevention format while tapping into evergreen 'every car' and 'vehicle tip' searches.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Car Emergency Basics",
+    "part": 1,
+    "next_part_idea": "The exact order to disconnect jumper cables safely without causing sparks or electrical damage"
+  },
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check could not run (kept as draft)"
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-16T02:13:35.548644"
+}
