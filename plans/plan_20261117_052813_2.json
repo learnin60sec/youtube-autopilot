@@ -1,0 +1,77 @@
+{
+  "title": "What Happens If You Never Clean Your Dryer Vent?",
+  "hook": "Stop running your dryer without checking this.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop running your dryer without checking this.",
+      "visual_search": "pulling thick lint clog from dryer vent"
+    },
+    {
+      "section": "The Hidden Buildup",
+      "narration": "Even when you empty the lint trap, tiny fibers still slip into the exhaust hose behind your machine. Over time, that buildup blocks hot air from escaping.",
+      "visual_search": "cleaning lint trap of clothes dryer"
+    },
+    {
+      "section": "What Happens",
+      "narration": "Clothes take forever to dry, wasting electricity and straining the motor. Worse, trapped lint is highly flammable, so extreme heat can start a fire. Unplug it and vacuum that hose out regularly.",
+      "visual_search": "vacuuming dryer vent hose behind machine"
+    },
+    {
+      "section": "Outro",
+      "narration": "Like if this helped, follow for daily home tips. When did you last clean yours? Comment below. To protect your home:",
+      "visual_search": "clean laundry room clothes dryer"
+    }
+  ],
+  "description": "Emptying the lint screen after every load is not enough. Fine lint fibers escape past the trap and build up deep inside your dryer vent hose.\n\nFind out what actually happens when a dryer vent gets clogged—from higher energy bills and longer drying times to serious fire hazards—plus the simple cleaning fix.\n\nFollow Learn in 60 Seconds for fast home maintenance hacks and everyday safety tips.",
+  "tags": [
+    "how to clean dryer vent",
+    "dryer vent cleaning",
+    "home maintenance tips",
+    "life hacks for home",
+    "dryer fire safety",
+    "clogged dryer vent",
+    "laundry room hacks",
+    "appliance care",
+    "learn in 60 seconds",
+    "home safety tips",
+    "diy home maintenance",
+    "life hacks shorts"
+  ],
+  "hashtags": [
+    "#hometips",
+    "#lifehacks",
+    "#learnin60seconds"
+  ],
+  "thumbnail_text": "HIDDEN FIRE HAZARD",
+  "why_it_will_work": "It directly targets active YouTube search demand for how to clean a dryer vent while using the channel's proven urgent warning hook and a clear What-happens-if payoff.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Howto & Style",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-17T05:30:44.672647",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261117_052813_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261117_052813_2/thumbnail.jpg",
+  "duration_sec": 28.5,
+  "chapters": [],
+  "credits": [
+    "Video by Rene Strgar on Pexels: https://www.pexels.com/video/fior-di-latte-mozzarella-cheese-falling-from-hand-in-slowmotion-15897585/",
+    "Video by June on Pexels: https://www.pexels.com/video/essential-oil-application-on-wool-dryer-balls-40504371/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/woman-putting-clothes-in-washing-machine-8756886/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/a-teenager-hanging-the-clothes-7705267/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/woman-wearing-earphones-vacuuming-the-floor-at-the-living-room-6195184/",
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/woman-putting-towels-inside-a-washing-machine-8756813/",
+    "Video by Liliana Drew on Pexels: https://www.pexels.com/video/a-woman-vacuuming-the-floor-9462892/",
+    "Video by Nilzo Farías on Pexels: https://www.pexels.com/video/modern-laundry-room-with-washer-and-dryer-38893189/",
+    "Video by apertur 2.8 on Pexels: https://www.pexels.com/video/vintage-washing-machine-in-classic-laundry-room-29454150/"
+  ],
+  "playlist": "Smart How-To Hacks",
+  "youtube_id": "_Io5vKy73Mc",
+  "youtube_url": "https://youtu.be/_Io5vKy73Mc",
+  "uploaded_at": "2026-11-17T05:32:43",
+  "privacy_locked": false
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Why Your Passenger Mirror Lies to You",
+  "hook": "Never trust your passenger mirror's distance.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never trust your passenger mirror's distance.",
+      "visual_search": "car side mirror highway traffic fast"
+    },
+    {
+      "section": "The Problem",
+      "narration": "Your driver's side mirror is flat, so cars look their true size. Since the passenger mirror sits farther away, flat glass would leave a huge blind spot.",
+      "visual_search": "driver checking car side mirror close up"
+    },
+    {
+      "section": "Explained Simply",
+      "narration": "To fix that, automakers curve the passenger glass outward. This convex shape widens your view, but shrinks cars so they look farther away than they really are.",
+      "visual_search": "highway view through car passenger side mirror"
+    },
+    {
+      "section": "Outro",
+      "narration": "Like if this helped, follow for daily car tips. Did you know why? Comment yes or no. So before you merge, remember:",
+      "visual_search": "driver checking blind spot before changing lanes"
+    }
+  ],
+  "description": "Have you noticed the warning printed on your passenger side mirror? It is there because the two side mirrors on your car are actually shaped differently for safety.\n\nIn this 60-second driving tip, learn why automakers use a convex mirror on the passenger side, how it eliminates blind spots, and why it makes approaching cars look smaller and farther away.\n\nFollow Learn in 60 Seconds for quick, practical driving tips and everyday car facts.",
+  "tags": [
+    "driving tips",
+    "driving tips for beginners",
+    "driving tips and tricks",
+    "car side mirror",
+    "objects in mirror",
+    "blind spot driving",
+    "how car mirrors work",
+    "learn in 60 seconds",
+    "car facts",
+    "driving safety",
+    "lane change tips",
+    "new driver tips"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carfacts",
+    "#learnin60seconds"
+  ],
+  "thumbnail_text": "MIRRORS LIE TO YOU",
+  "why_it_will_work": "Viewers on this channel consistently watch practical car-feature explanations like the fuel gauge arrow and blinking turn signals, and this pairs a strong curiosity hook with high-volume beginner driving search terms.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Claiming the driver's side mirror is flat is only true in some regions (like North America), as convex or aspheric driver's side mirrors are common in Europe and other parts of the world.; Saying 'Never trust your passenger mirror's distance' and that it 'lies to you' is exaggerated, since it still shows relative distance and includes a warning label where required."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-17T05:29:18.147675"
+}
