@@ -1,0 +1,76 @@
+{
+  "title": "Never Pour Hot Water On A Frozen Windshield",
+  "hook": "Stop! Never melt ice with hot water.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop! Never melt ice with hot water.",
+      "visual_search": "pouring steaming water onto frozen car windshield"
+    },
+    {
+      "section": "Myth",
+      "narration": "Many drivers think boiling water clears a frozen windshield in seconds.",
+      "visual_search": "frost and thick ice covering car windshield"
+    },
+    {
+      "section": "Fact",
+      "narration": "Here is the truth. Extreme temperature shock makes freezing glass expand too fast, causing instant cracks across your windshield. Instead, use your car's defroster and a plastic scraper to clear ice safely.",
+      "visual_search": "driver scraping ice off car windshield"
+    },
+    {
+      "section": "CTA and Loop",
+      "narration": "Like for more winter driving tips, and follow! Have you ever seen glass crack? Comment yes or no. Next time your glass freezes solid...",
+      "visual_search": "car defroster blowing warm air windshield"
+    }
+  ],
+  "description": "Trying to defrost your car in a hurry can cost you an entire windshield. Here is the real myth vs fact behind pouring hot water onto frozen auto glass, and the safer way to clear frost fast.\n\nSave this quick tip for cold mornings and share it with new drivers who need essential winter car care and driving tips.",
+  "tags": [
+    "winter driving tips",
+    "frozen windshield",
+    "car maintenance tips",
+    "driving tips for beginners",
+    "driving tips for teens",
+    "windshield crack myth",
+    "defrost car windshield",
+    "auto glass care",
+    "car owners",
+    "learn in 60 seconds",
+    "driving tips and tricks",
+    "car safety"
+  ],
+  "hashtags": [
+    "#winterdriving",
+    "#cartips",
+    "#cars"
+  ],
+  "thumbnail_text": "HOT WATER MISTAKE",
+  "why_it_will_work": "Seasonal myth-busting with a high-stakes repair consequence creates instant curiosity in the first two seconds and pairs well with November cold-weather driving searches.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-18T04:49:04.494043",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261118_044818_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261118_044818_2/thumbnail.jpg",
+  "duration_sec": 25.2,
+  "chapters": [],
+  "credits": [
+    "Video by https://kaboompics.com/ on Pexels: https://www.pexels.com/video/water-dripping-on-the-windshield-4863264/",
+    "Video by Teju on Pexels: https://www.pexels.com/video/a-car-is-shown-with-rain-on-the-windshield-19662487/",
+    "Video by I Am Sorin on Pexels: https://www.pexels.com/video/perspective-of-car-driving-in-winter-11007503/",
+    "Video by IRINA on Pexels: https://www.pexels.com/video/rain-driving-view-through-windshield-40360516/",
+    "Video by Fatih Turan on Pexels: https://www.pexels.com/video/a-man-driving-a-car-with-the-sun-setting-in-the-background-15432011/",
+    "Video by Juan Hernandez Jr on Pexels: https://www.pexels.com/video/black-car-in-snowy-winter-landscape-31057821/",
+    "Video by Ebahir on Pexels: https://www.pexels.com/video/falling-autumn-leaves-on-car-windshield-40784662/",
+    "Video by Burak The Weekender on Pexels: https://www.pexels.com/video/car-driving-in-rainy-weather-19592702/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "3LoY9FiPzFc",
+  "youtube_url": "https://youtu.be/3LoY9FiPzFc",
+  "uploaded_at": "2026-11-18T05:06:40",
+  "privacy_locked": false
+}

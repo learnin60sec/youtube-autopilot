@@ -1,1 +1,1 @@
-gemini-4-hydrogen
+gemini-3.5-flash-lite

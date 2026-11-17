@@ -1,0 +1,64 @@
+{
+  "title": "Why Your Car Headrests Actually Detach",
+  "hook": "Stop using your car headrests just to rest your head.",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "Stop using your car headrests just to rest your head. Most drivers think headrests are purely for comfort on long road trips, but they are actually critical safety devices engineered with a hidden function most people never realize. If you have ever tried to adjust your seat or clean your car, you might have pulled the headrest all the way out and wondered why it comes off so easily. It is not just to make it easier to fold your seats down or squeeze in a bulky seat cover. There is a specific, life-saving reason why car manufacturers designed these pieces to detach completely, and understanding how they work can change the way you drive. In just a moment, we are going to look past the comfort myth and reveal the real engineering purpose behind removable headrests. We will also show you the proper way to adjust yours so it actually protects your neck in a sudden stop, plus a crucial emergency feature built right into the metal posts that every driver should know about. But before we get to that emergency trick, let us clear up what these things are actually meant to do when you are driving to work every day.",
+      "visual_search": "driver adjusting car headrest close up"
+    },
+    {
+      "section": "The Comfort Myth",
+      "narration": "Let's start with what everyone gets wrong. If you look at a car seat, the headrest looks just like an adjustable pillow. Car makers know drivers want comfort on long road trips, so they make them slide up and down easily. Because of this, most people assume they are meant to support your head while you relax. But automotive engineers actually call this component a head restraint, not a headrest. Its primary job is not to let you nap during highway driving. Its true, critical job is to prevent severe whiplash during a rear-end collision by limiting how far your neck and head can snap backward. If your head restraint is set too low, it fails to protect your cervical spine when another car bumps you from behind. If you're learning something, subscribe, it helps a lot. But if safety is their only real purpose, why are they so easy to pull completely out of the seat in the first place?",
+      "visual_search": "person sitting in car adjusting seat height"
+    },
+    {
+      "section": "The Real Reason They Detach",
+      "narration": "So why do they pull all the way out of the seat? When you press the small release button at the base of the metal posts, the entire headrest slides completely free. Many drivers think this is just for replacing damaged upholstery or cleaning, but there is a much more critical emergency purpose behind it. Automotive safety standards require these posts to be strong steel rods. In a severe accident where doors jam shut or electronic windows fail, passengers can pull the headrest completely out of the seat and use those sturdy steel prongs to strike the corner of the side window glass. Because the window glass is tempered under high pressure, hitting the corner with a sharp metal rod causes the entire pane to shatter instantly, creating an escape route when every second counts. But if your headrest is sitting at the wrong height right now, it completely fails to protect your neck from a sudden jolt. The most important safety setting for everyday driving is coming up right near the end, so keep watching.",
+      "visual_search": "removing car headrest from seat"
+    },
+    {
+      "section": "How to Set It Right",
+      "narration": "Knowing that your headrest is a critical safety tool means you need to position it correctly every single time you drive a different vehicle. If the top of the headrest sits lower than the top of your head, it acts as a pivot point in a rear-end crash, actually making whiplash worse instead of better. The top of the restraint should align level with the top of your head, and the distance between the back of your head and the cushion should be as small as possible, ideally less than a couple of inches. Take five seconds today to check your height adjustment before you put your car in drive, because a properly locked position prevents dangerous neck hyperextension. But there is actually one more hidden feature built into your car seats that most drivers completely ignore every day.",
+      "visual_search": "car safety crash test dummy headrest"
+    },
+    {
+      "section": "Conclusion",
+      "narration": "To recap, those removable headrests in your vehicle are not just there to keep you comfortable on a long road trip. They are precision safety devices designed to prevent severe whiplash during a rear-end collision, and they can double as a tool to help you escape in an emergency. Taking just a few seconds to check your height alignment can make a massive difference in how well your seat protects you. Now, I want to hear from you. What is the most surprising feature hidden inside your car that you recently discovered? Let us know in the comments below. If you enjoyed learning this quick vehicle fact, go ahead and watch another video on our channel right now to become an even smarter driver.",
+      "visual_search": "person driving car safely on highway sunset"
+    }
+  ],
+  "description": "Did you know your car headrests have a hidden emergency feature? Learn why they detach completely and how they are designed to protect you. Master essential car safety tips in under 60 seconds with Learn in 60 Seconds.",
+  "tags": [
+    "car safety",
+    "headrest trick",
+    "driving tips for beginners",
+    "car features",
+    "auto maintenance",
+    "hidden car features",
+    "safe driving",
+    "car hacks",
+    "whiplash prevention",
+    "emergency car tools",
+    "driving tips and tricks",
+    "learn in 60 seconds"
+  ],
+  "hashtags": [
+    "#carsafety",
+    "#drivingtips",
+    "#carknows"
+  ],
+  "thumbnail_text": "HIDDEN HEADREST TRICK",
+  "why_it_will_work": "Leverages curiosity about a familiar car part with a surprising safety fact, matching the top-performing educational format on the channel.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "script length 803 words (want 900-2000)"
+  ],
+  "ai_provider": "gemini",
+  "format": "long",
+  "language": "English",
+  "created_at": "2026-11-18T04:49:27.349663"
+}

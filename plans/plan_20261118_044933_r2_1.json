@@ -1,0 +1,150 @@
+{
+  "title": "Why Your Car Tires Have Colored Dots on the Sidewall",
+  "hook": "Stop ignoring those mysterious colored dots painted right on your new car tires.",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "Stop ignoring those mysterious colored dots painted right on your new car tires. If you have ever looked closely at the side of a brand-new tire, you probably noticed a bright red or yellow dot near the rim. Most people assume it is just a factory inspection mark that will wash off, but that dot actually serves a critical engineering purpose that ensures your car drives smoothly at highway speeds. In fact, ignoring how these dots line up during installation can lead to mysterious vibrations that mechanics struggle to balance. Today, we are going to look at what those dots actually mean, how tire technicians use them, and the absolute most important rule to remember about them before you buy your next set of tires.",
+      "visual_search": "close up of a new car tire sidewall with colored dot"
+    },
+    {
+      "section": "The Manufacturing Imperfection",
+      "narration": "To understand why those colored dots are there, you have to look at how tires are actually built. No tire rolls out of the factory completely uniform all the way around its circle. Because of how the rubber layers are pressed and baked in a mold, every single tire ends up with tiny variations in weight and stiffness. One spot might be just a fraction heavier or stiffer than the side directly across from it. When you bolt that tire onto a metal wheel, which also has its own weight imbalances, those two imperfections combine. At highway speeds, even a slight imbalance causes the wheel to bounce up and down thousands of times a minute, creating a very annoying vibration right in your steering wheel. Tire makers needed a simple visual code to help mechanics cancel out these quirks before the car ever touches the pavement. But how do you know where the heaviest spot actually is?",
+      "visual_search": "tire factory manufacturing assembly line"
+    },
+    {
+      "section": "Yellow Dots and Weight Balance",
+      "narration": "That is where the yellow dot comes in. A yellow dot indicates the lightest point of the tire. Every wheel rim also has a heaviest point, usually marked by the valve stem where the metal air valve is attached. When a tire technician mounts a new tire, their goal is to counteract the heavy spot of the wheel with the light spot of the tire. By aligning the yellow dot directly opposite the valve stem, the heavy part of the wheel balances out the light part of the tire. This simple alignment drastically reduces the amount of stick-on lead weights the mechanic has to use to achieve a smooth balance. It is a brilliant example of physics solving a manufacturing problem with a dab of yellow paint. If you're learning something, subscribe, it helps a lot. But what about the red dot right next to it? That tells a completely different story.",
+      "visual_search": "mechanic balancing a car tire on a machine"
+    },
+    {
+      "section": "Red Dots and Radial Runout",
+      "narration": "If a yellow dot is about weight, what does a red dot mean? A red dot indicates the point of maximum radial force variation, also known as the high point of the tire. Even if a tire is perfectly balanced in weight, it might be slightly taller or stiffer in one specific spot. If you are learning something new, subscribe, it helps a lot. High-end car manufacturers and professional tire shops pay very close attention to this red mark. They match the red dot on rumbling tires with a corresponding low spot or paint mark on the metal wheel rim itself, a process called match mounting. When done correctly, this eliminates the minor up-and-down hop that weight balancing alone cannot fix. But what happens if you buy a used tire or the dots are completely missing?",
+      "visual_search": "mechanic pointing at car wheel rim"
+    },
+    {
+      "section": "What Happens When the Dots Disappear",
+      "narration": "Eventually, as you drive, those colored dots fade away or get covered in brake dust and road grime. Do not worry at all. Once the tire has been driven on for a few miles, the initial factory alignment marks have already served their primary purpose. When you take your car in for a tire rotation or a balance check later on, the technician relies on computerized spin-balancing machines rather than the painted dots. The machine spins the wheel, detects where the heavy spots are in real time, and tells the technician exactly where to place small weight clamps on the rim. Those factory dots are simply a shortcut for the initial installation phase, designed to get the tire as close to perfect balance as possible right out of the box. But what happens if you buy a brand new tire and notice that the colored dots are missing entirely before it is even mounted?",
+      "visual_search": "car driving on a sunny highway"
+    },
+    {
+      "section": "The Most Important Rule",
+      "narration": "That brings us to the most important point of all, which saves you from a very common tire installation mistake. Many DIY car owners assume that all tire dots must face outward toward the outside of the vehicle so the wheels look uniform. That is completely false. The colored dots are strictly for manufacturing balance and should never dictate which way the tread pattern faces. Always prioritize the directional arrows or the inside and outside sidewall labels printed on the rubber over the colored dots. If you put a directional tire on backward just to make the dots face out, your car will have terrible traction in the rain because the tread cannot push water away properly. What is the strangest mark you have ever noticed on your car? Let us know in the comments below. Next, let us quickly recap everything you need to know about these dots before your next tire change.",
+      "visual_search": "mechanic inspecting tire tread depth"
+    },
+    {
+      "section": "Recap",
+      "narration": "To quickly recap everything we covered today: those tiny colored dots on your car tires are not just random factory stamps. Yellow dots point to the lightest spot on the tire, which helps mechanics balance the wheel by lining it up with the heavy valve stem. Red dots mark the point of maximum radial runout or stiffness, helping create a perfectly smooth ride when matched up correctly with your wheel rim. Once the tires are mounted and driven for a while, those paint marks might rub off or fade away completely, but you do not need to worry because the balancing job is already done. Here is my question for you: did you ever notice these colored dots on your tires before today, or did you think they were just part of the manufacturing process? Let me know in the comments below. If you enjoyed learning this quick automotive secret, make sure to watch our other short breakdown videos on the channel right now.",
+      "visual_search": "modern car wheels spinning on display"
+    }
+  ],
+  "description": "Ever wonder what those colored dots on your new car tires actually mean? In this quick guide, learn the difference between red and yellow tire dots, how mechanics use them to prevent vibrations, and the biggest mistake to avoid when getting new tires installed.",
+  "tags": [
+    "car tires",
+    "tire dots",
+    "driving tips",
+    "car maintenance",
+    "mechanic secrets",
+    "tire balancing",
+    "yellow dot on tire",
+    "red dot on tire",
+    "auto repair",
+    "car tips for beginners",
+    "vehicle maintenance",
+    "learn in 60 seconds"
+  ],
+  "hashtags": [
+    "#cars",
+    "#mechanic",
+    "#tips"
+  ],
+  "thumbnail_text": "WHAT DO TIRE DOTS MEAN?",
+  "why_it_will_work": "Tapped into the high-performing curiosity style about everyday hidden car features that drivers see constantly but never understand.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "long",
+  "language": "English",
+  "created_at": "2026-11-18T04:51:49.745189",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261118_044933_r2_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261118_044933_r2_1/thumbnail.jpg",
+  "duration_sec": 336.5,
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Intro"
+    },
+    {
+      "t": 41,
+      "title": "The Manufacturing Imperfection"
+    },
+    {
+      "t": 92,
+      "title": "Yellow Dots and Weight Balance"
+    },
+    {
+      "t": 140,
+      "title": "Red Dots and Radial Runout"
+    },
+    {
+      "t": 186,
+      "title": "What Happens When the Dots Disappear"
+    },
+    {
+      "t": 236,
+      "title": "The Most Important Rule"
+    },
+    {
+      "t": 286,
+      "title": "Recap"
+    }
+  ],
+  "credits": [
+    "Video by Matthias Groeneveld on Pexels: https://www.pexels.com/video/a-tire-on-top-of-a-car-with-the-sun-shining-27568797/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/close-up-view-of-a-sports-car-wheel-16815343/",
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-of-vintage-car-wheel-hubcap-31220491/",
+    "Video by Jarod Kuhn on Pexels: https://www.pexels.com/video/close-up-video-of-moving-car-wheel-1002790/",
+    "Video by WeStarMoney  Rec on Pexels: https://www.pexels.com/video/close-up-of-custom-car-wheels-at-indoor-auto-show-34748400/",
+    "Video by Emrul Kausar Emon on Pexels: https://www.pexels.com/video/motorcycle-components-assembly-line-in-factory-30075964/",
+    "Video by Emrul Kausar Emon on Pexels: https://www.pexels.com/video/motorcycle-assembly-line-at-factory-30283093/",
+    "Video by Emrul Kausar Emon on Pexels: https://www.pexels.com/video/motorcycle-assembly-line-in-action-30283095/",
+    "Video by Dominik Zítka on Pexels: https://www.pexels.com/video/industrial-machine-components-assembly-line-31801787/",
+    "Video by Emrul Kausar Emon on Pexels: https://www.pexels.com/video/motorcycle-factory-production-line-overview-30288953/",
+    "Video by Emrul Kausar Emon on Pexels: https://www.pexels.com/video/motorcycle-engine-assembly-line-workers-30288947/",
+    "Video by utopia 36 on Pexels: https://www.pexels.com/video/a-man-is-working-on-a-tire-with-a-wrench-14514799/",
+    "Video by Vitaliy  Izonin on Pexels: https://www.pexels.com/video/a-man-walking-through-a-garage-with-a-car-20693188/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/a-worker-using-an-impact-wrench-on-a-vehicle-s-wheel-8987207/",
+    "Video by Christopher Rodriguez on Pexels: https://www.pexels.com/video/high-speed-car-testing-on-dynamometer-28722030/",
+    "Video by Gustavo Fring on Pexels: https://www.pexels.com/video/a-mechanic-changing-a-wheel-6870347/",
+    "Video by Gustavo Fring on Pexels: https://www.pexels.com/video/person-cleaning-the-car-wheel-by-using-a-brush-4822721/",
+    "Video by K on Pexels: https://www.pexels.com/video/rotating-vintage-mercedes-car-wheel-close-up-31220510/",
+    "Video by WeStarMoney  Rec on Pexels: https://www.pexels.com/video/car-music-hood-engine-4101790/",
+    "Video by Anastasia  Shuraeva on Pexels: https://www.pexels.com/video/man-rolling-wheels-of-a-car-8470697/",
+    "Video by utopia 36 on Pexels: https://www.pexels.com/video/a-car-with-its-wheels-and-tires-on-the-ground-18101976/",
+    "Video by Jer Rey on Pexels: https://www.pexels.com/video/a-car-driving-on-a-highway-with-a-bridge-in-the-background-17956701/",
+    "Video by WeStarMoney  Rec on Pexels: https://www.pexels.com/video/driving-on-a-highway-with-mountain-view-in-front-4101508/",
+    "Video by Ambient_Nature_ Atmosphere on Pexels: https://www.pexels.com/video/time-lapse-of-a-person-driving-a-car-4738583/",
+    "Video by K on Pexels: https://www.pexels.com/video/a-road-trip-on-a-city-highway-5531385/",
+    "Video by utopia 36 on Pexels: https://www.pexels.com/video/time-lapse-of-a-car-on-a-road-trip-13164376/",
+    "Video by utopia 36 on Pexels: https://www.pexels.com/video/mechanic-fixing-car-tire-14514795/",
+    "Video by Gustavo Fring on Pexels: https://www.pexels.com/video/an-auto-mechanic-rolling-a-tire-in-a-garage-6870349/",
+    "Video by Erkan Avanoğlu on Pexels: https://www.pexels.com/video/checking-and-repairing-scooter-tire-outdoors-36704968/",
+    "Video by Gustavo Fring on Pexels: https://www.pexels.com/video/repairman-checking-a-truck-tire-6685053/",
+    "Video by Enis Yavuz on Pexels: https://www.pexels.com/video/worn-out-tire-5302694/",
+    "Video by Hakan Kayahan on Pexels: https://www.pexels.com/video/close-up-of-car-tire-on-a-dirt-road-29902177/",
+    "Video by Harvey Tan Villarino on Pexels: https://www.pexels.com/video/exciting-car-drifting-race-on-outdoor-track-35661876/",
+    "Video by Michael Pronin on Pexels: https://www.pexels.com/video/sleek-interior-of-modern-luxury-car-29498821/",
+    "Video by LayG Traveller on Pexels: https://www.pexels.com/video/colorful-classic-and-sports-cars-on-display-30038715/",
+    "Video by K on Pexels: https://www.pexels.com/video/stunning-vintage-blue-car-in-showroom-31220615/",
+    "Video by LayG Traveller on Pexels: https://www.pexels.com/video/sleek-car-interior-at-auto-exhibit-30010033/",
+    "Video by Dan Cristian Pădureț on Pexels: https://www.pexels.com/video/rear-wheel-burnouts-for-race-car-at-the-starting-point-3088697/"
+  ],
+  "playlist": "Full Guides (Long Videos)",
+  "youtube_id": "Dl_-7cemTrk",
+  "youtube_url": "https://youtu.be/Dl_-7cemTrk",
+  "uploaded_at": "2026-11-18T05:06:27",
+  "privacy_locked": false
+}

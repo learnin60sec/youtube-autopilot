@@ -1,0 +1,81 @@
+{
+  "title": "Why Your Rearview Mirror Has This Tab (Part 1)",
+  "hook": "Never ignore this tiny tab on your mirror.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never ignore this tiny tab on your mirror.",
+      "visual_search": "driver blinded by bright car headlights night"
+    },
+    {
+      "section": "Problem",
+      "narration": "At night, bright headlights behind you can blind your eyes fast. Most drivers just squint and suffer.",
+      "visual_search": "bright headlights in car rearview mirror"
+    },
+    {
+      "section": "Surprising Fact",
+      "narration": "Instead, flip that little tab forward. Your rearview mirror actually uses wedge-shaped glass. Flipping it tilts the angle so harsh glare bounces away, leaving a much dimmer image you can safely see.",
+      "visual_search": "hand flipping car rearview mirror tab"
+    },
+    {
+      "section": "CTA and Cliffhanger",
+      "narration": "Like if this helped, follow for daily driving tips. Do you use this tab? Comment yes or no. Follow so you don't miss Part 2!",
+      "visual_search": "car dashboard interior driving at night"
+    }
+  ],
+  "description": "Most new drivers have no idea what the small lever under their rearview mirror actually does. In Part 1 of our hidden mirror tricks series, learn the simple physics behind the day-night wedge prism that stops blinding headlights in one second.\n\nWhether you are learning driving tips for beginners or driving on dark highways, knowing how to use your mirror correctly keeps your eyes safe and focused on the road ahead.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips and tricks",
+    "car mirror trick",
+    "rearview mirror tab",
+    "night driving tips",
+    "driving tips for new drivers",
+    "driving tips for teens",
+    "car features explained",
+    "learn in 60 seconds",
+    "auto tips",
+    "car safety tips",
+    "how to drive a car"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#cars",
+    "#cartricks"
+  ],
+  "thumbnail_text": "HIDDEN MIRROR TRICK",
+  "why_it_will_work": "Everyday car feature explainers like our turn signal and fuel gauge videos consistently outperform generic advice on the channel, and this solves a common night-driving frustration searched by beginners.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Hidden Car Mirror Tricks",
+    "part": 1,
+    "next_part_idea": "How to position your side mirrors to eliminate dangerous blind spots"
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-18T04:49:03.877806",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261118_044818_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261118_044818_1/thumbnail.jpg",
+  "duration_sec": 26.2,
+  "chapters": [],
+  "credits": [
+    "Video by Vietrov on Pexels: https://www.pexels.com/video/a-car-driving-through-the-snow-at-night-19797397/",
+    "Video by KADO FUETA on Pexels: https://www.pexels.com/video/car-driving-along-a-highway-on-a-rainy-night-17243521/",
+    "Video by Yunus KARA on Pexels: https://www.pexels.com/video/a-car-is-shown-in-the-rear-view-mirror-17907893/",
+    "Video by Ольга Шилова on Pexels: https://www.pexels.com/video/a-car-mirror-with-the-sunset-in-the-background-27990061/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/thoughtful-woman-driving-in-car-rearview-mirror-35585181/",
+    "Video by Diana ✨ on Pexels: https://www.pexels.com/video/a-car-is-shown-in-the-rear-view-mirror-with-a-view-of-a-grain-silo-18575769/",
+    "Video by apertur 2.8 on Pexels: https://www.pexels.com/video/sunset-reflection-in-car-side-mirror-on-city-street-35705340/",
+    "Video by UMUT DAĞLI on Pexels: https://www.pexels.com/video/a-car-driving-on-a-road-at-night-27700575/",
+    "Video by Videas on Pexels: https://www.pexels.com/video/driving-through-city-streets-at-night-29484564/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "Ew-Q2uG_phw",
+  "youtube_url": "https://youtu.be/Ew-Q2uG_phw",
+  "uploaded_at": "2026-11-18T05:06:32",
+  "privacy_locked": false
+}
