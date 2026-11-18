@@ -1,0 +1,68 @@
+{
+  "title": "3 Common Windshield Defroster Mistakes Everyone Makes",
+  "hook": "Stop using your defroster the wrong way.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop using your defroster the wrong way.",
+      "visual_search": "foggy car windshield interior close up"
+    },
+    {
+      "section": "Mistakes",
+      "narration": "First, never blast maximum heat on freezing glass instantly. Second, always turn off internal air circulation to pull in dry outside air. Third, do not wipe the inside glass with a dirty cloth.",
+      "visual_search": "driver pressing car dashboard button"
+    },
+    {
+      "section": "Fix and Loop",
+      "narration": "Use moderate air and clear moisture instantly. Like if this helped, follow for daily driving tips. Did you know this? Comment yes or no, because",
+      "visual_search": "clear car windshield view from inside driving"
+    }
+  ],
+  "description": "Learn how to use your car defroster correctly and clear foggy windows fast. Avoid these three common defroster mistakes that most drivers make during cold weather.\n\nSubscribe for more quick driving tips.",
+  "tags": [
+    "driving tips",
+    "car tips",
+    "defroster",
+    "foggy windows",
+    "car hacks",
+    "driving for beginners",
+    "winter driving",
+    "car maintenance",
+    "learn in 60 seconds",
+    "automotive"
+  ],
+  "hashtags": [
+    "#cartips",
+    "#drivingtips",
+    "#hacks"
+  ],
+  "thumbnail_text": "DEFROSTER MISTAKES",
+  "why_it_will_work": "Leverages the proven high-performing instructional format of pointing out specific common car mistakes with clear fixes.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-19T04:19:22.082589",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261119_041921_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261119_041921_1/thumbnail.jpg",
+  "duration_sec": 23.0,
+  "chapters": [],
+  "credits": [
+    "Video by Nothing Ahead on Pexels: https://www.pexels.com/video/close-up-of-raindrops-on-car-window-40057138/",
+    "Video by Rishabh Kaple on Pexels: https://www.pexels.com/video/rainy-day-drive-through-foggy-window-38433795/",
+    "Video by khezez  | خزاز on Pexels: https://www.pexels.com/video/close-up-of-car-start-button-activation-35585186/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-interior-dashboard-close-up-36474525/",
+    "Video by Sina Rezakhani on Pexels: https://www.pexels.com/video/modern-car-interior-with-sleek-dashboard-36202861/",
+    "Video by Nothing Ahead on Pexels: https://www.pexels.com/video/view-from-a-car-driving-during-rain-12601918/",
+    "Video by Yaroslav Shuraev on Pexels: https://www.pexels.com/video/a-video-of-a-rainy-day-from-inside-a-car-4434282/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "X5iV--5zzWk",
+  "youtube_url": "https://youtu.be/X5iV--5zzWk",
+  "uploaded_at": "2026-11-19T04:22:14",
+  "privacy_locked": false
+}
