@@ -1,0 +1,70 @@
+{
+  "title": "Why Your Windshield Wipers Have This Hidden Position",
+  "hook": "Most drivers park their wipers completely wrong.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Most drivers park their wipers completely wrong in winter.",
+      "visual_search": "car windshield wipers in snow close up"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Leaving them down lets freezing snow lock the rubber directly against the glass. Using the service mode flips them upward so they never freeze stuck to your windshield.",
+      "visual_search": "person lifting car wiper blade on snowy day"
+    },
+    {
+      "section": "Call to action & Loop",
+      "narration": "Drop a like if this helped, follow for daily car tips. Have you tried this trick? Comment yes or no. Most drivers...",
+      "visual_search": "car driving on wet highway dashcam view"
+    }
+  ],
+  "description": "Learn the correct way to position your windshield wipers during freezing weather to prevent frozen rubber and damaged motors. This quick driving tip protects your vehicle and improves morning visibility instantly.\n\nSubscribe for more fast automotive tips designed to make driving safer and easier every single day.",
+  "tags": [
+    "driving tips",
+    "winter driving",
+    "car maintenance",
+    "windshield wipers",
+    "car hacks",
+    "driver tips",
+    "auto advice",
+    "car care",
+    "vehicle maintenance",
+    "learn in 60 seconds",
+    "weather tips",
+    "cold weather driving",
+    "car guide"
+  ],
+  "hashtags": [
+    "#carhacks",
+    "#drivingtips",
+    "#winter"
+  ],
+  "thumbnail_text": "WIPER MISTAKE",
+  "why_it_will_work": "Builds directly on the successful winter driving and maintenance videos on the channel by explaining a simple everyday car feature clearly.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-20T04:21:55.804574",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261120_042154_2/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261120_042154_2/thumbnail.jpg",
+  "duration_sec": 18.8,
+  "chapters": [],
+  "credits": [
+    "Video by Burak The Weekender on Pexels: https://www.pexels.com/video/car-driving-in-rainy-weather-19592702/",
+    "Video by Juan Hernandez Jr on Pexels: https://www.pexels.com/video/black-car-in-snowy-winter-landscape-31057821/",
+    "Video by Nothing Ahead on Pexels: https://www.pexels.com/video/raindrops-on-windshield-with-wiper-in-action-40057827/",
+    "Video by Ebahir on Pexels: https://www.pexels.com/video/falling-autumn-leaves-on-car-windshield-40784662/",
+    "Video by Zero51  ❤ 🇵🇰 on Pexels: https://www.pexels.com/video/view-from-a-car-driving-along-a-highway-during-rain-islamabad-pakistan-12604757/",
+    "Video by Image Hunter on Pexels: https://www.pexels.com/video/driving-car-on-road-13229385/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "U_MUh-RMhbM",
+  "youtube_url": "https://youtu.be/U_MUh-RMhbM",
+  "uploaded_at": "2026-11-20T04:39:09",
+  "privacy_locked": false
+}

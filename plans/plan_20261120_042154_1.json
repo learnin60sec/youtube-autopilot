@@ -1,0 +1,74 @@
+{
+  "title": "Why Your Car Has This Emergency Lever (Part 1)",
+  "hook": "Stop! Never open your doors like this.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop! Never open your doors like this in an emergency.",
+      "visual_search": "close up hand pulling car door handle interior"
+    },
+    {
+      "section": "Explanation",
+      "narration": "Many modern cars have a hidden mechanical release cable underneath the trim if electronic power fails. Pulling the regular handle repeatedly won't work when the battery is completely dead.",
+      "visual_search": "mechanic hand pointing inside car door panel"
+    },
+    {
+      "section": "Call to action & Loop",
+      "narration": "Like if this helped, follow so you don't miss Part 2! Did you know about this cable? Comment yes or no. Stop!",
+      "visual_search": "driver sitting inside car dashboard lights"
+    }
+  ],
+  "description": "Discover the hidden emergency door release cable in your car that most owners never notice. Knowing this simple mechanical backup can save you in unexpected situations when electronic power fails completely.\n\nWatch Part 2 for the exact location of this lever on different vehicle models and how to use it safely.",
+  "tags": [
+    "driving tips",
+    "car hacks",
+    "emergency car tips",
+    "car features",
+    "hidden car features",
+    "auto advice",
+    "driver safety",
+    "car maintenance",
+    "learn in 60 seconds",
+    "vehicle tips",
+    "new driver help",
+    "car manual secrets",
+    "automotive knowledge"
+  ],
+  "hashtags": [
+    "#cartips",
+    "#driving",
+    "#safety"
+  ],
+  "thumbnail_text": "HIDDEN CAR LEVER",
+  "why_it_will_work": "Leverages the proven high retention of hidden car feature videos on the channel, using a part 1 series structure to drive immediate follows.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Emergency Lever Series",
+    "part": 1,
+    "next_part_idea": "How to find and pull the secret manual trunk and door releases on standard vehicles."
+  },
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-20T04:21:55.152865",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261120_042154_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261120_042154_1/thumbnail.jpg",
+  "duration_sec": 19.1,
+  "chapters": [],
+  "credits": [
+    "Video by Tima Miroshnichenko on Pexels: https://www.pexels.com/video/white-car-door-handle-6873502/",
+    "Video by Ron Lach on Pexels: https://www.pexels.com/video/close-up-of-a-person-opening-a-locker-9145018/",
+    "Video by setengah lima sore on Pexels: https://www.pexels.com/video/asian-mechanic-fixing-car-engine-outdoors-37416387/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-interior-dashboard-close-up-36474525/",
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/man-sitting-on-the-ambulance-driver-seat-6520256/",
+    "Video by Honye Sanges on Pexels: https://www.pexels.com/video/a-woman-smiling-while-sitting-on-a-car-seat-9035107/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "-mthBmWnTAA",
+  "youtube_url": "https://youtu.be/-mthBmWnTAA",
+  "uploaded_at": "2026-11-20T04:39:02",
+  "privacy_locked": false
+}

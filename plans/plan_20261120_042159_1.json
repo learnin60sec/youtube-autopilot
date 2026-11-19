@@ -1,0 +1,62 @@
+{
+  "title": "3 Common Steering Wheel Mistakes Ruining Your Steering Column",
+  "hook": "Stop forcing your steering wheel all the way to the side when you park your car.",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "Stop forcing your steering wheel all the way to the side when you park your car. Most drivers do this every single day without realizing it sends massive mechanical stress directly into the steering column and pump. Today, we are breaking down three everyday steering habits that quietly wear down your vehicle's front end, and the easy adjustments you can make right now to avoid costly mechanic visits. From parking habits to how you grip the wheel in tight spaces, small changes in your daily routine can dramatically extend the life of your steering system. Make sure to stick around for the third mistake on our list, because it is the exact habit most drivers practice constantly without knowing the damage it causes. Let us jump straight into the first mistake you need to stop making immediately.",
+      "visual_search": "driver turning steering wheel inside car"
+    },
+    {
+      "section": "Mistake 1: Hard Locking",
+      "narration": "The first major mistake is hard locking your steering wheel. This happens when you crank the wheel all the way to the absolute limit until it hits the internal stop and you keep applying force. When you hold the steering wheel hard against the lock while your engine is running, the power steering pump is forced to work at maximum pressure. Doing this constantly overheats the fluid and puts extreme stress on the hoses and seals, leading to expensive leaks down the road. The fix is remarkably simple. Whenever you pull into a tight parking spot and hit that full turn, just back off the wheel by about an inch. That tiny release instantly relieves the hydraulic pressure. If you're learning something, subscribe, it helps a lot. But the next mistake happens even before you start moving your car, and it's probably destroying your tires right now.",
+      "visual_search": "close up of car steering wheel turning"
+    },
+    {
+      "section": "Mistake 2: Dry Steering",
+      "narration": "The second mistake is dry steering, which simply means turning your steering wheel from side to side while your car is completely stationary. We have all done it while trying to squeeze into a tight parking spot. But doing this creates massive, grinding friction between your heavy front tires and the rough asphalt underneath them. Because the car is not moving, the tires have to fight against the stationary ground, which places an enormous physical load on your steering rack, tie rods, and overall suspension system. Over time, this constant strain wears down expensive parts that are completely avoidable. The correct, healthy habit is to always let your car creep forward or backward just a tiny fraction of an inch while you turn the wheel. That slight rolling motion completely eliminates the ground friction and saves your steering components from heavy wear. But the third mistake is the one that catches almost every driver off guard, and it can actually damage your steering mechanism faster than you think.",
+      "visual_search": "car tires turning on asphalt"
+    },
+    {
+      "section": "Mistake 3: One Hand Palm Spinning",
+      "narration": "Have you ever seen someone park in a tight spot by pressing the palm of their hand flat against the steering wheel and spinning it as fast as they can? It looks like a shortcut, but it is actually the third major mistake that wears down your steering system. When you use just the palm of your hand, you lose your grip stability. If your hand slips while you are pulling out of a parallel parking space, you suddenly lose control of the wheel at the exact moment you need it most. Plus, that rapid, sliding palm motion creates uneven friction and puts abrupt, unnatural twisting force right through the center column and the steering mechanism. Over time, it creates unnecessary wear on the internal components that connect your steering wheel to your front tires. Instead of the palm spin, use a smooth hand-over-hand technique. It gives you total control, keeps your hands securely positioned, and protects your car from premature mechanical strain. But what about the hidden danger hiding right beneath your feet while you drive? Let us look at that next.",
+      "visual_search": "driver hands on steering wheel close up"
+    },
+    {
+      "section": "Recap and Outro",
+      "narration": "Let's do a quick wrap-up so you can protect your car starting today. First, remember to give the steering wheel just a tiny bit of breathing room instead of pulling it hard against the lock every time you pull into a tight parking space. Second, try to get your car moving just an inch before you turn the wheels, which saves your tires and your suspension components from fighting the friction of standing completely still on dry pavement. And third, ditch the one-hand palm spin in favor of a smooth hand-over-hand motion. Your steering column, your tires, and your wallet will thank you for making these small adjustments to your daily driving routine. We want to hear from you: which of these three habits caught you by surprise, or which one do you catch yourself doing the most often? Drop your answer in the comments below. If you enjoyed learning how to keep your car running smoothly, go ahead and click on the next video showing up on your screen right now for more quick maintenance tips. Thanks for watching, and drive safe out there.",
+      "visual_search": "modern car dashboard and steering wheel"
+    }
+  ],
+  "description": "Learn the 3 most common steering wheel mistakes that damage your car's steering system. Discover simple driving habits to protect your vehicle and avoid costly repairs.",
+  "tags": [
+    "driving tips",
+    "steering wheel mistakes",
+    "car care",
+    "driving for beginners",
+    "car maintenance",
+    "vehicle tips",
+    "how to drive",
+    "safe driving",
+    "car repair tips",
+    "driver education"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carmaintenance",
+    "#cardamage"
+  ],
+  "thumbnail_text": "STOP DOING THIS",
+  "why_it_will_work": "Leverages high-intent searches for driving tips and common mechanical mistakes that drivers want to fix to save money.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "script length 820 words (want 900-2000)"
+  ],
+  "ai_provider": "gemini",
+  "format": "long",
+  "language": "English",
+  "created_at": "2026-11-20T04:22:06.096162"
+}
