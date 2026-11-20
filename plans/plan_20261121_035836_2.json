@@ -1,0 +1,60 @@
+{
+  "title": "Why Your Car Has This Emergency Lever (Part 2)",
+  "hook": "Part 2! Never get trapped inside your trunk.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Part 2! Never get trapped inside your trunk.",
+      "visual_search": "car trunk interior dark emergency latch"
+    },
+    {
+      "section": "Explanation",
+      "narration": "If your battery dies or power locks fail, every car built after 2001 has a hidden glow-in-the-dark emergency lever inside the trunk.",
+      "visual_search": "hand pulling glowing emergency trunk release handle"
+    },
+    {
+      "section": "Detail",
+      "narration": "To reach it from inside the cabin, locate the manual seat release pull cords behind your rear headrests to fold the seats down.",
+      "visual_search": "person pulling rear seat fold latch inside vehicle"
+    },
+    {
+      "section": "CTA",
+      "narration": "Like if this helped, follow for more life hacks. Have you checked your trunk release? Comment below.",
+      "visual_search": "car trunk closing modern sedan"
+    }
+  ],
+  "description": "Part 2 of our Emergency Lever Series! Discover how to find and use your car's hidden emergency trunk and seat releases during a power outage or lock failure.\n\nFollow Learn in 60 Seconds for daily vehicle hacks and essential life safety tips!",
+  "tags": [
+    "life hacks",
+    "car emergency",
+    "trunk release",
+    "car hacks",
+    "hidden car features",
+    "emergency lever",
+    "life hacks you didn't know",
+    "car safety",
+    "auto hacks",
+    "learn in 60 seconds"
+  ],
+  "hashtags": [
+    "#lifehacks",
+    "#carhacks",
+    "#emergencytips"
+  ],
+  "thumbnail_text": "SECRET EMERGENCY RELEASE",
+  "why_it_will_work": "Continues a top-performing series on the channel, fulfilling the Part 2 promise with accurate safety knowledge and capitalizing on popular 'life hacks' search traffic.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Emergency Lever Series",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: The claim that 'every car built after 2001' has an emergency trunk release is an overgeneralization; FMVSS 401 is a US regulation applying to passenger cars sold in the US, not a global rule for all vehicle types.; Not all cars feature fold-down rear seats, nor do all models place seat releases behind the rear headrests."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-21T03:58:46.936989"
+}

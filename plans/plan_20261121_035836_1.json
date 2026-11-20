@@ -1,0 +1,58 @@
+{
+  "title": "What Happens If Your Brakes Fail on the Highway?",
+  "hook": "What happens if your brakes completely fail?",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "What happens if your brakes completely fail?",
+      "visual_search": "car driving on busy highway fast"
+    },
+    {
+      "section": "Explanation",
+      "narration": "If your brake pedal goes straight to the floor, do not panic. Simply pull and hold your electronic parking brake switch.",
+      "visual_search": "driver hand pulling electronic parking brake button switch"
+    },
+    {
+      "section": "Mechanism",
+      "narration": "Instead of spinning out, your car's computer activates the ABS system, safely bringing your vehicle to a controlled stop.",
+      "visual_search": "modern car coming to smooth safe stop on road"
+    },
+    {
+      "section": "CTA",
+      "narration": "Like if this helped, follow for daily driving safety tips. Did you know your car could do this? Comment yes or no.",
+      "visual_search": "driver holding steering wheel safely"
+    }
+  ],
+  "description": "Learn what happens when your car brakes fail on the highway and how modern electronic parking brakes can save your life in an emergency.\n\nSubscribe to Learn in 60 Seconds for daily driving tips and automotive safety hacks!",
+  "tags": [
+    "driving tips",
+    "car hacks",
+    "emergency braking",
+    "driving safety",
+    "brakes failed",
+    "electronic parking brake",
+    "car safety features",
+    "how to stop a car",
+    "driving tips for beginners",
+    "auto tips",
+    "learn in 60 seconds"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carsafety",
+    "#carhacks"
+  ],
+  "thumbnail_text": "BRAKES FAILED? DO THIS!",
+  "why_it_will_work": "Leverages high search interest in highway driving safety and beginner driving tips while delivering a surprising, practical safety solution in under 60 seconds.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Assumes all cars have an electronic parking brake (EPB) switch, ignoring vehicles with traditional mechanical handbrakes.; Mechanical handbrakes bypass the ABS system and can lock the rear wheels, potentially causing a vehicle to spin out at highway speeds.; Omits critical emergency steps for brake failure, such as downshifting to use engine braking and steering to a safe area."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-21T03:58:42.292286"
+}
