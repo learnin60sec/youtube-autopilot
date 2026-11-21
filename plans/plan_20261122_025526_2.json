@@ -1,0 +1,63 @@
+{
+  "title": "Why Your Car Has This Emergency Lever (Part 2)",
+  "hook": "Part 2! Find your car's hidden emergency exit.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Part 2! Find your car's hidden emergency exit.",
+      "visual_search": "glowing trunk release handle in dark trunk"
+    },
+    {
+      "section": "Mistake 1 and Fix",
+      "narration": "Mistake one: getting trapped when your electronic doors lose power. Fix: look inside your door pocket for a secret mechanical pull lever.",
+      "visual_search": "hand pulling car door handle mechanism"
+    },
+    {
+      "section": "Mistake 2 and Fix",
+      "narration": "Mistake two: not knowing how to exit a trunk. Fix: pull the glow-in-the-dark escape handle required inside modern trunks.",
+      "visual_search": "hand pulling illuminated trunk release"
+    },
+    {
+      "section": "Mistake 3 and Fix",
+      "narration": "Mistake three: waiting for an emergency to locate them. Trace your manual emergency cables today so you are prepared!",
+      "visual_search": "person looking inside car interior panel"
+    },
+    {
+      "section": "CTA and Loop",
+      "narration": "Like if this helped, follow for daily driving tips! Have you found your hidden levers? Comment yes or no.",
+      "visual_search": "modern car parked safely outdoors"
+    }
+  ],
+  "description": "Part 2 of the Emergency Lever Series! Discover where secret manual door and trunk release levers are hidden inside standard modern vehicles, and avoid 3 common mistakes when power fails.\n\nSubscribe to Learn in 60 Seconds for daily automotive tips, hidden car features, and life-saving driving safety hacks.",
+  "tags": [
+    "emergency lever",
+    "hidden car features",
+    "car safety",
+    "driving tips",
+    "trunk release",
+    "car secrets",
+    "driving mistakes",
+    "learn in 60 seconds"
+  ],
+  "hashtags": [
+    "#CarSafety",
+    "#DrivingTips",
+    "#CarHacks"
+  ],
+  "thumbnail_text": "SECRET EMERGENCY LEVER",
+  "why_it_will_work": "Directly continues the channel's top-performing video series ('Why Your Car Has This Emergency Lever') using a high-performing title structure and clear 3-mistake framework.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Emergency Lever Series",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Manual door release locations for electronic doors vary widely by vehicle make and model (e.g., floor levers, window switch area releases) and are not universally located in the door pocket as a 'secret pull lever'.; The glow-in-the-dark trunk release handle is a specific regulatory requirement in certain regions (such as the US FMVSS 401 for passenger cars with trunks) and does not apply globally or to all vehicle types like hatchbacks and SUVs."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-22T02:55:36.578675"
+}

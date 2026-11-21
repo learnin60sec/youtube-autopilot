@@ -1,0 +1,73 @@
+{
+  "title": "Myth vs Fact: Pumping Your Brakes in an Emergency",
+  "hook": "Stop pumping your brakes in an emergency!",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop pumping your brakes in an emergency!",
+      "visual_search": "car braking suddenly on wet road"
+    },
+    {
+      "section": "Myth",
+      "narration": "Many drivers still believe pumping the brake pedal helps you stop faster on slippery roads.",
+      "visual_search": "driver stepping on car brake pedal"
+    },
+    {
+      "section": "Fact",
+      "narration": "That's a dangerous myth. Modern vehicles feature ABS technology that automatically pulses your brakes up to twenty times per second. Pumping the pedal yourself actually overrides maximum ABS pressure and increases your stopping distance.",
+      "visual_search": "dashboard abs warning light close up"
+    },
+    {
+      "section": "CTA and Loop",
+      "narration": "Like if this helped, follow for daily driving tips! Did your driver's ed teach this? Comment yes or no.",
+      "visual_search": "driver sitting safely inside car"
+    }
+  ],
+  "description": "Debunking a major driving myth: should you pump your brakes in an emergency? Learn how modern Anti-lock Braking Systems (ABS) work and why pumping the pedal can actually increase your stopping distance on slippery roads.\n\nSubscribe to Learn in 60 Seconds for quick, actionable car tips and essential driving safety advice every single day.",
+  "tags": [
+    "driving tips",
+    "car safety",
+    "abs brakes",
+    "driving mistakes",
+    "emergency braking",
+    "how to drive",
+    "driving tips for beginners",
+    "car hacks",
+    "learn in 60 seconds"
+  ],
+  "hashtags": [
+    "#DrivingTips",
+    "#CarSafety",
+    "#Autos"
+  ],
+  "thumbnail_text": "PUMP BRAKES MYTH",
+  "why_it_will_work": "Capitalizes on popular search queries like 'driving tips for beginners' by addressing a common safety myth about emergency braking, matching the successful educational format of the channel.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-22T02:55:32.669425",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261122_025526_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261122_025526_1/thumbnail.jpg",
+  "duration_sec": 26.6,
+  "chapters": [],
+  "credits": [
+    "Video by izzet çakallı on Pexels: https://www.pexels.com/video/wet-asphalt-on-road-after-rain-13543395/",
+    "Video by Reyhan  🖤 on Pexels: https://www.pexels.com/video/raindrops-on-car-windshield-at-traffic-light-35759062/",
+    "Video by Polina Istomina on Pexels: https://www.pexels.com/video/dynamic-racing-car-pov-on-track-37622449/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-interior-dashboard-close-up-36474525/",
+    "Video by Asiye Betül Dokuyucu on Pexels: https://www.pexels.com/video/classic-car-dashboard-close-up-interior-36474526/",
+    "Video by Konstantin Mishchenko on Pexels: https://www.pexels.com/video/close-up-of-a-dashboard-5787612/",
+    "Video by Honye Sanges on Pexels: https://www.pexels.com/video/a-woman-smiling-while-sitting-on-a-car-seat-9035107/",
+    "Video by RDNE Stock project on Pexels: https://www.pexels.com/video/man-sitting-on-the-ambulance-driver-seat-6520256/"
+  ],
+  "playlist": "Driving & Car Tips in 60 Seconds",
+  "youtube_id": "DzTZQwcmAKk",
+  "youtube_url": "https://youtu.be/DzTZQwcmAKk",
+  "uploaded_at": "2026-11-22T02:57:09",
+  "privacy_locked": false
+}
