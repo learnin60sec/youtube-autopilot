@@ -1,0 +1,55 @@
+{
+  "title": "Why Your Car Has This Emergency Lever (Part 2)",
+  "hook": "Part 2! Stop ignoring this emergency trunk release.",
+  "script": [
+    {
+      "section": "Quiz Question",
+      "narration": "Part 2! Stop ignoring this emergency trunk release. Where is it hidden inside your car?",
+      "visual_search": "close up of car trunk interior darkness dramatic lighting"
+    },
+    {
+      "section": "Reveal & Explanation",
+      "narration": "Here is the answer. Inside every modern trunk lid, there is a glow-in-the-dark lever. Pulling it manually unlocks the latch mechanisms, allowing anyone trapped inside to escape even without electrical power.",
+      "visual_search": "hand pulling glow in the dark emergency release handle inside car trunk"
+    },
+    {
+      "section": "Outro & Loop",
+      "narration": "Like if this helped, follow for daily driving tips. Did you know your car had this? Comment yes or no. Before you drive,",
+      "visual_search": "car trunk closing smoothly stock footage"
+    }
+  ],
+  "description": "Part 2 of our Emergency Lever Series! Discover where to find your car's hidden glow-in-the-dark trunk escape handle.\n\nEvery standard vehicle is equipped with a mechanical release inside the trunk for safety during emergencies. Share this video to keep your friends and family safe!",
+  "tags": [
+    "emergency lever",
+    "car hacks",
+    "hidden car features",
+    "car safety tips",
+    "howto",
+    "trunk release handle",
+    "car tips",
+    "life hacks",
+    "vehicle secrets",
+    "auto safety"
+  ],
+  "hashtags": [
+    "#CarHacks",
+    "#EmergencyLever",
+    "#CarTips"
+  ],
+  "thumbnail_text": "SECRET TRUNK LEVER",
+  "why_it_will_work": "Directly delivers Part 2 of the top-performing Emergency Lever series in an engaging quiz format that drives comments and retention.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Emergency Lever Series",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: The claim that 'every modern trunk lid' has a glow-in-the-dark lever is misleading; emergency trunk releases are primarily mandated in North America for passenger cars with enclosed trunks, and are not universally required worldwide or present in all vehicle types like hatchbacks and SUVs."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-23T02:57:42.153550"
+}

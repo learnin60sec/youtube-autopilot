@@ -1,0 +1,149 @@
+{
+  "title": "Why Modern Car Bumpers Are Designed to Crush",
+  "hook": "Stop assuming a crushed car bumper means cheap manufacturing—it actually saved your life.",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "Stop assuming a crushed car bumper means cheap manufacturing—it actually saved your life. When people see a minor highway fender bender fold a modern bumper like paper, they often complain that older cars built out of solid steel were much tougher. But that steel toughness was actually deadly. By the end of this video, you will understand the exact physics behind modern vehicle crumple zones and how everyday car bumpers redirect thousands of pounds of lethal energy away from your seat. Make sure to stay tuned until near the end, where we reveal the hidden sensor trap inside modern bumpers that can turn a tiny parking scrape into a major safety hazard if ignored.",
+      "visual_search": "car bumper collision aftermath slow motion"
+    },
+    {
+      "section": "The Steel Bumper Myth",
+      "narration": "To understand why modern bumpers break so easily, we have to look back at cars from fifty years ago. Older vehicles featured heavy chrome-plated steel bumpers attached directly to rigid steel frames. In a crash, these steel bumpers barely dented. While the car looked completely fine after an impact, the people inside suffered severe injuries. Why? Because when a rigid object hits a solid barrier, the energy of that impact has to go somewhere. Since the vehicle did not absorb the force by deforming, that violent energy transferred directly through the frame into the human body inside the cabin. Think of it like dropping an egg inside a steel box versus a padded cardboard box. The steel box remains intact, but the egg inside shatters completely. But the next detail about deceleration physics explains exactly how modern engineers solved this fatal flaw.",
+      "visual_search": "vintage classic car heavy steel chrome bumper close up"
+    },
+    {
+      "section": "How Crumple Zones Control Physics",
+      "narration": "The fundamental law of impact physics comes down to deceleration time. When a moving car stops abruptly, the rate at which its speed drops to zero determines the force exerted on everything inside it. Modern bumpers and front-end crumple zones act like giant kinetic shock absorbers. By crushing, folding, and buckling intentionally upon impact, the front end of the car extends the time it takes for the passenger cabin to come to a complete standstill. Even extending that stopping time by just a fraction of a second dramatically drops the peak G-forces acting on your neck, chest, and internal organs. If you are learning something useful today, subscribe—it helps a lot! The bumper cover you see on the outside is just the very first layer of this multi-stage energy absorption system.",
+      "visual_search": "car crash test dummy simulation slow motion kinetic energy"
+    },
+    {
+      "section": "Anatomy of a Modern Car Bumper",
+      "narration": "What most drivers refer to as the bumper is actually just a cosmetic bumper cover made of lightweight plastic or composite material. Beneath that painted plastic shell lies a engineered three-part safety system. Directly behind the plastic skin sits an energy-absorbing foam or honeycomb plastic insert. This layer crushes instantly during low-speed impacts to absorb light bumps without structural frame damage. Behind the foam sits the actual structural bumper reinforcement bar, usually made of ultra-high-strength steel or aluminum. This heavy bar distributes the impact energy outward toward the vehicle frame rails. Finally, those frame rails are stamped with deliberate accordian-style notches. These notches ensure the metal buckles in a predictable pattern rather than bending into the passenger cabin. But wait until you see how this entire setup interacts with your cabin seat belt.",
+      "visual_search": "car front bumper assembly diagram internal parts exploded view"
+    },
+    {
+      "section": "The Cabin Safety Cage",
+      "narration": "Engineers design cars around a simple concept: sacrifice the outer ends to preserve the center capsule. Everything in front of the engine block and behind the rear axle is engineered to crumble easily. However, the passenger cabin itself—known as the safety cage—is built out of rigid, high-strength boron steel pillar structures that resist deformation at all costs. The collapsing front bumper absorbs the initial violent shock wave, while the cabin structure stays rigid to preserve your breathing space. Combined with seatbelt pretensioners and expanding airbags, the collapsing front end ensures that your body slows down at a manageable speed alongside the vehicle frame. But there is a hidden danger modern drivers face after even the smallest highway bumper tap.",
+      "visual_search": "car body frame chassis high strength steel safety cage diagram"
+    },
+    {
+      "section": "The Hidden Bumper Sensor Trap",
+      "narration": "Now for the critical point every driver needs to know. Modern bumpers are no longer just metal and foam—they are filled with delicate electronics. Tucked directly behind plastic bumper covers are radar units, ultrasonic parking sensors, blind-spot monitoring modules, and air-bag trigger accelerometers. If you get into a low-speed bump on the highway, the outer plastic cover might flex back into place and look completely unharmed. However, the underlying foam absorber may be permanently crushed, or the internal radar brackets may be misaligned by a fraction of a degree. A crushed internal absorber means your car loses its ability to absorb energy in the next collision. Furthermore, a misaligned radar unit can cause emergency automatic braking systems to misjudge distances or fail entirely. Never assume a clean bumper surface means zero internal damage; always have hidden structural components inspected after any collision. What car feature would you like us to explain next? Let us know down in the comments!",
+      "visual_search": "car mechanic inspecting modern car bumper sensors inside shop"
+    },
+    {
+      "section": "Recap and What to Watch Next",
+      "narration": "To recap: modern car bumpers are designed to crush so that impact time is extended, lowering the lethal crash forces transmitted to your body. Older steel cars survived crashes intact, but passed those dangerous forces onto the passengers. Inside every modern bumper is a system of foam, structural bars, and crumple zones designed to protect the central safety capsule. Always get your bumper electronics inspected after a light impact. If you want to master how your car works and keep your vehicle in peak condition, click the video on screen right now to learn another essential automotive tip from Learn in 60 Seconds!",
+      "visual_search": "modern car driving down clean highway sunny day"
+    }
+  ],
+  "description": "Ever wondered why modern car bumpers seem to crush so easily compared to old steel cars? In this video, we break down the simple physics behind bumper design, crumple zones, and crash energy absorption.\n\nLearn how sacrificial bumper materials, foam absorbers, and engineered frame rails protect your body during a highway collision. We also cover why even minor bumper scrapes need professional inspection due to hidden sensors.\n\nSubscribe to Learn in 60 Seconds for fast, factual explanations of automotive mechanics, safe driving concepts, and vehicle technology tips.",
+  "tags": [
+    "crumple zones explained",
+    "how car bumpers work",
+    "why bumpers are plastic",
+    "car safety physics",
+    "car crash physics",
+    "how car safety cages work",
+    "modern bumper design",
+    "car bumper sensors",
+    "driving safety tips",
+    "vehicle mechanics explained",
+    "autos and vehicles",
+    "car body frame design"
+  ],
+  "hashtags": [
+    "#CarSafety",
+    "#HowItWorks",
+    "#AutosAndVehicles"
+  ],
+  "thumbnail_text": "BUILT TO CRUSH",
+  "why_it_will_work": "It directly taps into trending interest around highway bumper collisions while serving our proven format of explaining hidden everyday automotive engineering features in clear, simple terms.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "long",
+  "language": "English",
+  "created_at": "2026-11-23T02:58:18.058153",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261123_025807_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261123_025807_1/thumbnail.jpg",
+  "duration_sec": 336.9,
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Intro"
+    },
+    {
+      "t": 38,
+      "title": "The Steel Bumper Myth"
+    },
+    {
+      "t": 91,
+      "title": "How Crumple Zones Control Physics"
+    },
+    {
+      "t": 139,
+      "title": "Anatomy of a Modern Car Bumper"
+    },
+    {
+      "t": 192,
+      "title": "The Cabin Safety Cage"
+    },
+    {
+      "t": 236,
+      "title": "The Hidden Bumper Sensor Trap"
+    },
+    {
+      "t": 299,
+      "title": "Recap and What to Watch Next"
+    }
+  ],
+  "credits": [
+    "Video by K on Pexels: https://www.pexels.com/video/car-driving-on-a-rainy-day-3999392/",
+    "Video by Alex Moisieiev on Pexels: https://www.pexels.com/video/bullet-holes-on-a-car-wreck-12676975/",
+    "Video by WeStarMoney  Rec on Pexels: https://www.pexels.com/video/a-drift-car-spinning-out-at-a-racetrack-10738994/",
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-a-car-driving-on-the-road-3999415/",
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-of-the-front-chrome-bumper-of-a-white-classic-mustang-3066415/",
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-of-classic-silver-vintage-car-31220496/",
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-of-vintage-car-hood-ornament-31220537/",
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-of-the-front-end-and-chrome-wheel-of-a-old-red-ford-car-3066461/",
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-of-vintage-car-headlight-and-grill-31220554/",
+    "Video by K on Pexels: https://www.pexels.com/video/close-up-of-vintage-car-headlight-31220532/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/sports-car-test-drive-5845158/",
+    "Video by StefWithAnF on Pexels: https://www.pexels.com/video/a-slow-motion-footage-of-a-team-supporting-the-racer-3583018/",
+    "Video by Christopher Rodriguez on Pexels: https://www.pexels.com/video/high-speed-car-testing-on-dynamometer-28722030/",
+    "Video by cottonbro studio on Pexels: https://www.pexels.com/video/man-filming-from-car-at-night-10480998/",
+    "Video by Anastasia  Shuraeva on Pexels: https://www.pexels.com/video/reflection-of-a-man-opening-the-hood-of-a-car-8470694/",
+    "Video by Jonathan Ellis on Pexels: https://www.pexels.com/video/classic-datsun-bluebird-detailed-front-view-34277718/",
+    "Video by svetlana photographer on Pexels: https://www.pexels.com/video/expert-car-repair-fixing-bumper-scratches-33129095/",
+    "Video by Francisco Marquez on Pexels: https://www.pexels.com/video/repainting-a-car-front-panel-4287377/",
+    "Video by Francisco Marquez on Pexels: https://www.pexels.com/video/man-air-brushing-the-car-bumper-4287374/",
+    "Video by Vitaliy  Izonin on Pexels: https://www.pexels.com/video/close-up-of-car-engine-in-workshop-32329385/",
+    "Video by Vitaliy  Izonin on Pexels: https://www.pexels.com/video/a-car-engine-with-its-hood-open-20693197/",
+    "Video by Josh Tavernier | iCapture Media Digital Marketing Agency on Pexels: https://www.pexels.com/video/the-exhaust-pipes-of-a-car-under-a-lift-18019165/",
+    "Video by Kiwi and Camera on Pexels: https://www.pexels.com/video/high-rise-construction-site-with-tower-crane-38957807/",
+    "Video by Oscar Ojambo on Pexels: https://www.pexels.com/video/close-up-view-of-worker-using-pliers-on-metal-frame-11478662/",
+    "Video by Engin Altundağ on Pexels: https://www.pexels.com/video/automated-car-factory-6450803/",
+    "Video by KoolShooters on Pexels: https://www.pexels.com/video/close-up-video-of-a-moving-car-8104040/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/a-mechanic-looking-at-the-rear-bumper-of-a-car-8987063/",
+    "Video by Vitaliy  Izonin on Pexels: https://www.pexels.com/video/auto-mechanic-inspecting-car-engine-in-garage-32329387/",
+    "Video by Artem Podrez on Pexels: https://www.pexels.com/video/man-inspecting-a-car-8987018/",
+    "Video by Vitaliy  Izonin on Pexels: https://www.pexels.com/video/mechanic-working-on-car-in-garage-32329405/",
+    "Video by Gustavo Fring on Pexels: https://www.pexels.com/video/a-mechanic-holding-a-lamp-while-checking-a-car-6870346/",
+    "Video by Vitaliy  Izonin on Pexels: https://www.pexels.com/video/modern-electric-car-in-garage-workshop-32329374/",
+    "Video by utopia 36 on Pexels: https://www.pexels.com/video/a-man-is-working-on-a-car-under-the-hood-18101989/",
+    "Video by Jordy Montesinos on Pexels: https://www.pexels.com/video/white-car-driving-on-suburban-highway-28735422/",
+    "Video by melbourne ross on Pexels: https://www.pexels.com/video/red-car-driving-on-suburban-street-30088042/",
+    "Video by Ambient_Nature_ Atmosphere on Pexels: https://www.pexels.com/video/time-lapse-of-a-person-driving-a-car-4738583/",
+    "Video by Kampus Production on Pexels: https://www.pexels.com/video/a-footage-of-a-top-down-car-strolling-on-the-road-8630308/"
+  ],
+  "playlist": "Full Guides (Long Videos)",
+  "youtube_id": "NJYExWct5cI",
+  "youtube_url": "https://youtu.be/NJYExWct5cI",
+  "uploaded_at": "2026-11-23T03:10:20",
+  "privacy_locked": false
+}

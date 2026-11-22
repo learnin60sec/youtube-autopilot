@@ -1,0 +1,57 @@
+{
+  "title": "How to Safely Emergency Stop on the Highway",
+  "hook": "Never pull over on highways like this.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Never pull over on highways like this.",
+      "visual_search": "dramatic car breaking down on busy highway at dusk"
+    },
+    {
+      "section": "Steps 1 and 2",
+      "narration": "Step one: Signal early and steer completely onto the right shoulder, far away from traffic. Step two: Turn on your hazard lights immediately so oncoming cars see you.",
+      "visual_search": "car pulling over safely to highway shoulder hazard lights flashing"
+    },
+    {
+      "section": "Step 3",
+      "narration": "Step three: Stay inside your vehicle with your seatbelt securely fastened while waiting for help.",
+      "visual_search": "driver sitting safely inside car looking out side mirror"
+    },
+    {
+      "section": "Outro & Loop",
+      "narration": "Like if this helped, follow for daily driving tips. Have you ever pulled over on a highway? Comment yes or no. If your car breaks down,",
+      "visual_search": "highway bumper traffic flowing past safely"
+    }
+  ],
+  "description": "Learn the 3 essential steps to pulling over safely on a busy highway during an emergency breakdown.\n\nFollowing proper highway safety procedures protects you and prevents dangerous rear-end crashes. Save these steps for your next drive!",
+  "tags": [
+    "driving tips",
+    "highway safety",
+    "emergency driving",
+    "car breakdown",
+    "driving tips for beginners",
+    "new driver tips",
+    "car safety",
+    "highway breakdown",
+    "driving hacks",
+    "auto safety"
+  ],
+  "hashtags": [
+    "#DrivingTips",
+    "#CarSafety",
+    "#HighwaySafety"
+  ],
+  "thumbnail_text": "HIGHWAY EMERGENCY FIX",
+  "why_it_will_work": "Leverages trending interest in highway traffic situations and safety while capitalizing on high-performing driving safety tips.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Referring to traffic as 'oncoming cars' is inaccurate because vehicles approach from behind on a highway shoulder.; Instructing drivers to always stay inside the vehicle is misleading, as safety guidelines in many regions (such as the UK Highway Code) recommend exiting the car to wait behind a protective barrier if it is safe to do so."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-23T02:57:35.399837"
+}
