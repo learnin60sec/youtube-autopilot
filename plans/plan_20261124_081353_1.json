@@ -1,0 +1,55 @@
+{
+  "title": "Why Rear Car Windows Never Roll Down Completely",
+  "hook": "Stop forcing your rear car windows down.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop forcing your rear car windows down.",
+      "visual_search": "car window rolling down halfway closeup"
+    },
+    {
+      "section": "Body",
+      "narration": "Ever notice how back windows stop short? It is not a mechanical glitch or a child lock safety feature.",
+      "visual_search": "side profile car wheel arch design"
+    },
+    {
+      "section": "Body",
+      "narration": "Rear doors sit directly over the car wheel arches. The lower door frame narrows to clear the tire, leaving zero empty space inside the door panel for the glass to slide lower.",
+      "visual_search": "car door internal mechanism cutout"
+    },
+    {
+      "section": "CTA and Loop",
+      "narration": "Like and follow for daily car tips! Did you know this design secret? Next time your window stops halfway, remember to...",
+      "visual_search": "driver adjusting window button inside car"
+    }
+  ],
+  "description": "Ever wondered why the back windows in your car never roll all the way down? Learn the smart engineering reason behind rear window design in under 60 seconds.\n\nSubscribe to Learn in 60 Seconds for daily practical driving tips and hidden car features!",
+  "tags": [
+    "car tips",
+    "driving tips",
+    "car features",
+    "car secrets",
+    "auto advice",
+    "learn in 60 seconds",
+    "car hacks",
+    "driving hacks"
+  ],
+  "hashtags": [
+    "#cartips",
+    "#drivingtips",
+    "#carhacks"
+  ],
+  "thumbnail_text": "REAR WINDOW SECRET",
+  "why_it_will_work": "Practical everyday car mysteries generate high curiosity and watch time on short-form platforms, aligning with the channel's top-performing automotive video format.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: The claim that rear car windows 'never' roll down completely is false, as many car models feature rear windows that roll down fully.; Stating that child safety is not a reason is misleading, as some manufacturers historically limited rear window travel specifically for child safety."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-24T08:14:11.926837"
+}

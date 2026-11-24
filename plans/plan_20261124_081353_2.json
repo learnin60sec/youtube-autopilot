@@ -1,0 +1,58 @@
+{
+  "title": "Secret Manual Latching Levers Inside Your Car (Part 2)",
+  "hook": "Part 2! Find your hidden car emergency releases.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Part 2! Find your hidden car emergency releases.",
+      "visual_search": "person pulling emergency lever in car trunk"
+    },
+    {
+      "section": "Body",
+      "narration": "What happens if your car loses total electrical power while you are stuck inside? Modern vehicles have mechanical override releases concealed from sight.",
+      "visual_search": "glowing trunk release handle inside car"
+    },
+    {
+      "section": "Body",
+      "narration": "Inside every trunk, a glow-in-the-dark pull tab manually opens the latch. For electronic doors, lift the side pocket floor panel to reveal a hidden release cord that mechanically pops the door open without battery power.",
+      "visual_search": "finger opening hidden panel inside car door"
+    },
+    {
+      "section": "CTA and Loop",
+      "narration": "Follow for essential safety tips! Do you know where your release is? Before power fails, remember...",
+      "visual_search": "driver sitting inside vehicle looking down"
+    }
+  ],
+  "description": "Part 2 of our Emergency Lever Series! Learn how to find hidden manual trunk and door releases when your vehicle's electronic power fails completely.\n\nSubscribe to Learn in 60 Seconds for essential automotive safety advice and quick car tutorials!",
+  "tags": [
+    "car emergency",
+    "hidden car features",
+    "car door release",
+    "trunk release handle",
+    "driving safety",
+    "car hacks",
+    "emergency lever",
+    "learn in 60 seconds"
+  ],
+  "hashtags": [
+    "#carsafety",
+    "#carhacks",
+    "#drivingtips"
+  ],
+  "thumbnail_text": "HIDDEN DOOR RELEASE",
+  "why_it_will_work": "Follows up directly on Part 1 of the high-performing Emergency Lever Series, delivering practical vehicle safety knowledge that encourages high retention.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Emergency Lever Series",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Claiming a glow-in-the-dark pull tab exists inside 'every' trunk is false; emergency trunk releases are legally mandated in some countries (like the US since 2002), but are not present in all vehicles worldwide or in older models.; The location of manual emergency releases for electronic doors varies widely by car manufacturer and model (e.g., floor sills, pull latches, under covers), so stating it is universally under the side pocket floor panel is misleading."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-24T08:14:30.613701"
+}
