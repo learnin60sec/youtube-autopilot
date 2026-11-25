@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-25T00:17:06.335872+00:00",
-  "subscribers": 66,
-  "total_views": 79160,
-  "public_videos": 103,
-  "shorts_views_90_days": 73524,
+  "generated_at": "2026-11-25T23:56:58.362762+00:00",
+  "subscribers": 67,
+  "total_views": 79357,
+  "public_videos": 104,
+  "shorts_views_90_days": 73545,
   "best": [
     {
       "id": "DzTZQwcmAKk",
@@ -11,29 +11,29 @@
       "views": 1003,
       "likes": 7,
       "comments": 0,
-      "age_days": 3.1,
-      "views_per_day": 321.7,
+      "age_days": 4.1,
+      "views_per_day": 244.4,
       "like_rate_pct": 0.7,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop pumping your brakes in an emergency!",
       "published": "2026-11-21T21:27:26+00:00",
-      "score": 25.44
+      "score": 24.25
     },
     {
       "id": "X5iV--5zzWk",
       "title": "3 Common Windshield Defroster Mistakes Everyone Makes",
-      "views": 1041,
+      "views": 1043,
       "likes": 12,
       "comments": 2,
-      "age_days": 6.1,
-      "views_per_day": 171.8,
+      "age_days": 7.0,
+      "views_per_day": 148.1,
       "like_rate_pct": 1.2,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop using your defroster the wrong way.",
       "published": "2026-11-18T22:52:27+00:00",
-      "score": 23.98
+      "score": 23.33
     },
     {
       "id": "-mthBmWnTAA",
@@ -41,44 +41,44 @@
       "views": 973,
       "likes": 9,
       "comments": 0,
-      "age_days": 5.0,
-      "views_per_day": 192.8,
+      "age_days": 6.0,
+      "views_per_day": 161.3,
       "like_rate_pct": 0.9,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Stop! Never open your doors like this.",
       "published": "2026-11-19T23:09:14+00:00",
-      "score": 23.32
+      "score": 22.55
     },
     {
       "id": "U_MUh-RMhbM",
       "title": "Why Your Windshield Wipers Have This Hidden Position",
-      "views": 974,
+      "views": 975,
       "likes": 7,
       "comments": 0,
-      "age_days": 5.0,
-      "views_per_day": 193.0,
+      "age_days": 6.0,
+      "views_per_day": 161.6,
       "like_rate_pct": 0.7,
       "format": "short",
       "category": "Autos & Vehicles",
       "hook": "Most drivers park their wipers completely wrong.",
       "published": "2026-11-19T23:09:29+00:00",
-      "score": 23.23
+      "score": 22.46
     },
     {
       "id": "01Xm7Eq3mjI",
       "title": "3 Motorcycle Turning Mistakes Every Beginner Makes",
-      "views": 4885,
+      "views": 5044,
       "likes": 48,
       "comments": 3,
-      "age_days": 53.3,
-      "views_per_day": 91.6,
+      "age_days": 54.3,
+      "views_per_day": 92.9,
       "like_rate_pct": 1.0,
       "format": "long",
       "category": "Autos & Vehicles",
       "hook": "If your motorcycle feels heavy and awkward every single time you try to navigate a curve, you are probably making one of three very common beginner mistakes.",
       "published": "2026-10-02T16:39:22+00:00",
-      "score": 21.67
+      "score": 21.73
     }
   ],
   "worst": [
@@ -88,7 +88,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "age_days": 26.1,
+      "age_days": 27.1,
       "views_per_day": 0.3,
       "like_rate_pct": 0.0,
       "format": "long",
@@ -103,7 +103,7 @@
       "views": 6,
       "likes": 0,
       "comments": 0,
-      "age_days": 28.2,
+      "age_days": 29.1,
       "views_per_day": 0.2,
       "like_rate_pct": 0.0,
       "format": "long",
@@ -118,7 +118,7 @@
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "age_days": 55.3,
+      "age_days": 56.3,
       "views_per_day": 0.2,
       "like_rate_pct": 0.0,
       "format": "short",
@@ -129,21 +129,21 @@
     }
   ],
   "category_views_per_day": {
-    "Autos & Vehicles": 40.3,
-    "Howto & Style": 33.5,
-    "Science & Technology": 7.9,
-    "Education": 0.7
+    "Autos & Vehicles": 36.5,
+    "Howto & Style": 31.2,
+    "Science & Technology": 7.7,
+    "Education": 0.6
   },
   "category_video_counts": {
-    "Autos & Vehicles": 93,
+    "Autos & Vehicles": 94,
     "Howto & Style": 6,
     "Science & Technology": 3,
     "Education": 1
   },
   "retention": {
     "avg_view_pct_shorts": 71.9,
-    "avg_view_pct_long": 46.2,
-    "long_watch_hours_90d": 100.3,
+    "avg_view_pct_long": 46.0,
+    "long_watch_hours_90d": 104.2,
     "tips": [],
     "best_for_subscribers": [
       {
