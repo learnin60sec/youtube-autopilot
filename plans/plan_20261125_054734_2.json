@@ -1,0 +1,58 @@
+{
+  "title": "How to Escape a Locked Car (Part 2)",
+  "hook": "Part 2! Hidden levers save your life.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Part 2! Hidden levers save your life.",
+      "visual_search": "car interior locked door handle emergency"
+    },
+    {
+      "section": "Myth vs Fact",
+      "narration": "Myth: If electrical power fails, modern cars lock you inside permanently. Fact: Federal law requires every car trunk to have a glowing manual emergency release handle. Furthermore, vehicles with electronic doors feature hidden manual levers beneath the door panels or floor.",
+      "visual_search": "glowing trunk release lever pull inside car"
+    },
+    {
+      "section": "CTA and Question",
+      "narration": "Like if this helped, follow for daily car tips! Did you know about trunk levers? Comment below.",
+      "visual_search": "driver pulling emergency lever inside car"
+    },
+    {
+      "section": "Loop Lead-in",
+      "narration": "Always remember this emergency shortcut when",
+      "visual_search": "car dashboard lights off dead battery"
+    }
+  ],
+  "description": "Part 2 of our Emergency Lever Series! Discover how to locate emergency trunk release cables and manual door overrides when your car loses battery power.\n\nSubscribe to Learn in 60 Seconds for daily vehicle hacks and emergency safety tips.",
+  "tags": [
+    "emergency trunk release",
+    "car emergency lever",
+    "life hacks you didnt know",
+    "car safety tips",
+    "how to escape locked car",
+    "car hacks",
+    "learn in 60 seconds",
+    "auto safety"
+  ],
+  "hashtags": [
+    "#CarHacks",
+    "#SafetyTips",
+    "#LifeHacks"
+  ],
+  "thumbnail_text": "SECRET EMERGENCY LEVERS",
+  "why_it_will_work": "Fulfills the promised Part 2 of the top-performing Emergency Lever Series, satisfying existing audience demand while capturing search traffic for car life hacks.",
+  "fact_check_notes": [],
+  "series": {
+    "name": "Emergency Lever Series",
+    "part": 2
+  },
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Federal trunk release requirements (FMVSS 401) only apply to US passenger cars built after September 1, 2001, not all cars globally or older vehicles.; Manual emergency releases for electronic doors vary widely by make and model and are not universally located beneath door panels or the floor."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-25T05:47:44.999640"
+}

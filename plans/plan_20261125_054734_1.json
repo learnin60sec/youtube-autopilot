@@ -1,0 +1,55 @@
+{
+  "title": "Why Bikers Push Right to Turn Left",
+  "hook": "Pushing right turns your motorcycle left.",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Pushing right turns your motorcycle left.",
+      "visual_search": "motorcycle riding fast on highway curve close up"
+    },
+    {
+      "section": "Explanation",
+      "narration": "It's called countersteering, and every biker relies on it to stay safe. Above jogging speeds, gently pushing the right handlebar forward instantly leans the bike right, guiding you smoothly into the bend.",
+      "visual_search": "motorcycle rider handlebars push countersteering demo"
+    },
+    {
+      "section": "CTA and Question",
+      "narration": "Like this tip and follow for daily driving advice! Did you know this trick? Comment yes or no.",
+      "visual_search": "biker riding into sunset on highway"
+    },
+    {
+      "section": "Loop Lead-in",
+      "narration": "Whenever you enter a fast curve,",
+      "visual_search": "motorcycle taking sharp turn on road"
+    }
+  ],
+  "description": "Learn the hidden physics of motorcycle turning! Countersteering is the most essential skill for riding safely on open roads and highways.\n\nSubscribe to Learn in 60 Seconds for quick, actionable driving tips and automotive facts every single day.",
+  "tags": [
+    "motorcycle tips",
+    "how to drive a motorcycle",
+    "countersteering",
+    "biker tips",
+    "motorcycle safety",
+    "driving tips for beginners",
+    "riding hacks",
+    "learn in 60 seconds"
+  ],
+  "hashtags": [
+    "#MotorcycleTips",
+    "#BikerLife",
+    "#DrivingTips"
+  ],
+  "thumbnail_text": "COUNTERSTEERING EXPLAINED",
+  "why_it_will_work": "Leverages the strong performance of beginner motorcycle tips on the channel and targets high search volume for motorcycle driving guidance.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Pushing the right handlebar forward leans and turns the motorcycle to the right, not to the left ('push right, go right').; The statement 'pushing right turns your motorcycle left' contradicts basic motorcycle physics and countersteering principles."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-25T05:47:38.117172"
+}
