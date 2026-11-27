@@ -1,0 +1,139 @@
+{
+  "title": "3 Common Left Turn Mistakes Every New Driver Makes",
+  "hook": "Stop making these three dangerous mistakes when making a left turn at a traffic light.",
+  "script": [
+    {
+      "section": "Intro",
+      "narration": "Stop making these three dangerous mistakes when making a left turn at a traffic light. Turning left across oncoming traffic is one of the most common causes of accidents for new drivers, and chances are you are making at least one of these critical errors right now. Every day, thousands of drivers pull up to a green light, wait for a gap in traffic, and then turn incorrectly, putting themselves and everyone else on the road at serious risk. Whether you are practicing for your behind-the-wheel driving test or you just got your license last week, mastering this maneuver is essential for your safety. Today, we are breaking down the three most common left turn mistakes that instantly frustrate other drivers, lose points on driving exams, and lead to preventable fender benders. We will look at why turning your steering wheel too early while waiting in the intersection can cause a catastrophic rear-end crash, how improper positioning leaves you vulnerable, and why missing a simple visual check could ruin your day. Stick around until the very end because the final mistake is the one most drivers do not even realize they are making. Let us dive right into mistake number one.",
+      "visual_search": "driver pov making left turn at busy intersection"
+    },
+    {
+      "section": "Mistake 1: Wheels Turned Too Early",
+      "narration": "The first major hazard is turning your steering wheel too early while waiting in the intersection. Many new drivers pull forward and angle their front tires to the left immediately, watching eagerly for a gap in oncoming traffic. It feels like you are ready to make the move faster, but it is actually a massive safety risk. If another vehicle accidentally rear-ends your car while your wheels are already turned, the impact will push your vehicle directly sideways into the oncoming traffic lanes instead of safely straight ahead. Keeping your car from getting pushed into oncoming traffic is entirely about geometry and patience. To avoid this, always keep your front steering wheel pointed completely straight ahead while you wait for your gap, even if it feels a little unnatural at first. Only start your turn once the path is fully clear and you are ready to complete the movement. But fixing your wheel direction is only half the battle. If you pull up too far or stop too short inside that exact same intersection, you create a completely different set of dangerous problems.",
+      "visual_search": "close up of car tires pointing straight at intersection"
+    },
+    {
+      "section": "Mistake 2: Poor Intersection Positioning",
+      "narration": "The second mistake is poor intersection positioning, which usually happens when drivers stop too far back or cut the corner way too sharply. When you approach a green light to make a left turn, you should drive straight forward into the middle of the intersection—often called the box—before you even think about turning your steering wheel. If you stay behind the crosswalk line while waiting, or if you start your turn before you reach the center, you end up cutting diagonally across oncoming lanes. This puts the front of your car right in the path of straight-moving traffic coming from the opposite direction, which is a major hazard. Instead, creep straight into the intersection, keep your wheels pointing straight ahead while you wait for a gap in traffic, and only start turning when it is your turn to go. Take your time and own your space in the box. If you're learning something, subscribe, it helps a lot. Up next, we are going to look at a blind spot that catches almost every single beginner off guard.",
+      "visual_search": "car waiting in middle of intersection to turn left"
+    },
+    {
+      "section": "Midpoint Check",
+      "narration": "Let's take a quick pause to check your progress. Think about the last time you approached a busy traffic light to make a left turn. Did you find yourself rolling out too far into the middle, or did you hesitate and miss your safe opening in the traffic? Driving a car feels overwhelming at first because your brain is trying to process a dozen different things all at once: checking your mirrors, watching the oncoming cars, signaling, and keeping your eyes on the traffic light changing overhead. Making mistakes during this learning phase is completely normal, and every confident driver on the road today went through the exact same awkward learning process. The key is catching these small habits early before they become permanent muscle memory. Take a deep breath, adjust your grip on the steering wheel, and remember that smoothness always beats speed when you are behind the wheel. Now that you have a better grasp of how to position your car safely in the intersection, we need to talk about the final, most dangerous oversight that causes more failed driving tests than almost anything else. Wait until you see what happens when drivers completely forget to check one specific blind spot right before they hit the gas.",
+      "visual_search": "person pressing subscribe button graphic animation"
+    },
+    {
+      "section": "Mistake 3: Failing to Check Pedestrians",
+      "narration": "The third mistake, and by far the most dangerous, is focusing entirely on oncoming traffic while completely ignoring pedestrians crossing the street you are turning into. When a long-awaited gap in cars finally opens up, the urge is to hit the gas immediately to clear the intersection. But in doing so, drivers often forget to look at the side street crosswalk. Pedestrians crossing the road almost always have the right of way, and failing to yield to them is an instant fail on any driving test. The rule is simple: never start your turn until your eyes have scanned that crosswalk for people on foot. Now that you know the three major traps, there is one final habit that separates passing drivers from failing ones.",
+      "visual_search": "pedestrians crossing street while car waits to turn"
+    },
+    {
+      "section": "Recap And Outro",
+      "narration": "To wrap everything up, mastering left turns just takes a little bit of practice and mindfulness. Remember our three main rules: keep your front wheels straight while you wait for a gap in the traffic so you don't get pushed into oncoming lanes if you are ever rear-ended. Next, drive properly into the intersection instead of hanging back, which gives you a much better view of what is happening around you. Finally, always scan your destination crosswalk for pedestrians before you complete your turn. Building these habits early will make you feel so much more confident behind the wheel every single day. What is the hardest part of driving for you? Let us know in the comments below, and make sure to watch our other driving tip videos on the channel right now to keep improving your skills.",
+      "visual_search": "car driving safely through green light intersection"
+    }
+  ],
+  "description": "Learn the three most common left turn mistakes new drivers make in the USA. Improve your driving skills, avoid traffic tickets, and stay safe on the road with these quick driving tips for beginners.",
+  "tags": [
+    "driving tips for beginners",
+    "driving tips turning",
+    "how to drive a car",
+    "driving tips for new drivers",
+    "left turn safety",
+    "driver education",
+    "beginner driving lessons",
+    "driving test tips",
+    "car safety tips",
+    "road safety",
+    "driving mistakes",
+    "how to drive better",
+    "driving basics"
+  ],
+  "hashtags": [
+    "#DrivingTips",
+    "#NewDriver",
+    "#CarSafety"
+  ],
+  "thumbnail_text": "STOP MAKING THIS TURN MISTAKE",
+  "why_it_will_work": "Targets high-volume search queries for new drivers and driving tips while using a proven 3-mistake structure that performs well on the channel.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "uploaded",
+  "quality_problems": [],
+  "ai_provider": "gemini",
+  "format": "long",
+  "language": "English",
+  "created_at": "2026-11-27T05:45:05.774586",
+  "video_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261127_054458_1/video.mp4",
+  "thumbnail_file": "/home/runner/work/youtube-autopilot/youtube-autopilot/videos/plan_20261127_054458_1/thumbnail.jpg",
+  "duration_sec": 318.2,
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Intro"
+    },
+    {
+      "t": 63,
+      "title": "Mistake 1: Wheels Turned Too Early"
+    },
+    {
+      "t": 121,
+      "title": "Mistake 2: Poor Intersection Positioning"
+    },
+    {
+      "t": 174,
+      "title": "Midpoint Check"
+    },
+    {
+      "t": 238,
+      "title": "Mistake 3: Failing to Check Pedestrians"
+    },
+    {
+      "t": 278,
+      "title": "Recap And Outro"
+    }
+  ],
+  "credits": [
+    "Video by Marc Espejo on Pexels: https://www.pexels.com/video/busy-city-crosswalk-overhead-view-41114378/",
+    "Video by Erik Mclean on Pexels: https://www.pexels.com/video/driving-pov-inside-modern-car-interior-41269613/",
+    "Video by Jabriel on Pexels: https://www.pexels.com/video/scenic-drive-through-suburban-intersection-31901297/",
+    "Video by Tom Shutkin on Pexels: https://www.pexels.com/video/pov-motorcycle-ride-through-city-streets-40373665/",
+    "Video by Rholdan Ortiz on Pexels: https://www.pexels.com/video/footage-of-a-woman-waiting-at-the-traffic-light-3704118/",
+    "Video by Aleks Magnusson on Pexels: https://www.pexels.com/video/dash-cam-view-of-the-road-5921059/",
+    "Video by Dimitri Baret on Pexels: https://www.pexels.com/video/videographie-0205-15828653/",
+    "Video by Denys Gromov on Pexels: https://www.pexels.com/video/close-up-view-of-car-driving-off-road-10358959/",
+    "Video by Jonathan Ellis on Pexels: https://www.pexels.com/video/close-up-of-classic-red-car-with-racing-details-34277722/",
+    "Video by KoolShooters on Pexels: https://www.pexels.com/video/close-up-video-of-a-moving-car-8104040/",
+    "Video by WeStarMoney  Rec on Pexels: https://www.pexels.com/video/close-up-of-a-chrome-wheel-on-a-car-10738784/",
+    "Video by Deen Docs on Pexels: https://www.pexels.com/video/close-up-of-muddy-car-driving-on-african-road-35245053/",
+    "Video by Hakan Kayahan on Pexels: https://www.pexels.com/video/close-up-of-car-tire-on-a-dirt-road-29902177/",
+    "Video by Nigel Foote on Pexels: https://www.pexels.com/video/car-waiting-at-train-crossing-on-sunny-day-35540350/",
+    "Video by Zuzanna Musial on Pexels: https://www.pexels.com/video/a-busy-intersection-1390287/",
+    "Video by Jasleen Singh on Pexels: https://www.pexels.com/video/car-driving-around-roundabout-at-twilight-30685734/",
+    "Video by JMT 35 on Pexels: https://www.pexels.com/video/busy-urban-intersection-with-traffic-and-pedestrians-34507814/",
+    "Video by Zuzanna Musial on Pexels: https://www.pexels.com/video/city-driving-in-an-ordinary-day-1390281/",
+    "Video by Zuzanna Musial on Pexels: https://www.pexels.com/video/ordinary-day-in-the-city-1388365/",
+    "Video by Samar Layek on Pexels: https://www.pexels.com/video/youtube-subscribe-button-animation-10166813/",
+    "Video by Chérif Golden on Pexels: https://www.pexels.com/video/digital-animation-of-a-youtube-subscribe-button-and-bell-16050459/",
+    "Video by Samar Layek on Pexels: https://www.pexels.com/video/subscribe-button-animation-10166811/",
+    "Video by GulzaarCoder on Pexels: https://www.pexels.com/video/a-green-screen-with-a-button-that-says-subscribe-4213655/",
+    "Video by FAHIMG on Pexels: https://www.pexels.com/video/a-black-and-white-image-of-a-person-with-a-white-arrow-pointing-to-the-word-subscribe-3926340/",
+    "Video by Fayazahmad Dae on Pexels: https://www.pexels.com/video/a-green-screen-with-a-button-that-says-subscribe-4865827/",
+    "Video by Tech VideoStack on Pexels: https://www.pexels.com/video/subscribe-button-on-green-screen-3978049/",
+    "Video by utopia 36 on Pexels: https://www.pexels.com/video/pedestrians-waiting-to-cross-a-busy-city-street-12769743/",
+    "Video by Sururi Ballıdağ Director on Pexels: https://www.pexels.com/video/rainy-urban-street-scene-with-pedestrians-crossing-35269883/",
+    "Video by Kash Tahen on Pexels: https://www.pexels.com/video/construction-workers-waiting-cars-to-pass-by-to-cross-street-7259509/",
+    "Video by K on Pexels: https://www.pexels.com/video/people-waiting-to-cross-the-street-on-the-pedestrian-lane-2836277/",
+    "Video by PNW Production on Pexels: https://www.pexels.com/video/a-couple-standing-on-the-street-8574557/",
+    "Video by Steven Burger on Pexels: https://www.pexels.com/video/cars-passing-by-the-road-with-green-traffic-light-4299037/",
+    "Video by Ahnaf Piash on Pexels: https://www.pexels.com/video/cars-are-driving-on-the-road-at-an-intersection-25258881/",
+    "Video by K on Pexels: https://www.pexels.com/video/a-car-driving-down-the-road-with-a-blurry-view-18337374/",
+    "Video by Evgenij Mikhailov on Pexels: https://www.pexels.com/video/time-lapse-of-night-traffic-at-city-intersection-36443795/"
+  ],
+  "playlist": "Full Guides (Long Videos)",
+  "youtube_id": "Y6UfrvEhxCo",
+  "youtube_url": "https://youtu.be/Y6UfrvEhxCo",
+  "uploaded_at": "2026-11-27T05:54:59",
+  "privacy_locked": false
+}

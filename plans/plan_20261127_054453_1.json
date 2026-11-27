@@ -1,0 +1,52 @@
+{
+  "title": "Stop Using Your Cruise Control In The Rain",
+  "hook": "Stop using cruise control in rain!",
+  "script": [
+    {
+      "section": "Hook",
+      "narration": "Stop using cruise control in rain!",
+      "visual_search": "car driving on wet highway heavy rain view from inside"
+    },
+    {
+      "section": "Body",
+      "narration": "If your tires hydroplane, cruise control keeps sending power to the wheels. This makes your car instantly spin out of control because the tires lose traction and panic the system.",
+      "visual_search": "car tire splashing water puddle close up slow motion"
+    },
+    {
+      "section": "Call to action",
+      "narration": "Always drive manually in storms. Like if this helped, follow for daily driving tips. Did you know this? Comment yes or no, because",
+      "visual_search": "hands on steering wheel driving on wet road"
+    }
+  ],
+  "description": "Learn a vital driving tip that keeps you safe on wet roads. Discover why using cruise control during heavy rain can cause you to hydroplane and lose control of your vehicle instantly. Watch to master essential rain driving safety tips.",
+  "tags": [
+    "driving tips",
+    "driving tips for beginners",
+    "driving tips and tricks",
+    "rain driving",
+    "hydroplaning",
+    "cruise control",
+    "car safety",
+    "driver education",
+    "learn in 60 seconds",
+    "highway safety"
+  ],
+  "hashtags": [
+    "#drivingtips",
+    "#carsafety",
+    "#shorts"
+  ],
+  "thumbnail_text": "CRUISE CONTROL DANGER",
+  "why_it_will_work": "Leverages real search trends for driving tips while targeting a high-retention safety warning format that performs exceptionally well on the channel.",
+  "fact_check_notes": [],
+  "series": null,
+  "category": "Autos & Vehicles",
+  "status": "draft",
+  "quality_problems": [
+    "fact-check: Cruise control does not send extra power to the wheels when hydroplaning; it simply maintains the current speed.; The explanation of how cruise control interacts with a hydroplaning vehicle is mechanically inaccurate and misleading."
+  ],
+  "ai_provider": "gemini",
+  "format": "short",
+  "language": "English",
+  "created_at": "2026-11-27T05:44:53.822178"
+}
